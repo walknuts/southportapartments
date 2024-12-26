@@ -9,7 +9,7 @@ meta_title: Southport Apartments - Premium Jekyll Theme
 hero:
   enabled: true
   heading: "Southport Apartments"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  sub_heading: "On the shores of beautiful Lake Tuggeranong"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
