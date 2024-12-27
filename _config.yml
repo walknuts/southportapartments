@@ -112,9 +112,9 @@ colors:
   header_text_dark: "#f5f5ec"
 
 fonts:
-  use_google_fonts: false
+  use_google_fonts: true
   google_fonts_url: "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Source+Code+Pro&family=Source+Sans+3:wght@300;400;700&display=swap"
-  use_self_hosted_fonts: true # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css
+  use_self_hosted_fonts: false # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css
   heading: "Lato"
   base: "'Source Sans 3'"
   monospace: "'Source Code Pro'"
