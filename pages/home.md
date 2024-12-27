@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Southport Apartments"
+title: "Jekyll Advance"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: Southport Apartments - Premium Jekyll Theme
+meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
