@@ -1,6 +1,6 @@
 # 0 HOME
 
-![](./attachments/0-HOME-attachment-001.heic)
+![](./attachments/0-HOME-attachment-001.jpg)
 
 ![](./attachments/0-HOME-attachment-002.png)
 
@@ -18,7 +18,7 @@ Please report errors and suggestions to our Webmaster.
 
 # 0 HOME
 
-![](./attachments/0-HOME-attachment-004.heic)
+![](./attachments/0-HOME-attachment-004.jpg)
 
 ![](./attachments/0-HOME-attachment-005.png)
 
@@ -36,7 +36,7 @@ Please report errors and suggestions to our Webmaster.
 
 # 0 HOME
 
-![](./attachments/0-HOME-attachment-007.heic)
+![](./attachments/0-HOME-attachment-007.jpg)
 
 ![](./attachments/0-HOME-attachment-008.png)
 

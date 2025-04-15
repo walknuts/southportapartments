@@ -35,23 +35,24 @@ You’ll love living where convenience meets nature:
 
 Taste the nature …
 
-![](./attachments/1-ABOUT-attachment-004.heic)
+![](./attachments/1-ABOUT-attachment-004.jpg)
 
 … and then the coffee …
 
-![](./attachments/1-ABOUT-attachment-005.heic)
+![](./attachments/1-ABOUT-attachment-005.jpg)
 
-![](./attachments/1-ABOUT-attachment-006.heic)
+![](./attachments/1-ABOUT-attachment-006.jpg)
 
 There’s also the Hardware Cafe in Bunnings and the Vietnamese restaurant in our building (see ‘Our shops’ below).
 
 ## DESIGN AND BUILD
 
-![](./attachments/1-ABOUT-attachment-007.heic)
+![](./attachments/1-ABOUT-attachment-007.jpg)
 
 Southport was a project of GEOCON, Canberra’s largest residential developer and the fifth-largest in Australia. Eight years later, GEOCON still supports us, including supplying information for this website.
 
-Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
+Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which
+have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
 
 Southport has two buildings:
 
@@ -60,13 +61,13 @@ Southport has two buildings:
 
 (\* We are considering renaming the buildings more imaginatively and descriptively than the developer’s building schedule.)
 
-![](./attachments/1-ABOUT-attachment-008.heic)
+![](./attachments/1-ABOUT-attachment-008.jpg)
 
 ## AMENITIES
 
 ##
 
-![](./attachments/1-ABOUT-attachment-009.heic)
+![](./attachments/1-ABOUT-attachment-009.jpg)
 
 Southport’s amenities include:
 
@@ -85,15 +86,16 @@ Here’s more details …
 
 Stage 1’s sheltered central courtyard on Level 1 has two heated pools surrounded by tables, chairs, a sunken lounge and a garden.
 
-![](./attachments/1-ABOUT-attachment-010.heic)
+![](./attachments/1-ABOUT-attachment-010.jpg)
 
-Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage pool use after 10:00 pm.
+Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage
+pool use after 10:00 pm.
 
 ## GYM
 
 Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers for when you’ve finished your workout.
 
-![](./attachments/1-ABOUT-attachment-011.heic)
+![](./attachments/1-ABOUT-attachment-011.jpg)
 
 ## SAUNA
 
@@ -101,7 +103,7 @@ Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers 
 
 Next to the gym is the sauna.
 
-**![](./attachments/1-ABOUT-attachment-012.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-012.jpg)\*\***##\*\*
 
 ##
 
@@ -109,7 +111,7 @@ Next to the gym is the sauna.
 
 If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fishpond, toys, books, a communal vegetable garden and, of course, the view!
 
-![](./attachments/1-ABOUT-attachment-013.heic)
+![](./attachments/1-ABOUT-attachment-013.jpg)
 
 ## SHOPS
 
@@ -119,15 +121,15 @@ We house three shops on Anketell Street:
 - Tuggers Laundromat
 - Thai Bodhi Thai Massage.
 
-**![](./attachments/1-ABOUT-attachment-014.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-014.jpg)\*\***##\*\*
 
 ##
 
-![](./attachments/1-ABOUT-attachment-015.heic)
+![](./attachments/1-ABOUT-attachment-015.jpg)
 
 ## ACCESSIBILITY
 
-![](./attachments/1-ABOUT-attachment-016.heic)
+![](./attachments/1-ABOUT-attachment-016.jpg)
 
 We value accessibility. For example, we have:
 
@@ -139,7 +141,7 @@ We value accessibility. For example, we have:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-017.heic)
+![](./attachments/1-ABOUT-attachment-017.jpg)
 
 You care. So do we.
 
@@ -159,7 +161,7 @@ Third, we want more goodness:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-018.heic)
+![](./attachments/1-ABOUT-attachment-018.jpg)
 
 We don’t publish our unit prices because they fluctuate. We aren’t the cheapest in Tuggeranong, but we hope this page convinces you of our excellent value, whether you want a home or an investment.
 
@@ -179,7 +181,7 @@ Enough about the property; Southport is also about our people. We are a diverse 
 
 We want to introduce ourselves:
 
-![](./attachments/1-ABOUT-attachment-019.heic)
+![](./attachments/1-ABOUT-attachment-019.jpg)
 
 Say ‘Hi’ if you see us around.
 
@@ -187,7 +189,7 @@ Say ‘Hi’ if you see us around.
 
 We couldn’t manage Southport Apartments without our Strata Manager:
 
-![](./attachments/1-ABOUT-attachment-020.heic)
+![](./attachments/1-ABOUT-attachment-020.jpg)
 
 Grady Strata and Facilities have served the Southport community since 2020. They employ our on-site Building Manager. They helped us with the information for this website.
 **![](./attachments/1-ABOUT-attachment-021.png)\*\***#\*\*
@@ -227,23 +229,24 @@ You’ll love living where convenience meets nature:
 
 Taste the nature …
 
-![](./attachments/1-ABOUT-attachment-024.heic)
+![](./attachments/1-ABOUT-attachment-024.jpg)
 
 … and then the coffee …
 
-![](./attachments/1-ABOUT-attachment-025.heic)
+![](./attachments/1-ABOUT-attachment-025.jpg)
 
-![](./attachments/1-ABOUT-attachment-026.heic)
+![](./attachments/1-ABOUT-attachment-026.jpg)
 
 There’s also the Hardware Cafe in Bunnings and the Vietnamese restaurant in our building (see ‘Our shops’ below).
 
 ## DESIGN AND BUILD
 
-![](./attachments/1-ABOUT-attachment-027.heic)
+![](./attachments/1-ABOUT-attachment-027.jpg)
 
 Southport was a project of GEOCON, Canberra’s largest residential developer and the fifth-largest in Australia. Eight years later, GEOCON still supports us, including supplying information for this website.
 
-Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
+Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which
+have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
 
 Southport has two buildings:
 
@@ -252,13 +255,13 @@ Southport has two buildings:
 
 (\* We are considering renaming the buildings more imaginatively and descriptively than the developer’s building schedule.)
 
-![](./attachments/1-ABOUT-attachment-028.heic)
+![](./attachments/1-ABOUT-attachment-028.jpg)
 
 ## AMENITIES
 
 ##
 
-![](./attachments/1-ABOUT-attachment-029.heic)
+![](./attachments/1-ABOUT-attachment-029.jpg)
 
 Southport’s amenities include:
 
@@ -277,15 +280,16 @@ Here’s more details …
 
 Stage 1’s sheltered central courtyard on Level 1 has two heated pools surrounded by tables, chairs, a sunken lounge and a garden.
 
-![](./attachments/1-ABOUT-attachment-030.heic)
+![](./attachments/1-ABOUT-attachment-030.jpg)
 
-Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage pool use after 10:00 pm.
+Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage
+pool use after 10:00 pm.
 
 ## GYM
 
 Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers for when you’ve finished your workout.
 
-![](./attachments/1-ABOUT-attachment-031.heic)
+![](./attachments/1-ABOUT-attachment-031.jpg)
 
 ## SAUNA
 
@@ -293,7 +297,7 @@ Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers 
 
 Next to the gym is the sauna.
 
-**![](./attachments/1-ABOUT-attachment-032.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-032.jpg)\*\***##\*\*
 
 ##
 
@@ -301,7 +305,7 @@ Next to the gym is the sauna.
 
 If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fishpond, toys, books, a communal vegetable garden and, of course, the view!
 
-![](./attachments/1-ABOUT-attachment-033.heic)
+![](./attachments/1-ABOUT-attachment-033.jpg)
 
 ## SHOPS
 
@@ -311,15 +315,15 @@ We house three shops on Anketell Street:
 - Tuggers Laundromat
 - Thai Bodhi Thai Massage.
 
-**![](./attachments/1-ABOUT-attachment-034.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-034.jpg)\*\***##\*\*
 
 ##
 
-![](./attachments/1-ABOUT-attachment-035.heic)
+![](./attachments/1-ABOUT-attachment-035.jpg)
 
 ## ACCESSIBILITY
 
-![](./attachments/1-ABOUT-attachment-036.heic)
+![](./attachments/1-ABOUT-attachment-036.jpg)
 
 We value accessibility. For example, we have:
 
@@ -331,7 +335,7 @@ We value accessibility. For example, we have:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-037.heic)
+![](./attachments/1-ABOUT-attachment-037.jpg)
 
 You care. So do we.
 
@@ -351,7 +355,7 @@ Third, we want more goodness:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-038.heic)
+![](./attachments/1-ABOUT-attachment-038.jpg)
 
 We don’t publish our unit prices because they fluctuate. We aren’t the cheapest in Tuggeranong, but we hope this page convinces you of our excellent value, whether you want a home or an investment.
 
@@ -371,7 +375,7 @@ Enough about the property; Southport is also about our people. We are a diverse 
 
 We want to introduce ourselves:
 
-![](./attachments/1-ABOUT-attachment-039.heic)
+![](./attachments/1-ABOUT-attachment-039.jpg)
 
 Say ‘Hi’ if you see us around.
 
@@ -379,7 +383,7 @@ Say ‘Hi’ if you see us around.
 
 We couldn’t manage Southport Apartments without our Strata Manager:
 
-![](./attachments/1-ABOUT-attachment-040.heic)
+![](./attachments/1-ABOUT-attachment-040.jpg)
 
 Grady Strata and Facilities have served the Southport community since 2020. They employ our on-site Building Manager. They helped us with the information for this website.
 **![](./attachments/1-ABOUT-attachment-041.png)\*\***#\*\*
@@ -419,23 +423,24 @@ You’ll love living where convenience meets nature:
 
 Taste the nature …
 
-![](./attachments/1-ABOUT-attachment-044.heic)
+![](./attachments/1-ABOUT-attachment-044.jpg)
 
 … and then the coffee …
 
-![](./attachments/1-ABOUT-attachment-045.heic)
+![](./attachments/1-ABOUT-attachment-045.jpg)
 
-![](./attachments/1-ABOUT-attachment-046.heic)
+![](./attachments/1-ABOUT-attachment-046.jpg)
 
 There’s also the Hardware Cafe in Bunnings and the Vietnamese restaurant in our building (see ‘Our shops’ below).
 
 ## DESIGN AND BUILD
 
-![](./attachments/1-ABOUT-attachment-047.heic)
+![](./attachments/1-ABOUT-attachment-047.jpg)
 
 Southport was a project of GEOCON, Canberra’s largest residential developer and the fifth-largest in Australia. Eight years later, GEOCON still supports us, including supplying information for this website.
 
-Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
+Award-winning Cox Architecture developed the concept, which Peckvonhartel then detailed. There are 353 units (all with allocated undercover parking) and three shops (see below). Distinctive are the ‘Terrace’ units, which
+have front and rear courtyards on two levels, cross-flow ventilation, and parking at their back doors.
 
 Southport has two buildings:
 
@@ -444,13 +449,13 @@ Southport has two buildings:
 
 (\* We are considering renaming the buildings more imaginatively and descriptively than the developer’s building schedule.)
 
-![](./attachments/1-ABOUT-attachment-048.heic)
+![](./attachments/1-ABOUT-attachment-048.jpg)
 
 ## AMENITIES
 
 ##
 
-![](./attachments/1-ABOUT-attachment-049.heic)
+![](./attachments/1-ABOUT-attachment-049.jpg)
 
 Southport’s amenities include:
 
@@ -469,15 +474,16 @@ Here’s more details …
 
 Stage 1’s sheltered central courtyard on Level 1 has two heated pools surrounded by tables, chairs, a sunken lounge and a garden.
 
-![](./attachments/1-ABOUT-attachment-050.heic)
+![](./attachments/1-ABOUT-attachment-050.jpg)
 
-Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage pool use after 10:00 pm.
+Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage
+pool use after 10:00 pm.
 
 ## GYM
 
 Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers for when you’ve finished your workout.
 
-![](./attachments/1-ABOUT-attachment-051.heic)
+![](./attachments/1-ABOUT-attachment-051.jpg)
 
 ## SAUNA
 
@@ -485,7 +491,7 @@ Stage 1’s Level 5 has our modern, well-equipped gym, with toilets and showers 
 
 Next to the gym is the sauna.
 
-**![](./attachments/1-ABOUT-attachment-052.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-052.jpg)\*\***##\*\*
 
 ##
 
@@ -493,7 +499,7 @@ Next to the gym is the sauna.
 
 If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fishpond, toys, books, a communal vegetable garden and, of course, the view!
 
-![](./attachments/1-ABOUT-attachment-053.heic)
+![](./attachments/1-ABOUT-attachment-053.jpg)
 
 ## SHOPS
 
@@ -503,15 +509,15 @@ We house three shops on Anketell Street:
 - Tuggers Laundromat
 - Thai Bodhi Thai Massage.
 
-**![](./attachments/1-ABOUT-attachment-054.heic)\*\***##\*\*
+**![](./attachments/1-ABOUT-attachment-054.jpg)\*\***##\*\*
 
 ##
 
-![](./attachments/1-ABOUT-attachment-055.heic)
+![](./attachments/1-ABOUT-attachment-055.jpg)
 
 ## ACCESSIBILITY
 
-![](./attachments/1-ABOUT-attachment-056.heic)
+![](./attachments/1-ABOUT-attachment-056.jpg)
 
 We value accessibility. For example, we have:
 
@@ -523,7 +529,7 @@ We value accessibility. For example, we have:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-057.heic)
+![](./attachments/1-ABOUT-attachment-057.jpg)
 
 You care. So do we.
 
@@ -543,7 +549,7 @@ Third, we want more goodness:
 
 ##
 
-![](./attachments/1-ABOUT-attachment-058.heic)
+![](./attachments/1-ABOUT-attachment-058.jpg)
 
 We don’t publish our unit prices because they fluctuate. We aren’t the cheapest in Tuggeranong, but we hope this page convinces you of our excellent value, whether you want a home or an investment.
 
@@ -563,7 +569,7 @@ Enough about the property; Southport is also about our people. We are a diverse 
 
 We want to introduce ourselves:
 
-![](./attachments/1-ABOUT-attachment-059.heic)
+![](./attachments/1-ABOUT-attachment-059.jpg)
 
 Say ‘Hi’ if you see us around.
 
@@ -571,6 +577,6 @@ Say ‘Hi’ if you see us around.
 
 We couldn’t manage Southport Apartments without our Strata Manager:
 
-![](./attachments/1-ABOUT-attachment-060.heic)
+![](./attachments/1-ABOUT-attachment-060.jpg)
 
 Grady Strata and Facilities have served the Southport community since 2020. They employ our on-site Building Manager. They helped us with the information for this website.

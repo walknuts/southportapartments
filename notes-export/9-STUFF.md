@@ -40,14 +40,14 @@ A legal group of units such as Southport Apartments, which is registered as Unit
 
 ### Developer
 
-**###**
-The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
+**###** The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
 
 Southport’s developer was GEOCON.
 
 ### Owners corporation
 
-‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation for a units plan are the owners of the units’.
+‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation
+for a units plan are the owners of the units’.
 
 Some Australian states use the term ‘body corporate’.
 
@@ -81,7 +81,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-002.heic)
+![](./attachments/9-STUFF-attachment-002.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -110,28 +110,8 @@ Policies are essential for quality management.
 
 As we write and approve policies, we will link them to this list:
 
-0 Policy and Procedures
-1 Membership
-2 Meetings
-3 Communication
-4 Maintenance
-5 Resources
-6 Tendering
-7 Project Management
-8 Contract Management
-9 Quality Management
-10 Safety Management
-11 Delegation
-12 Managing the Manager
-13 Pet Approvals
-14 Unit Modifications
-15 Advertising on our common property
-16 Fob audits
-17 Style Guide
-18 Powered doors for private units
-19 Airbnb
-20 EV charging
-21 Smoke drift
+0 Policy and Procedures 1 Membership 2 Meetings 3 Communication 4 Maintenance 5 Resources 6 Tendering 7 Project Management 8 Contract Management 9 Quality Management 10 Safety Management 11 Delegation 12 Managing the
+Manager 13 Pet Approvals 14 Unit Modifications 15 Advertising on our common property 16 Fob audits 17 Style Guide 18 Powered doors for private units 19 Airbnb 20 EV charging 21 Smoke drift
 
 **![](./attachments/9-STUFF-attachment-004.png)\*\***#\*\*
 
@@ -175,14 +155,14 @@ A legal group of units such as Southport Apartments, which is registered as Unit
 
 ### Developer
 
-**###**
-The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
+**###** The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
 
 Southport’s developer was GEOCON.
 
 ### Owners corporation
 
-‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation for a units plan are the owners of the units’.
+‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation
+for a units plan are the owners of the units’.
 
 Some Australian states use the term ‘body corporate’.
 
@@ -216,7 +196,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-005.heic)
+![](./attachments/9-STUFF-attachment-005.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -245,28 +225,8 @@ Policies are essential for quality management.
 
 As we write and approve policies, we will link them to this list:
 
-0 Policy and Procedures
-1 Membership
-2 Meetings
-3 Communication
-4 Maintenance
-5 Resources
-6 Tendering
-7 Project Management
-8 Contract Management
-9 Quality Management
-10 Safety Management
-11 Delegation
-12 Managing the Manager
-13 Pet Approvals
-14 Unit Modifications
-15 Advertising on our common property
-16 Fob audits
-17 Style Guide
-18 Powered doors for private units
-19 Airbnb
-20 EV charging
-21 Smoke drift
+0 Policy and Procedures 1 Membership 2 Meetings 3 Communication 4 Maintenance 5 Resources 6 Tendering 7 Project Management 8 Contract Management 9 Quality Management 10 Safety Management 11 Delegation 12 Managing the
+Manager 13 Pet Approvals 14 Unit Modifications 15 Advertising on our common property 16 Fob audits 17 Style Guide 18 Powered doors for private units 19 Airbnb 20 EV charging 21 Smoke drift
 
 **![](./attachments/9-STUFF-attachment-007.png)\*\***#\*\*
 
@@ -310,14 +270,14 @@ A legal group of units such as Southport Apartments, which is registered as Unit
 
 ### Developer
 
-**###**
-The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
+**###** The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
 
 Southport’s developer was GEOCON.
 
 ### Owners corporation
 
-‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation for a units plan are the owners of the units’.
+‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation
+for a units plan are the owners of the units’.
 
 Some Australian states use the term ‘body corporate’.
 
@@ -351,7 +311,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-008.heic)
+![](./attachments/9-STUFF-attachment-008.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -380,25 +340,5 @@ Policies are essential for quality management.
 
 As we write and approve policies, we will link them to this list:
 
-0 Policy and Procedures
-1 Membership
-2 Meetings
-3 Communication
-4 Maintenance
-5 Resources
-6 Tendering
-7 Project Management
-8 Contract Management
-9 Quality Management
-10 Safety Management
-11 Delegation
-12 Managing the Manager
-13 Pet Approvals
-14 Unit Modifications
-15 Advertising on our common property
-16 Fob audits
-17 Style Guide
-18 Powered doors for private units
-19 Airbnb
-20 EV charging
-21 Smoke drift
+0 Policy and Procedures 1 Membership 2 Meetings 3 Communication 4 Maintenance 5 Resources 6 Tendering 7 Project Management 8 Contract Management 9 Quality Management 10 Safety Management 11 Delegation 12 Managing the
+Manager 13 Pet Approvals 14 Unit Modifications 15 Advertising on our common property 16 Fob audits 17 Style Guide 18 Powered doors for private units 19 Airbnb 20 EV charging 21 Smoke drift

@@ -16,7 +16,7 @@ Info to help you understand and care for your home.
 
 It is important to understand the boundaries between what is yours and what is your neighbour’s or a ‘common area’. The _Unit Titles Act_ defines the boundaries:
 
-![](./attachments/4-HOME-attachment-002.heic)
+![](./attachments/4-HOME-attachment-002.jpg)
 
 [Add diagram.]
 
@@ -66,7 +66,7 @@ Knowing about your unit’s construction can help whether you are insuring your 
 
 ##
 
-![](./attachments/4-HOME-attachment-003.heic)
+![](./attachments/4-HOME-attachment-003.jpg)
 
 Owners can view or download the ‘Southport Internal Finishes Schedule’ from Grady’s portal. It lists the finishes for the:
 
@@ -88,13 +88,13 @@ Renters, ask your landlord or their agent for the Schedule and permission to alt
 
 The external finishes, which are not on Grady’s portal, are:
 
-![](./attachments/4-HOME-attachment-004.heic)
+![](./attachments/4-HOME-attachment-004.jpg)
 
 Again, renters, please seek permission from your landlord or their agent.
 
 **## APPLIANCES AND EQUIPMENT**
 
-![](./attachments/4-HOME-attachment-005.heic)
+![](./attachments/4-HOME-attachment-005.jpg)
 
 Following are instructions for the developer’s standard appliances and equipment:
 
@@ -147,7 +147,7 @@ Here are some basics common to all models:
 
 Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step which swings out the vertical vanes, this photo may help you:
 
-![](./attachments/4-HOME-attachment-006.heic)
+![](./attachments/4-HOME-attachment-006.jpg)
 
 ### Cooktop
 
@@ -193,13 +193,13 @@ Your bathroom and laundry have exhaust fans in their ceilings. The bathroom fan 
 
 The exhaust fans are so quiet that you’ll have to listen carefully. If you hold a single ply of tissue paper under the vent, it should suck in lightly like this:
 
-![](./attachments/4-HOME-attachment-008.heic)
+![](./attachments/4-HOME-attachment-008.jpg)
 
 ### Downlights
 
 You can replace your LED downlights without an electrician because each downlight plugs into a 240V socket in the ceiling.
 
-![](./attachments/4-HOME-attachment-009.heic)
+![](./attachments/4-HOME-attachment-009.jpg)
 
 Always follow the instructions for the downlight you buy, but here is a general _guide_:
 
@@ -225,7 +225,7 @@ Again:
 
 ### Door closer
 
-![](./attachments/4-HOME-attachment-010.heic)
+![](./attachments/4-HOME-attachment-010.jpg)
 
 If your front door is not closing how you like, you can adjust it following these instructions.
 
@@ -237,7 +237,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 ### Toilet
 
-![](./attachments/4-HOME-attachment-011.heic)
+![](./attachments/4-HOME-attachment-011.jpg)
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
@@ -295,15 +295,13 @@ If a tile is not cracked but rocks when you walk on it or is not level, follow s
 
 **## CAN I MODIFY MY UNIT?**
 
-![](./attachments/4-HOME-attachment-012.heic)
+![](./attachments/4-HOME-attachment-012.jpg)
 
 Yes, subject to the following conditions. We are developing policies that provide more detail on our conditions (standards) and means of compliance.
 
 **General conditions**
 
-EC approval
-Strata insurance
-Fire regulations
+EC approval Strata insurance Fire regulations
 
 TK
 
@@ -321,17 +319,15 @@ TK
 
 TK
 
-**## RENTING YOUR UNIT**
-**##**
-![](./attachments/4-HOME-attachment-013.png)
+**## RENTING YOUR UNIT** **##** ![](./attachments/4-HOME-attachment-013.png)
 
 We want Southport to be as good for investing as it is for living. We only ask that you or your agent please instruct your tenants on our Owners Corporation and House Rules. We will hold you responsible for breaches.
-**##**
-**### Can I rent my unit on Airbnb?**
+**##** **### Can I rent my unit on Airbnb?**
 
 ##
 
-Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property.
+Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common
+property.
 
 We hope the information on our website helps your guests make the most of their stay.
 
@@ -370,7 +366,7 @@ Info to help you understand and care for your home.
 
 It is important to understand the boundaries between what is yours and what is your neighbour’s or a ‘common area’. The _Unit Titles Act_ defines the boundaries:
 
-![](./attachments/4-HOME-attachment-015.heic)
+![](./attachments/4-HOME-attachment-015.jpg)
 
 [Add diagram.]
 
@@ -420,7 +416,7 @@ Knowing about your unit’s construction can help whether you are insuring your 
 
 ##
 
-![](./attachments/4-HOME-attachment-016.heic)
+![](./attachments/4-HOME-attachment-016.jpg)
 
 Owners can view or download the ‘Southport Internal Finishes Schedule’ from Grady’s portal. It lists the finishes for the:
 
@@ -442,13 +438,13 @@ Renters, ask your landlord or their agent for the Schedule and permission to alt
 
 The external finishes, which are not on Grady’s portal, are:
 
-![](./attachments/4-HOME-attachment-017.heic)
+![](./attachments/4-HOME-attachment-017.jpg)
 
 Again, renters, please seek permission from your landlord or their agent.
 
 **## APPLIANCES AND EQUIPMENT**
 
-![](./attachments/4-HOME-attachment-018.heic)
+![](./attachments/4-HOME-attachment-018.jpg)
 
 Following are instructions for the developer’s standard appliances and equipment:
 
@@ -501,7 +497,7 @@ Here are some basics common to all models:
 
 Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step which swings out the vertical vanes, this photo may help you:
 
-![](./attachments/4-HOME-attachment-019.heic)
+![](./attachments/4-HOME-attachment-019.jpg)
 
 ### Cooktop
 
@@ -547,13 +543,13 @@ Your bathroom and laundry have exhaust fans in their ceilings. The bathroom fan 
 
 The exhaust fans are so quiet that you’ll have to listen carefully. If you hold a single ply of tissue paper under the vent, it should suck in lightly like this:
 
-![](./attachments/4-HOME-attachment-021.heic)
+![](./attachments/4-HOME-attachment-021.jpg)
 
 ### Downlights
 
 You can replace your LED downlights without an electrician because each downlight plugs into a 240V socket in the ceiling.
 
-![](./attachments/4-HOME-attachment-022.heic)
+![](./attachments/4-HOME-attachment-022.jpg)
 
 Always follow the instructions for the downlight you buy, but here is a general _guide_:
 
@@ -579,7 +575,7 @@ Again:
 
 ### Door closer
 
-![](./attachments/4-HOME-attachment-023.heic)
+![](./attachments/4-HOME-attachment-023.jpg)
 
 If your front door is not closing how you like, you can adjust it following these instructions.
 
@@ -591,7 +587,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 ### Toilet
 
-![](./attachments/4-HOME-attachment-024.heic)
+![](./attachments/4-HOME-attachment-024.jpg)
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
@@ -649,15 +645,13 @@ If a tile is not cracked but rocks when you walk on it or is not level, follow s
 
 **## CAN I MODIFY MY UNIT?**
 
-![](./attachments/4-HOME-attachment-025.heic)
+![](./attachments/4-HOME-attachment-025.jpg)
 
 Yes, subject to the following conditions. We are developing policies that provide more detail on our conditions (standards) and means of compliance.
 
 **General conditions**
 
-EC approval
-Strata insurance
-Fire regulations
+EC approval Strata insurance Fire regulations
 
 TK
 
@@ -675,17 +669,15 @@ TK
 
 TK
 
-**## RENTING YOUR UNIT**
-**##**
-![](./attachments/4-HOME-attachment-026.png)
+**## RENTING YOUR UNIT** **##** ![](./attachments/4-HOME-attachment-026.png)
 
 We want Southport to be as good for investing as it is for living. We only ask that you or your agent please instruct your tenants on our Owners Corporation and House Rules. We will hold you responsible for breaches.
-**##**
-**### Can I rent my unit on Airbnb?**
+**##** **### Can I rent my unit on Airbnb?**
 
 ##
 
-Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property.
+Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common
+property.
 
 We hope the information on our website helps your guests make the most of their stay.
 
@@ -724,7 +716,7 @@ Info to help you understand and care for your home.
 
 It is important to understand the boundaries between what is yours and what is your neighbour’s or a ‘common area’. The _Unit Titles Act_ defines the boundaries:
 
-![](./attachments/4-HOME-attachment-028.heic)
+![](./attachments/4-HOME-attachment-028.jpg)
 
 [Add diagram.]
 
@@ -774,7 +766,7 @@ Knowing about your unit’s construction can help whether you are insuring your 
 
 ##
 
-![](./attachments/4-HOME-attachment-029.heic)
+![](./attachments/4-HOME-attachment-029.jpg)
 
 Owners can view or download the ‘Southport Internal Finishes Schedule’ from Grady’s portal. It lists the finishes for the:
 
@@ -796,13 +788,13 @@ Renters, ask your landlord or their agent for the Schedule and permission to alt
 
 The external finishes, which are not on Grady’s portal, are:
 
-![](./attachments/4-HOME-attachment-030.heic)
+![](./attachments/4-HOME-attachment-030.jpg)
 
 Again, renters, please seek permission from your landlord or their agent.
 
 **## APPLIANCES AND EQUIPMENT**
 
-![](./attachments/4-HOME-attachment-031.heic)
+![](./attachments/4-HOME-attachment-031.jpg)
 
 Following are instructions for the developer’s standard appliances and equipment:
 
@@ -855,7 +847,7 @@ Here are some basics common to all models:
 
 Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step which swings out the vertical vanes, this photo may help you:
 
-![](./attachments/4-HOME-attachment-032.heic)
+![](./attachments/4-HOME-attachment-032.jpg)
 
 ### Cooktop
 
@@ -901,13 +893,13 @@ Your bathroom and laundry have exhaust fans in their ceilings. The bathroom fan 
 
 The exhaust fans are so quiet that you’ll have to listen carefully. If you hold a single ply of tissue paper under the vent, it should suck in lightly like this:
 
-![](./attachments/4-HOME-attachment-034.heic)
+![](./attachments/4-HOME-attachment-034.jpg)
 
 ### Downlights
 
 You can replace your LED downlights without an electrician because each downlight plugs into a 240V socket in the ceiling.
 
-![](./attachments/4-HOME-attachment-035.heic)
+![](./attachments/4-HOME-attachment-035.jpg)
 
 Always follow the instructions for the downlight you buy, but here is a general _guide_:
 
@@ -933,7 +925,7 @@ Again:
 
 ### Door closer
 
-![](./attachments/4-HOME-attachment-036.heic)
+![](./attachments/4-HOME-attachment-036.jpg)
 
 If your front door is not closing how you like, you can adjust it following these instructions.
 
@@ -945,7 +937,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 ### Toilet
 
-![](./attachments/4-HOME-attachment-037.heic)
+![](./attachments/4-HOME-attachment-037.jpg)
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
@@ -1003,15 +995,13 @@ If a tile is not cracked but rocks when you walk on it or is not level, follow s
 
 **## CAN I MODIFY MY UNIT?**
 
-![](./attachments/4-HOME-attachment-038.heic)
+![](./attachments/4-HOME-attachment-038.jpg)
 
 Yes, subject to the following conditions. We are developing policies that provide more detail on our conditions (standards) and means of compliance.
 
 **General conditions**
 
-EC approval
-Strata insurance
-Fire regulations
+EC approval Strata insurance Fire regulations
 
 TK
 
@@ -1029,17 +1019,15 @@ TK
 
 TK
 
-**## RENTING YOUR UNIT**
-**##**
-![](./attachments/4-HOME-attachment-039.png)
+**## RENTING YOUR UNIT** **##** ![](./attachments/4-HOME-attachment-039.png)
 
 We want Southport to be as good for investing as it is for living. We only ask that you or your agent please instruct your tenants on our Owners Corporation and House Rules. We will hold you responsible for breaches.
-**##**
-**### Can I rent my unit on Airbnb?**
+**##** **### Can I rent my unit on Airbnb?**
 
 ##
 
-Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property.
+Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common
+property.
 
 We hope the information on our website helps your guests make the most of their stay.
 

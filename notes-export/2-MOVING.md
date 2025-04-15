@@ -4,7 +4,7 @@
 
 # 2 MOVING
 
-![](./attachments/2-MOVING-attachment-002.heic)
+![](./attachments/2-MOVING-attachment-002.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -40,7 +40,8 @@ If you need extra keys or fobs, ask our Strata Manager because they are unavaila
 
 ### How do I arrange my move?
 
-Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you instructions, including for your removalist’s parking.
+Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you
+instructions, including for your removalist’s parking.
 
 ## UTILITIES
 
@@ -54,7 +55,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-003.heic)
+![](./attachments/2-MOVING-attachment-003.jpg)
 
 Visit Icon Water’s website.
 
@@ -64,9 +65,10 @@ Visit Icon Water’s website.
 
 For gas, you can choose your supplier.
 
-Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot water usage, as measured by a meter above your bathroom ceiling:
+Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
+water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-004.heic)
+![](./attachments/2-MOVING-attachment-004.jpg)
 
 ##
 
@@ -86,7 +88,7 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-005.heic)
+![](./attachments/2-MOVING-attachment-005.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
@@ -98,7 +100,8 @@ Infinite, a local Canberra company, now offers a high-speed internet service cal
 
 So contact iiNet or Infinite if you want to arrange a _wired_ connection. If the ISP’s technician needs access to the Communications Room, refer them to the Building Manager.
 
-There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from your ISP’s transmitter.
+There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from
+your ISP’s transmitter.
 
 ### Telephone
 
@@ -112,7 +115,8 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 
 ##
 
-Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one end and an F-type on the other.
+Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
+end and an F-type on the other.
 
 ![](./attachments/2-MOVING-attachment-007.jpeg)
 
@@ -131,9 +135,7 @@ If the Contents Insurance application form asks you about the construction of yo
 
 Investors should consider landlord’s insurance.
 
-**### Owners corporation levy**
-**##**
-Do I have to pay it before I move in? [Answer TK]
+**### Owners corporation levy** **##** Do I have to pay it before I move in? [Answer TK]
 
 Are rates included in my levy? No.
 
@@ -147,7 +149,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-008.heic)
+![](./attachments/2-MOVING-attachment-008.jpg)
 
 ### Other entrances
 
@@ -196,9 +198,10 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-010.heic)
+![](./attachments/2-MOVING-attachment-010.jpg)
 
-Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
+Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
+roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
 
 Have an EV? Unfortunately, we do not yet have chargers in our carparks, but we are working on it. In the interim, Evo Energy, just across the road, have a public charger.
 
@@ -208,7 +211,8 @@ The storage cages are in the carparks. Some adjoin the unit’s carpark; others 
 
 The cages are lockable, but you must bring your padlock.
 
-When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
+When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National
+Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
 
 You must also consider fire safety — see our ‘Safety’ page.
 
@@ -218,7 +222,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-011.heic)
+![](./attachments/2-MOVING-attachment-011.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -232,11 +236,12 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-012.heic)
+![](./attachments/2-MOVING-attachment-012.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
-As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange priority access, and give you instructions, including for your removalist’s parking.
+As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
+priority access, and give you instructions, including for your removalist’s parking.
 
 **![](./attachments/2-MOVING-attachment-013.png)\*\***#\*\*
 
@@ -244,7 +249,7 @@ As you did when you moved in, please book a time with our Building Manager (see 
 
 # 2 MOVING
 
-![](./attachments/2-MOVING-attachment-014.heic)
+![](./attachments/2-MOVING-attachment-014.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -280,7 +285,8 @@ If you need extra keys or fobs, ask our Strata Manager because they are unavaila
 
 ### How do I arrange my move?
 
-Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you instructions, including for your removalist’s parking.
+Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you
+instructions, including for your removalist’s parking.
 
 ## UTILITIES
 
@@ -294,7 +300,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-015.heic)
+![](./attachments/2-MOVING-attachment-015.jpg)
 
 Visit Icon Water’s website.
 
@@ -304,9 +310,10 @@ Visit Icon Water’s website.
 
 For gas, you can choose your supplier.
 
-Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot water usage, as measured by a meter above your bathroom ceiling:
+Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
+water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-016.heic)
+![](./attachments/2-MOVING-attachment-016.jpg)
 
 ##
 
@@ -326,7 +333,7 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-017.heic)
+![](./attachments/2-MOVING-attachment-017.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
@@ -338,7 +345,8 @@ Infinite, a local Canberra company, now offers a high-speed internet service cal
 
 So contact iiNet or Infinite if you want to arrange a _wired_ connection. If the ISP’s technician needs access to the Communications Room, refer them to the Building Manager.
 
-There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from your ISP’s transmitter.
+There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from
+your ISP’s transmitter.
 
 ### Telephone
 
@@ -352,7 +360,8 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 
 ##
 
-Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one end and an F-type on the other.
+Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
+end and an F-type on the other.
 
 ![](./attachments/2-MOVING-attachment-019.jpeg)
 
@@ -371,9 +380,7 @@ If the Contents Insurance application form asks you about the construction of yo
 
 Investors should consider landlord’s insurance.
 
-**### Owners corporation levy**
-**##**
-Do I have to pay it before I move in? [Answer TK]
+**### Owners corporation levy** **##** Do I have to pay it before I move in? [Answer TK]
 
 Are rates included in my levy? No.
 
@@ -387,7 +394,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-020.heic)
+![](./attachments/2-MOVING-attachment-020.jpg)
 
 ### Other entrances
 
@@ -436,9 +443,10 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-022.heic)
+![](./attachments/2-MOVING-attachment-022.jpg)
 
-Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
+Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
+roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
 
 Have an EV? Unfortunately, we do not yet have chargers in our carparks, but we are working on it. In the interim, Evo Energy, just across the road, have a public charger.
 
@@ -448,7 +456,8 @@ The storage cages are in the carparks. Some adjoin the unit’s carpark; others 
 
 The cages are lockable, but you must bring your padlock.
 
-When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
+When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National
+Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
 
 You must also consider fire safety — see our ‘Safety’ page.
 
@@ -458,7 +467,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-023.heic)
+![](./attachments/2-MOVING-attachment-023.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -472,11 +481,12 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-024.heic)
+![](./attachments/2-MOVING-attachment-024.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
-As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange priority access, and give you instructions, including for your removalist’s parking.
+As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
+priority access, and give you instructions, including for your removalist’s parking.
 
 **![](./attachments/2-MOVING-attachment-025.png)\*\***#\*\*
 
@@ -484,7 +494,7 @@ As you did when you moved in, please book a time with our Building Manager (see 
 
 # 2 MOVING
 
-![](./attachments/2-MOVING-attachment-026.heic)
+![](./attachments/2-MOVING-attachment-026.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -520,7 +530,8 @@ If you need extra keys or fobs, ask our Strata Manager because they are unavaila
 
 ### How do I arrange my move?
 
-Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you instructions, including for your removalist’s parking.
+Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you
+instructions, including for your removalist’s parking.
 
 ## UTILITIES
 
@@ -534,7 +545,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-027.heic)
+![](./attachments/2-MOVING-attachment-027.jpg)
 
 Visit Icon Water’s website.
 
@@ -544,9 +555,10 @@ Visit Icon Water’s website.
 
 For gas, you can choose your supplier.
 
-Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot water usage, as measured by a meter above your bathroom ceiling:
+Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
+water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-028.heic)
+![](./attachments/2-MOVING-attachment-028.jpg)
 
 ##
 
@@ -566,7 +578,7 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-029.heic)
+![](./attachments/2-MOVING-attachment-029.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
@@ -578,7 +590,8 @@ Infinite, a local Canberra company, now offers a high-speed internet service cal
 
 So contact iiNet or Infinite if you want to arrange a _wired_ connection. If the ISP’s technician needs access to the Communications Room, refer them to the Building Manager.
 
-There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from your ISP’s transmitter.
+There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from
+your ISP’s transmitter.
 
 ### Telephone
 
@@ -592,7 +605,8 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 
 ##
 
-Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one end and an F-type on the other.
+Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
+end and an F-type on the other.
 
 ![](./attachments/2-MOVING-attachment-031.jpeg)
 
@@ -611,9 +625,7 @@ If the Contents Insurance application form asks you about the construction of yo
 
 Investors should consider landlord’s insurance.
 
-**### Owners corporation levy**
-**##**
-Do I have to pay it before I move in? [Answer TK]
+**### Owners corporation levy** **##** Do I have to pay it before I move in? [Answer TK]
 
 Are rates included in my levy? No.
 
@@ -627,7 +639,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-032.heic)
+![](./attachments/2-MOVING-attachment-032.jpg)
 
 ### Other entrances
 
@@ -676,9 +688,10 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-034.heic)
+![](./attachments/2-MOVING-attachment-034.jpg)
 
-Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
+Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
+roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
 
 Have an EV? Unfortunately, we do not yet have chargers in our carparks, but we are working on it. In the interim, Evo Energy, just across the road, have a public charger.
 
@@ -688,7 +701,8 @@ The storage cages are in the carparks. Some adjoin the unit’s carpark; others 
 
 The cages are lockable, but you must bring your padlock.
 
-When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
+When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National
+Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
 
 You must also consider fire safety — see our ‘Safety’ page.
 
@@ -698,7 +712,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-035.heic)
+![](./attachments/2-MOVING-attachment-035.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -712,8 +726,9 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-036.heic)
+![](./attachments/2-MOVING-attachment-036.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
-As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange priority access, and give you instructions, including for your removalist’s parking.
+As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
+priority access, and give you instructions, including for your removalist’s parking.
