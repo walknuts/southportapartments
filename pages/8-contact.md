@@ -1,10 +1,20 @@
 ---
-layout: contact
+layout: basic
 title: "Contact"
-header_transparent: false
+header_transparent: true
 permalink: "/contact/"
-description: "We’re here for you."
-image: "/assets/images/pages/8-contact-002.jpg"
+
+hero:
+  enabled: true
+  heading: "Contact"
+  sub_heading: "We’re here for you."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## Address

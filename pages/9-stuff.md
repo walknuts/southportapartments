@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Admin"
-header_transparent: false
+header_transparent: true
 permalink: "/admin/"
-description: "Admin for the Executive Committee and Strata Manager (including Building Manager)."
-image: "/assets/images/pages/9-stuff-002.jpg"
+
+hero:
+  enabled: true
+  heading: "Admin"
+  sub_heading: "Admin for the Executive Committee and Strata Manager (including Building Manager)."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## LEGISLATION

@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Safety"
-header_transparent: false
+header_transparent: true
 permalink: "/safety/"
-description: "Simple precautions for common hazards."
-image: "/assets/images/pages/6-safety-002.jpg"
+
+hero:
+  enabled: true
+  heading: "Safety"
+  sub_heading: "Simple precautions for common hazards."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## FIRE

@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Your Home"
-header_transparent: false
+header_transparent: true
 permalink: "/your-home/"
-description: "Info to help you understand and care for your home."
-image: "/assets/images/pages/4-home-002.jpg"
+
+hero:
+  enabled: true
+  heading: "Your Home"
+  sub_heading: "Info to help you understand and care for your home."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## BOUNDARIES

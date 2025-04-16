@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Visiting"
-header_transparent: false
+header_transparent: true
 permalink: "/visiting/"
-description: "The directions you need, including for deliveries."
-image: "/assets/images/pages/3-visiting-002.jpg"
+
+hero:
+  enabled: true
+  heading: "Visiting"
+  sub_heading: "The directions you need, including for deliveries."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## STREET ADDRESS

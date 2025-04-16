@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Moving"
-header_transparent: false
+header_transparent: true
 permalink: "/moving/"
-description: "Let’s help you move, whether in or out."
-image: "/assets/images/pages/banner-small.png"
+
+hero:
+  enabled: true
+  heading: "Moving"
+  sub_heading: "Let’s help you move, whether in or out."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## WELCOME!

@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "Community"
-header_transparent: false
+header_transparent: true
 permalink: "/community/"
-description: "Here are a few rules and courtesies to help promote community at Southport."
-image: "/assets/images/pages/5-community-003.jpg"
+
+hero:
+  enabled: true
+  heading: "Community"
+  sub_heading: "Here are a few rules and courtesies to help promote community at Southport."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 Ideally, we would love to have only one rule to help us get along: ‘Love your neighbour’. But the legislation and our experience say we need more rules and guidance. That’s what this page is for.
