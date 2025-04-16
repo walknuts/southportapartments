@@ -4,7 +4,7 @@ title: "Moving"
 header_transparent: false
 permalink: "/moving/"
 description: "Let’s help you move, whether in or out."
-image: "/assets/images/pages/2-moving-002.jpg"
+image: "/assets/images/pages/banner-small.png"
 ---
 
 ## WELCOME!

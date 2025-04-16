@@ -1,10 +1,20 @@
 ---
 layout: basic
 title: "About Southport Apartments"
-header_transparent: false
+header_transparent: true
 permalink: "/about/"
-description: "Our property and people — and why you'll love both."
-image: "/assets/images/gen/content/content-5.webp"
+
+hero:
+  enabled: true
+  heading: "About Southport Apartments"
+  sub_heading: "Our property and people — and why you'll love both."
+  text_color: "#FFFFFF"
+  background_color: "#1d2830"
+  background_gradient: true
+  background_image: "/assets/images/pages/banner-small.png"
+  background_image_blend_mode: overlay
+  fullscreen_mobile: false
+  fullscreen_desktop: false
 ---
 
 ## Location! Location! Location!
