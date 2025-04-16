@@ -4,7 +4,7 @@ title: "Community"
 header_transparent: false
 permalink: "/community/"
 description: "Guidelines, rules, and courtesies to help promote a harmonious community at Southport Apartments."
-image: "./attachments/5-COMMUNITY-attachment-003.jpg"
+image: "/assets/imagse/pages/5-community-003.jpg"
 ---
 
 # Community
@@ -37,7 +37,7 @@ House Rules are often confused with Owners Corporation Rules, but they differ. T
 
 Our pool rules are for safety and the community. Some have signs:
 
-![](./attachments/5-COMMUNITY-attachment-002.jpg)
+![](/assets/imagse/pages/5-community-002.jpg)
 
 The prohibition of glassware comes from the bad experience of having to drain the pool to remove the invisible fragments. It cost those responsible thousands and the rest of us swimming days.
 
@@ -49,7 +49,7 @@ Other community and safety considerations in and around the pools are to please:
 - Give way to lap swimmers in the lap pool (long and narrow)
 - Clean up and take your rubbish when you leave.
 
-![](./attachments/5-COMMUNITY-attachment-003.jpg)
+![](/assets/imagse/pages/5-community-003.jpg)
 
 ## COURTESIES
 
@@ -124,7 +124,7 @@ Yes, including Airbnb guests. And you’re responsible for their behaviour.
 
 **## LEVIES**
 
-Finally, levies are about community. Pitching in funds the services we all enjoy. **![](./attachments/5-COMMUNITY-attachment-004.png)\*\***#\*\*
+Finally, levies are about community. Pitching in funds the services we all enjoy. **![](/assets/imagse/pages/5-community-004.png)\*\***#\*\*
 
 #
 
@@ -158,7 +158,7 @@ House Rules are often confused with Owners Corporation Rules, but they differ. T
 
 Our pool rules are for safety and the community. Some have signs:
 
-![](./attachments/5-COMMUNITY-attachment-005.jpg)
+![](/assets/imagse/pages/5-community-005.jpg)
 
 The prohibition of glassware comes from the bad experience of having to drain the pool to remove the invisible fragments. It cost those responsible thousands and the rest of us swimming days.
 
@@ -170,7 +170,7 @@ Other community and safety considerations in and around the pools are to please:
 - Give way to lap swimmers in the lap pool (long and narrow)
 - Clean up and take your rubbish when you leave.
 
-![](./attachments/5-COMMUNITY-attachment-006.jpg)
+![](/assets/imagse/pages/5-community-006.jpg)
 
 ## COURTESIES
 
@@ -245,7 +245,7 @@ Yes, including Airbnb guests. And you’re responsible for their behaviour.
 
 **## LEVIES**
 
-Finally, levies are about community. Pitching in funds the services we all enjoy. **![](./attachments/5-COMMUNITY-attachment-007.png)\*\***#\*\*
+Finally, levies are about community. Pitching in funds the services we all enjoy. **![](/assets/imagse/pages/5-community-007.png)\*\***#\*\*
 
 #
 
@@ -279,7 +279,7 @@ House Rules are often confused with Owners Corporation Rules, but they differ. T
 
 Our pool rules are for safety and the community. Some have signs:
 
-![](./attachments/5-COMMUNITY-attachment-008.jpg)
+![](/assets/imagse/pages/5-community-008.jpg)
 
 The prohibition of glassware comes from the bad experience of having to drain the pool to remove the invisible fragments. It cost those responsible thousands and the rest of us swimming days.
 
@@ -291,7 +291,7 @@ Other community and safety considerations in and around the pools are to please:
 - Give way to lap swimmers in the lap pool (long and narrow)
 - Clean up and take your rubbish when you leave.
 
-![](./attachments/5-COMMUNITY-attachment-009.jpg)
+![](/assets/imagse/pages/5-community-009.jpg)
 
 ## COURTESIES
 

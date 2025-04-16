@@ -4,7 +4,7 @@ title: "Safety"
 header_transparent: false
 permalink: "/safety/"
 description: "Safety information and precautions for residents of Southport Apartments."
-image: "./attachments/6-SAFETY-attachment-002.jpg"
+image: "/assets/images/pages/6-safety-002.jpg"
 ---
 
 # Safety
@@ -33,7 +33,7 @@ And then let’s look at:
 
 Your unit has two types of sensors for fire:
 
-![](./attachments/6-SAFETY-attachment-002.jpg)
+![](/assets/images/pages/6-safety-002.jpg)
 
 They sense two different fire products: smoke and heat. They respond differently: the smoke alarm emits a loud sound to alert you, and the heat detector triggers an alert to the fire brigade.
 
@@ -58,7 +58,7 @@ As the National Construction Code requires, Southport has an Emergency Warning a
 
 If a fire is confirmed, the system will you ask you to evacuate. Near you will be an Evacuation Diagram like these:
 
-![](./attachments/6-SAFETY-attachment-003.png)
+![](/assets/images/pages/6-safety-003.png)
 
 Tip: Memorise the Evacuation Diagram near your unit so you can evacuate quickly and safely if the time comes.
 
@@ -81,7 +81,7 @@ TK
 
 Inside your unit is an electrical panel like this:
 
-![](./attachments/6-SAFETY-attachment-004.jpeg)
+![](/assets/images/pages/6-safety-004.jpeg)
 
 ##
 
@@ -116,11 +116,11 @@ Two reasons for the 10 kph speed limit are:
 - A car reversing with poor visibility.
 - A small child running from behind a car.
 
-![](./attachments/6-SAFETY-attachment-005.jpg)
+![](/assets/images/pages/6-safety-005.jpg)
 
 TK
 
-**![](./attachments/6-SAFETY-attachment-006.png)\*\***#\*\*
+**![](/assets/images/pages/6-safety-006.png)\*\***#\*\*
 
 #
 
@@ -150,7 +150,7 @@ And then let’s look at:
 
 Your unit has two types of sensors for fire:
 
-![](./attachments/6-SAFETY-attachment-007.jpg)
+![](/assets/images/pages/6-safety-007.jpg)
 
 They sense two different fire products: smoke and heat. They respond differently: the smoke alarm emits a loud sound to alert you, and the heat detector triggers an alert to the fire brigade.
 
@@ -175,7 +175,7 @@ As the National Construction Code requires, Southport has an Emergency Warning a
 
 If a fire is confirmed, the system will you ask you to evacuate. Near you will be an Evacuation Diagram like these:
 
-![](./attachments/6-SAFETY-attachment-008.png)
+![](/assets/images/pages/6-safety-008.png)
 
 Tip: Memorise the Evacuation Diagram near your unit so you can evacuate quickly and safely if the time comes.
 
@@ -198,7 +198,7 @@ TK
 
 Inside your unit is an electrical panel like this:
 
-![](./attachments/6-SAFETY-attachment-009.jpeg)
+![](/assets/images/pages/6-safety-009.jpeg)
 
 ##
 
@@ -233,11 +233,11 @@ Two reasons for the 10 kph speed limit are:
 - A car reversing with poor visibility.
 - A small child running from behind a car.
 
-![](./attachments/6-SAFETY-attachment-010.jpg)
+![](/assets/images/pages/6-safety-010.jpg)
 
 TK
 
-**![](./attachments/6-SAFETY-attachment-011.png)\*\***#\*\*
+**![](/assets/images/pages/6-safety-011.png)\*\***#\*\*
 
 #
 
@@ -267,7 +267,7 @@ And then let’s look at:
 
 Your unit has two types of sensors for fire:
 
-![](./attachments/6-SAFETY-attachment-012.jpg)
+![](/assets/images/pages/6-safety-012.jpg)
 
 They sense two different fire products: smoke and heat. They respond differently: the smoke alarm emits a loud sound to alert you, and the heat detector triggers an alert to the fire brigade.
 
@@ -292,7 +292,7 @@ As the National Construction Code requires, Southport has an Emergency Warning a
 
 If a fire is confirmed, the system will you ask you to evacuate. Near you will be an Evacuation Diagram like these:
 
-![](./attachments/6-SAFETY-attachment-013.png)
+![](/assets/images/pages/6-safety-013.png)
 
 Tip: Memorise the Evacuation Diagram near your unit so you can evacuate quickly and safely if the time comes.
 
@@ -315,7 +315,7 @@ TK
 
 Inside your unit is an electrical panel like this:
 
-![](./attachments/6-SAFETY-attachment-014.jpeg)
+![](/assets/images/pages/6-safety-014.jpeg)
 
 ##
 
@@ -350,6 +350,6 @@ Two reasons for the 10 kph speed limit are:
 - A car reversing with poor visibility.
 - A small child running from behind a car.
 
-![](./attachments/6-SAFETY-attachment-015.jpg)
+![](/assets/images/pages/6-safety-015.jpg)
 
 TK

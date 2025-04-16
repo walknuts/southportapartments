@@ -4,7 +4,7 @@ title: "Contact"
 header_transparent: false
 permalink: "/contact/"
 description: "Contact information for Southport Apartments."
-image: "./attachments/8-CONTACT-attachment-002.jpg"
+image: "/assets/images/pages/8-contact-002.jpg"
 ---
 
 # Contact
@@ -28,7 +28,7 @@ Our Building Manager has posted this notice in the entrances and lifts:
 
 ##
 
-![](./attachments/8-CONTACT-attachment-002.jpg)
+![](/assets/images/pages/8-contact-002.jpg)
 
 Grady are also your contact for:
 
@@ -40,7 +40,7 @@ at our EC email address below.
 
 ## Building Manager
 
-Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](./attachments/8-CONTACT-attachment-003.jpg)
+Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](/assets/images/pages/8-contact-003.jpg)
 
 ## Can I contact the Executive Committee (EC) directly?
 
@@ -58,7 +58,7 @@ webmaster@southport.apartments
 
 ## Facebook?
 
-The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications. **![](./attachments/8-CONTACT-attachment-004.png)\*\***#\*\*
+The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications. **![](/assets/images/pages/8-contact-004.png)\*\***#\*\*
 
 #
 
@@ -83,7 +83,7 @@ Our Building Manager has posted this notice in the entrances and lifts:
 
 ##
 
-![](./attachments/8-CONTACT-attachment-005.jpg)
+![](/assets/images/pages/8-contact-005.jpg)
 
 Grady are also your contact for:
 
@@ -95,7 +95,7 @@ at our EC email address below.
 
 ## Building Manager
 
-Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](./attachments/8-CONTACT-attachment-006.jpg)
+Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](/assets/images/pages/8-contact-006.jpg)
 
 ## Can I contact the Executive Committee (EC) directly?
 
@@ -113,7 +113,7 @@ webmaster@southport.apartments
 
 ## Facebook?
 
-The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications. **![](./attachments/8-CONTACT-attachment-007.png)\*\***#\*\*
+The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications. **![](/assets/images/pages/8-contact-007.png)\*\***#\*\*
 
 #
 
@@ -138,7 +138,7 @@ Our Building Manager has posted this notice in the entrances and lifts:
 
 ##
 
-![](./attachments/8-CONTACT-attachment-008.jpg)
+![](/assets/images/pages/8-contact-008.jpg)
 
 Grady are also your contact for:
 
@@ -150,7 +150,7 @@ at our EC email address below.
 
 ## Building Manager
 
-Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](./attachments/8-CONTACT-attachment-009.jpg)
+Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around: ![](/assets/images/pages/8-contact-009.jpg)
 
 ## Can I contact the Executive Committee (EC) directly?
 

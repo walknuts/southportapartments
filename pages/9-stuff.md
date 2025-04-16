@@ -4,7 +4,7 @@ title: "Admin"
 header_transparent: false
 permalink: "/admin/"
 description: "Administrative information for the Executive Committee and Strata Manager."
-image: "./attachments/9-STUFF-attachment-002.jpg"
+image: "/assets/images/pages/9-stuff-002.jpg"
 ---
 
 # Admin
@@ -86,7 +86,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-002.jpg)
+![](/assets/images/pages/9-stuff-002.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -99,7 +99,7 @@ There are two:
 
 **## STRATA INSURANCE**
 
-![](./attachments/9-STUFF-attachment-003.png)
+![](/assets/images/pages/9-stuff-003.png)
 
 Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Current and Policy Schedule on Grady’s portal. The PDS and Policy Wording are on Chubb’s website.
 
@@ -118,7 +118,7 @@ As we write and approve policies, we will link them to this list:
 0 Policy and Procedures 1 Membership 2 Meetings 3 Communication 4 Maintenance 5 Resources 6 Tendering 7 Project Management 8 Contract Management 9 Quality Management 10 Safety Management 11 Delegation 12 Managing the
 Manager 13 Pet Approvals 14 Unit Modifications 15 Advertising on our common property 16 Fob audits 17 Style Guide 18 Powered doors for private units 19 Airbnb 20 EV charging 21 Smoke drift
 
-**![](./attachments/9-STUFF-attachment-004.png)\*\***#\*\*
+**![](/assets/images/pages/9-stuff-004.png)\*\***#\*\*
 
 #
 
@@ -201,7 +201,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-005.jpg)
+![](/assets/images/pages/9-stuff-005.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -214,7 +214,7 @@ There are two:
 
 **## STRATA INSURANCE**
 
-![](./attachments/9-STUFF-attachment-006.png)
+![](/assets/images/pages/9-stuff-006.png)
 
 Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Current and Policy Schedule on Grady’s portal. The PDS and Policy Wording are on Chubb’s website.
 
@@ -233,7 +233,7 @@ As we write and approve policies, we will link them to this list:
 0 Policy and Procedures 1 Membership 2 Meetings 3 Communication 4 Maintenance 5 Resources 6 Tendering 7 Project Management 8 Contract Management 9 Quality Management 10 Safety Management 11 Delegation 12 Managing the
 Manager 13 Pet Approvals 14 Unit Modifications 15 Advertising on our common property 16 Fob audits 17 Style Guide 18 Powered doors for private units 19 Airbnb 20 EV charging 21 Smoke drift
 
-**![](./attachments/9-STUFF-attachment-007.png)\*\***#\*\*
+**![](/assets/images/pages/9-stuff-007.png)\*\***#\*\*
 
 #
 
@@ -316,7 +316,7 @@ While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-us
 
 While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](./attachments/9-STUFF-attachment-008.jpg)
+![](/assets/images/pages/9-stuff-008.jpg)
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
 
@@ -329,7 +329,7 @@ There are two:
 
 **## STRATA INSURANCE**
 
-![](./attachments/9-STUFF-attachment-009.png)
+![](/assets/images/pages/9-stuff-009.png)
 
 Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Current and Policy Schedule on Grady’s portal. The PDS and Policy Wording are on Chubb’s website.
 

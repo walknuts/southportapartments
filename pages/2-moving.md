@@ -4,12 +4,12 @@ title: "Moving"
 header_transparent: false
 permalink: "/moving/"
 description: "Everything you need to know about moving in or out of Southport Apartments."
-image: "./attachments/2-MOVING-attachment-002.jpg"
+image: "/assets/images/pages/2-moving-002.jpg"
 ---
 
 # Moving
 
-![](./attachments/2-MOVING-attachment-002.jpg)
+![](/assets/images/pages/2-moving-002.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -60,7 +60,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-003.jpg)
+![](/assets/images/pages/2-moving-003.jpg)
 
 Visit Icon Water’s website.
 
@@ -73,7 +73,7 @@ For gas, you can choose your supplier.
 Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
 water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-004.jpg)
+![](/assets/images/pages/2-moving-004.jpg)
 
 ##
 
@@ -93,13 +93,13 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-005.jpg)
+![](/assets/images/pages/2-moving-005.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
 iiNet now offers a faster internet service called Ultra VDSL2 Broadband. Still using the TransACT network, its download speeds are up to 500 Mbps.
 
-![](./attachments/2-MOVING-attachment-006.png)
+![](/assets/images/pages/2-moving-006.png)
 
 Infinite, a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
 
@@ -123,7 +123,7 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
 end and an F-type on the other.
 
-![](./attachments/2-MOVING-attachment-007.jpeg)
+![](/assets/images/pages/2-moving-007.jpeg)
 
 ##
 
@@ -154,7 +154,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-008.jpg)
+![](/assets/images/pages/2-moving-008.jpg)
 
 ### Other entrances
 
@@ -189,7 +189,7 @@ We are considering labelling the doors more intuitively to the Australian Standa
 
 These are the steps for you and your visitor:
 
-![](./attachments/2-MOVING-attachment-009.png)
+![](/assets/images/pages/2-moving-009.png)
 
 ##
 
@@ -203,7 +203,7 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-010.jpg)
+![](/assets/images/pages/2-moving-010.jpg)
 
 Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
 roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
@@ -227,7 +227,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-011.jpg)
+![](/assets/images/pages/2-moving-011.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -241,20 +241,20 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-012.jpg)
+![](/assets/images/pages/2-moving-012.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
 As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
 priority access, and give you instructions, including for your removalist’s parking.
 
-**![](./attachments/2-MOVING-attachment-013.png)\*\***#\*\*
+**![](/assets/images/pages/2-moving-013.png)\*\***#\*\*
 
 #
 
 # 2 MOVING
 
-![](./attachments/2-MOVING-attachment-014.jpg)
+![](/assets/images/pages/2-moving-014.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -305,7 +305,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-015.jpg)
+![](/assets/images/pages/2-moving-015.jpg)
 
 Visit Icon Water’s website.
 
@@ -318,7 +318,7 @@ For gas, you can choose your supplier.
 Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
 water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-016.jpg)
+![](/assets/images/pages/2-moving-016.jpg)
 
 ##
 
@@ -338,13 +338,13 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-017.jpg)
+![](/assets/images/pages/2-moving-017.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
 iiNet now offers a faster internet service called Ultra VDSL2 Broadband. Still using the TransACT network, its download speeds are up to 500 Mbps.
 
-![](./attachments/2-MOVING-attachment-018.png)
+![](/assets/images/pages/2-moving-018.png)
 
 Infinite, a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
 
@@ -368,7 +368,7 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
 end and an F-type on the other.
 
-![](./attachments/2-MOVING-attachment-019.jpeg)
+![](/assets/images/pages/2-moving-019.jpeg)
 
 ##
 
@@ -399,7 +399,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-020.jpg)
+![](/assets/images/pages/2-moving-020.jpg)
 
 ### Other entrances
 
@@ -434,7 +434,7 @@ We are considering labelling the doors more intuitively to the Australian Standa
 
 These are the steps for you and your visitor:
 
-![](./attachments/2-MOVING-attachment-021.png)
+![](/assets/images/pages/2-moving-021.png)
 
 ##
 
@@ -448,7 +448,7 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-022.jpg)
+![](/assets/images/pages/2-moving-022.jpg)
 
 Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
 roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
@@ -472,7 +472,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-023.jpg)
+![](/assets/images/pages/2-moving-023.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -486,20 +486,20 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-024.jpg)
+![](/assets/images/pages/2-moving-024.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
 As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
 priority access, and give you instructions, including for your removalist’s parking.
 
-**![](./attachments/2-MOVING-attachment-025.png)\*\***#\*\*
+**![](/assets/images/pages/2-moving-025.png)\*\***#\*\*
 
 #
 
 # 2 MOVING
 
-![](./attachments/2-MOVING-attachment-026.jpg)
+![](/assets/images/pages/2-moving-026.jpg)
 
 Let’s help you move, whether in or out.
 
@@ -550,7 +550,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: Icon Water.
 
-![](./attachments/2-MOVING-attachment-027.jpg)
+![](/assets/images/pages/2-moving-027.jpg)
 
 Visit Icon Water’s website.
 
@@ -563,7 +563,7 @@ For gas, you can choose your supplier.
 Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
 water usage, as measured by a meter above your bathroom ceiling:
 
-![](./attachments/2-MOVING-attachment-028.jpg)
+![](/assets/images/pages/2-moving-028.jpg)
 
 ##
 
@@ -583,13 +583,13 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
 
-![](./attachments/2-MOVING-attachment-029.jpg)
+![](/assets/images/pages/2-moving-029.jpg)
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
 iiNet now offers a faster internet service called Ultra VDSL2 Broadband. Still using the TransACT network, its download speeds are up to 500 Mbps.
 
-![](./attachments/2-MOVING-attachment-030.png)
+![](/assets/images/pages/2-moving-030.png)
 
 Infinite, a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
 
@@ -613,7 +613,7 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
 end and an F-type on the other.
 
-![](./attachments/2-MOVING-attachment-031.jpeg)
+![](/assets/images/pages/2-moving-031.jpeg)
 
 ##
 
@@ -644,7 +644,7 @@ Are rates included in my levy? No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](./attachments/2-MOVING-attachment-032.jpg)
+![](/assets/images/pages/2-moving-032.jpg)
 
 ### Other entrances
 
@@ -679,7 +679,7 @@ We are considering labelling the doors more intuitively to the Australian Standa
 
 These are the steps for you and your visitor:
 
-![](./attachments/2-MOVING-attachment-033.png)
+![](/assets/images/pages/2-moving-033.png)
 
 ##
 
@@ -693,7 +693,7 @@ For more instructions on your unit’s intercom, here is a link to the Operation
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](./attachments/2-MOVING-attachment-034.jpg)
+![](/assets/images/pages/2-moving-034.jpg)
 
 Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
 roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
@@ -717,7 +717,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](./attachments/2-MOVING-attachment-035.jpg)
+![](/assets/images/pages/2-moving-035.jpg)
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -731,7 +731,7 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](./attachments/2-MOVING-attachment-036.jpg)
+![](/assets/images/pages/2-moving-036.jpg)
 
 We’re sorry to see you go. We’ll miss you.
 
