@@ -11,8 +11,8 @@ hero:
   heading: "Southport Apartments"
   sub_heading: "On the shores of beautiful Lake Tuggeranong"
   text_color: "#FFFFFF"
-  background_color: "#1d2830"
-  background_gradient: true
+  background_color: "#696871"
+  background_gradient: false
   background_image: "/assets/images/pages/banner-large.jpg"
   background_image_blend_mode: overlay
   fullscreen_mobile: true

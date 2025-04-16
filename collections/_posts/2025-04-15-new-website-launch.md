@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Website Launch"
-date: 2023-04-15
+date: 2025-04-15
 categories: ["Website"]
 description: "Welcome to the new Southport Apartments website"
 thumbnail: "/assets/images/gen/blog/blog-1.webp"
@@ -21,4 +21,5 @@ Second, we want wider availability; Grady's 'Client login' is only for owners.
 
 When an owner volunteered to create and run the website for us, for free, we thought it was a rare opportunity worth trying! Especially when we saw that the Owners Corporation Network recommends it.
 
-We hope you enjoy looking around our website. Please be patient while we fill in the blanks and smooth the rough edges. We'd appreciate your help, so please email your corrections and suggestions to our webmaster at webmaster@southport.apartments.
+We hope you enjoy looking around our website. Please be patient while we fill in the blanks and smooth the rough edges. We'd appreciate your help, so please email your corrections and suggestions to our webmaster at
+[webmaster@southport.apartments](mailto:webmaster@southport.apartments).
