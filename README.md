@@ -4,4 +4,6 @@ This is the Jekyll source for the Southport Apartments complex, located on the s
 
 ## Licence
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Theme files: see [./LICENSE](LICENSE).
+
+Content: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
