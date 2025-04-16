@@ -7,15 +7,9 @@ description: "Administrative information for the Executive Committee and Strata 
 image: "/assets/images/pages/9-stuff-002.jpg"
 ---
 
-# Admin
-
-###
-
 Admin for the Executive Committee and Strata Manager (including Building Manager).
 
-**## LEGISLATION**
-
-##
+## LEGISLATION
 
 These are the primary ACT Acts, Regulations and standards governing Southport:
 

@@ -1,15 +1,11 @@
 ---
 layout: basic
-title: "About Us"
+title: "About Southport Apartments"
 header_transparent: false
 permalink: "/about/"
-description: "Discover Southport Apartments - our property, amenities, and community in the heart of Greenway, Canberra."
+description: "Our property and people — and why you'll love both."
 image: "/assets/images/gen/content/content-5.webp"
 ---
-
-# About Southport Apartments
-
-Our property and people — and why you'll love both.
 
 ## Location! Location! Location!
 
@@ -32,11 +28,11 @@ You'll love living where convenience meets nature:
 - Pop across the road for your hardware and garden (Bunnings)
 - Jump on a bus (stops only steps away)
 
-Taste the nature…
+Taste the nature...
 
 ![Lake view with natural surroundings](/assets/images/pages/1-about-004.jpg)
 
-…and then the coffee…
+...and then the coffee...
 
 ![Coffee shop near Southport](/assets/images/pages/1-about-005.jpg)
 
