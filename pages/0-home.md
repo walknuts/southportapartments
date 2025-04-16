@@ -20,6 +20,8 @@ hero:
   height: "660px"
 ---
 
+Cool stuff is happening here. Be a part of it!
+
 # Home
 
 ![](/assets/images/pages/0-home-001.jpg)

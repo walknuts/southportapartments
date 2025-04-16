@@ -29,7 +29,7 @@ Your unit has two types of sensors for fire:
 
 They sense two different fire products: smoke and heat. They respond differently: the smoke alarm emits a loud sound to alert you, and the heat detector triggers an alert to the fire brigade.
 
-Do they require maintenance?
+#### Do they require maintenance?
 
 Only the smoke alarm. Although it is mains-powered, it has a backup 9V battery, which you should change annually, and you should test it at the same time. Other instructions for your smoke alarm are here. (Our fire
 safety contractor may occasionally come to test your heat detector, but it requires no maintenance or testing by you.)
