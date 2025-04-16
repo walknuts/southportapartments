@@ -86,7 +86,7 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary_bg: "#2b3af7"
+  primary_bg: "#696871"
   primary_bg_2: "#424ff8"
   primary_bg_3: "#702bf7"
   primary_text: "#fdfcf9"
@@ -145,13 +145,13 @@ header:
 #   meta_twitter_creator: "@zerostaticio"
 
 darkmode:
-  enable_dark_mode: true
+  enable_dark_mode: false
   show_dark_mode_toggle_in_header: false
   show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
 
 cookie_banner:
-  enabled: true
+  enabled: false
   show_manage_cookies_at_bottom: true
 
 analytics:
@@ -187,7 +187,7 @@ footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Southport Apartments"
   footer_description: "Southport Apartments is a modern apartment complex located in the heart of Tuggeranong."
-  enable_social_media_icons: true
+  enable_social_media_icons: false
   enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
