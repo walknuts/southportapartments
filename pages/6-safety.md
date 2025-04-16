@@ -1,8 +1,13 @@
-**![](./attachments/6-SAFETY-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Safety"
+header_transparent: false
+permalink: "/safety/"
+description: "Safety information and precautions for residents of Southport Apartments."
+image: "./attachments/6-SAFETY-attachment-002.jpg"
+---
 
-#
-
-# 6 SAFETY
+# Safety
 
 #
 

@@ -1,8 +1,13 @@
-**![](./attachments/8-CONTACT-attachment-001.png)\*\***#\*\*
+---
+layout: contact
+title: "Contact"
+header_transparent: false
+permalink: "/contact/"
+description: "Contact information for Southport Apartments."
+image: "./attachments/8-CONTACT-attachment-002.jpg"
+---
 
-#
-
-# 8 CONTACT
+# Contact
 
 ###
 

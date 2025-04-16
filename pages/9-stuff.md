@@ -1,8 +1,13 @@
-**![](./attachments/9-STUFF-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Admin"
+header_transparent: false
+permalink: "/admin/"
+description: "Administrative information for the Executive Committee and Strata Manager."
+image: "./attachments/9-STUFF-attachment-002.jpg"
+---
 
-#
-
-# 9 STUFF
+# Admin
 
 ###
 

@@ -1,8 +1,13 @@
-**![](./attachments/4-HOME-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Your Home"
+header_transparent: false
+permalink: "/your-home/"
+description: "Information to help you understand and care for your home at Southport Apartments."
+image: "./attachments/4-HOME-attachment-002.jpg"
+---
 
-#
-
-**# 4 HOME**
+# Your Home
 
 ###
 

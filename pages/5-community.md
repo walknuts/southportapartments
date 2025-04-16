@@ -1,8 +1,13 @@
-**![](./attachments/5-COMMUNITY-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Community"
+header_transparent: false
+permalink: "/community/"
+description: "Guidelines, rules, and courtesies to help promote a harmonious community at Southport Apartments."
+image: "./attachments/5-COMMUNITY-attachment-003.jpg"
+---
 
-#
-
-# 5 COMMUNITY
+# Community
 
 #
 

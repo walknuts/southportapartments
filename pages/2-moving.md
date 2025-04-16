@@ -1,8 +1,13 @@
-**![](./attachments/2-MOVING-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Moving"
+header_transparent: false
+permalink: "/moving/"
+description: "Everything you need to know about moving in or out of Southport Apartments."
+image: "./attachments/2-MOVING-attachment-002.jpg"
+---
 
-#
-
-# 2 MOVING
+# Moving
 
 ![](./attachments/2-MOVING-attachment-002.jpg)
 

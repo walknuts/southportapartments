@@ -1,6 +1,13 @@
-**![](./attachments/3-VISITING-attachment-001.png)\*\***#\*\*
+---
+layout: basic
+title: "Visiting"
+header_transparent: false
+permalink: "/visiting/"
+description: "Visitor information and directions for Southport Apartments."
+image: "./attachments/3-VISITING-attachment-002.jpg" 
+---
 
-**# 3 VISITING**
+# Visiting
 
 The directions you need, including for deliveries.
 
