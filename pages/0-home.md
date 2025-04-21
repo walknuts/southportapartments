@@ -34,4 +34,4 @@ Cool stuff is happening here. Be a part of it!
 
 ### Disclaimer
 
-We take all reasonable care with this website but do not warrant or admit liability for its correctness, completeness or suitability for your purpose. So, check our information before relying on it.
+We take all reasonable care with this website but do not warrant or admit liability for its correctness, completeness or suitability for your purpose. Please check our information before relying on it.
