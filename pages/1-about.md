@@ -113,8 +113,8 @@ If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fi
 We house three shops on Anketell Street:
 
 - O Bach Vietnamese
-- Tuggers Laundromat
-- Thai Bodhi Thai Massage
+- [Tuggers Laundromat](https://spinzone.com.au/locations/spinzone-tuggeranong-act-2900/)
+- [Thai Bodhi Thai Massage](https://thaibodhithai.com.au)
 
 ![Shops at Southport](/assets/images/pages/1-about-014.jpg)
 
