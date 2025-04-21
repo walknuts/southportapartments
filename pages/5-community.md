@@ -21,7 +21,7 @@ Ideally, we would love to have only one rule to help us get along: ‘Love your 
 
 ## OWNERS CORPORATION RULES
 
-Owners can view or download a PDF of the latest Owners Corporation Rules from Grady’s portal. Tenants can ask their landlord or their agent for a copy.
+Owners can view or download a PDF of the latest Owners Corporation Rules from [Grady’s portal](https://gradystrata.com.au/client-login/). Tenants can ask their landlord or their agent for a copy.
 
 These rules are registered with the ACT Land Titles Office and are enforceable.
 
@@ -59,7 +59,7 @@ Occasionally, the maintenance will require your cooperation. An example is movin
 
 ## Gym
 
-[Insert Paul’s new sign when it’s ready.]
+{Insert Paul’s new sign when it’s ready.}
 
 ## Sauna
 
@@ -90,7 +90,7 @@ TK
 
 TK
 
-[Frequency effects, wall construction, etc]
+{Frequency effects, wall construction, etc}
 
 ## Lost property
 
