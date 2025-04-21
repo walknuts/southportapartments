@@ -63,6 +63,20 @@ Knowing about your unit’s construction can help whether you are insuring your 
 - The roof is steel sheets.
 - The external floor tiles are removable and rest on adjustable pedestals.
 
+## WARRANTY
+
+### When does the warranty on my unit expire?
+
+TK
+
+### Who should I contact for building defects?
+
+TK
+
+### How do I know if something is a ‘defect’ or within the acceptable building tolerance?
+
+[*The NSW Guide to Standards and Tolerances 2017*](https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/after-you-build-or-renovate/guide-to-standards-and-tolerances) is helpful, even in the ACT. 
+
 ## FINISHES
 
 ### Internal finishes
