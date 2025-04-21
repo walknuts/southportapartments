@@ -138,7 +138,7 @@ You care. So do we.
 
 GEOCON gave us:
 
-- A central location (after discovering the convenience of walking and bussing, you'll use your car less)
+- A central location (after discovering the convenience of walking and busing, you'll notice yourself driving less)
 - Solid solar-passive construction (every unit has an EER of at least 5, so your heating and cooling bills will delight you)
 
 We've added more sustainable features:
