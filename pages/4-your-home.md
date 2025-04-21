@@ -75,7 +75,7 @@ TK
 
 ### How do I know if something is a ‘defect’ or within the acceptable building tolerance?
 
-[*The NSW Guide to Standards and Tolerances 2017*](https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/after-you-build-or-renovate/guide-to-standards-and-tolerances) is helpful, even in the ACT. 
+[_The NSW Guide to Standards and Tolerances 2017_](https://www.fairtrading.nsw.gov.au/housing-and-property/building-and-renovating/after-you-build-or-renovate/guide-to-standards-and-tolerances) is helpful, even in the ACT. 
 
 ## FINISHES
 
@@ -83,7 +83,7 @@ TK
 
 ![](/assets/images/pages/4-home-003.jpg)
 
-Owners can view or download the ‘Southport Internal Finishes Schedule’ from Grady’s portal. It lists the finishes for the:
+Owners can view or download the ‘Southport Internal Finishes Schedule’ from [Grady’s portal](https://gradystrata.com.au/client-login/). It lists the finishes for the:
 
 - Paints
 - Benchtop
@@ -105,7 +105,7 @@ Again, renters, please seek permission from your landlord or their agent.
 
 ![](/assets/images/pages/4-home-005.jpg)
 
-Following are instructions for the developer’s standard appliances and equipment:
+This section has instructions for the standard original appliances and equipment:
 
 - Air conditioner
 - Cooktop
@@ -124,7 +124,7 @@ Notes:
 
 - Please check the brand and model in case your unit’s original appliances and equipment were non-standard or have been replaced.
 - For your internet safety, the links are to the manufacturer’s website or a reputable Australian retailer, not one of the ‘Manuals’ websites.
-- See our ‘Safety’ page for the instructions for your smoke alarms and other safety devices.
+- See our ‘Safety’ page for instructions on your smoke alarms and other safety devices.
 
 ### Air conditioner
 
@@ -138,7 +138,7 @@ Is your air conditioner one of these models?
 - MSZ-GE42VAD
 - MSZ-GE50VAD.
 
-If so, then this is the manual.
+If so, then [this is the manual](https://www.mitsubishielectric.com.au/wp-content/uploads/2022/04/MSZ-GE22-50VAD_OM_JG79A796H04_2016-1.pdf).
 
 Is your air conditioner one of these models?
 
@@ -146,7 +146,7 @@ Is your air conditioner one of these models?
 - MSZ-GE71VAD
 - MSZ-GE80VAD.
 
-If so, then this is the manual.
+If so, then [this is the manual](https://www.mitsubishielectric.com.au/wp-content/uploads/2022/04/MSZ-GE60-80VAD_OM_JG79A789H02_2016-1.pdf).
 
 Here are some basics common to all models:
 
@@ -158,19 +158,19 @@ Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not ha
 
 ### Cooktop
 
-Here are the instructions for the Blanco Ceran Knob Control Cooktop Model BCCK6ON, which was the standard cooktop.
+[Here are the instructions](https://commercial.appliancesonline.com.au/manuals/ak/e/2/1/5/e21503b38cc027b8e0bdc9fd4ce734653391a377_bcck6x.pdf) for the Blanco Ceran Knob Control Cooktop Model BCCK6ON.
 
 ### Oven
 
-Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco 60cm Electric Oven Model BOSE65XP, which was the standard oven.
+Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco 60cm Electric Oven Model BOSE65XP.
 
 ### Range hood
 
-Here are the instructions for the Blanco Rangehood Model BRSR60X, which was the standard rangehood.
+[Here are the instructions](https://www.appliancesonline.com.au/ak/3/d/9/b/3d9bae577232f16b2df2494220752fa308bff8f7_brsr60x_user_manual.pdf) for the Blanco Rangehood Model BRSR60X.
 
 ### Dishwasher
 
-Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco Dishwasher Model BFD645X, which was the standard dishwasher.
+Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco Dishwasher Model BFD645X.
 
 Tip: Don’t forget to wash the filter periodically per Blanco’s instructions. These photos show why:
 
@@ -178,7 +178,7 @@ Tip: Don’t forget to wash the filter periodically per Blanco’s instructions.
 
 ### Clothes dryer
 
-Here are the instructions for the Euromaid Clothers Dryer Model DE6KG, which was the standard clothes dryer.
+[Here are the instructions](https://www.euromaid.com/sites/g/files/emiian466/files/2021-03/DE6KG_MAN1.pdf) for the Euromaid Clothes Dryer Model DE6KG.
 
 ### Exhaust fans
 
@@ -197,7 +197,7 @@ You can replace your LED downlights without an electrician because each downligh
 Always follow the instructions for the downlight you buy, but here is a general _guide_:
 
 1. Switch off the downlight.
-2. Stand on a small step ladder so you can comfortably reach the ceiling.
+2. Stand on a small step ladder to comfortably reach the ceiling.
 3. Starting with your fingernails, carefully pry the trim down from the ceiling until you can get your fingers behind it.
 4. Pull the downlight evenly and slowly until you see the two spring-loaded retaining arms.
 5. Squeeze the retaining arms together enough to let you withdraw the downlight. (Watch your fingers because the retaining arms are as dangerous as mouse traps!)
@@ -218,13 +218,13 @@ Again:
 
 ![](/assets/images/pages/4-home-010.jpg)
 
-If your front door is not closing how you like, you can adjust it following these instructions.
+If your front door is not closing how you like, you can adjust it following [these instructions](https://www.yalehome.com/au/en/documents/technical-downloads/door-closers/y2400/Y2400%20-%20Standard%20Installation%20Template.pdf).
 
 Tip: You’ll need a flat-bladed screwdriver.
 
 ### Carpets
 
-If you still have it, your unit’s original carpet was nylon with a cut pile twist made by Godfrey Hirst. Their website has ‘Carpet Care Guides’.
+If you still have it, your unit’s original carpet was nylon with a cut pile twist made by Godfrey Hirst. Their [website has ‘Carpet Care Guides’](https://www.godfreyhirst.com/au/news/carpet-care-guides).
 
 ### Toilet
 
@@ -232,7 +232,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
-Villeroy & Boch’s part number for a new seat is 9M38S101. One local source is Southern Plumbing Plus, the original supplier, in Fyshwick.
+Villeroy & Boch’s part number for a new seat is 9M38S101. One local source is [Southern Plumbing Plus](https://spplus.com.au/vb5310-9m38s101-o-novo-soft-close-seat-with-top-fix-quick-release-hinges-white.html), the original supplier, in Fyshwick.
 
 ### Flyscreens
 
@@ -263,7 +263,7 @@ One resident’s suggestion is to:
 3. Squeegee the water into the gaps around the tiles
 4. Repeat with water mixed with disinfectant.
 
-If that doesn’t work, you could try Chemtech Brick Tile and Paver Cleaner, available in 1L and 5L bottles from Bunnings. It will remove the white deposits that often form under potplants.
+If that doesn’t work, you could try [Chemtech Brick Tile and Paver Cleaner](https://www.bunnings.com.au/chemtech-1l-brick-tile-and-paver-cleaner_p0964678?store=4040&gclsrc=aw.ds&gad_source=1&gbraid=0AAAAADtbEB-NaoLjjyVK9iJhX4qIgShGv&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfuS1jLeIhNE21yrgx5WRQBHRVIMu7LpOG_M7L42x4S6pZMtKRLXmDRoCwx4QAvD_BwE), available in 1L and 5L bottles from Bunnings. It will remove the white deposits that often form under pot plants.
 
 If you want to replace a cracked or broken tile in your balcony or courtyard:
 
@@ -286,8 +286,9 @@ Yes, subject to the following conditions. We are developing policies that provid
 
 ### General conditions
 
-EC approval Strata insurance Fire regulations
-
+EC approval
+Strata insurance
+Fire regulations
 TK
 
 ### Timber floors
@@ -310,14 +311,13 @@ We want Southport to be as good for investing as it is for living. We only ask t
 
 ### Can I rent my unit on Airbnb?
 
-Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common
-property.
+Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property.
 
 We hope the information on our website helps your guests make the most of their stay.
 
-### Can I rent my parking space?
+### Can I rent my carpark if I am not using it?
 
-Yes, if you have a spare space, you can rent it to other residents. You could try advertising it on the ‘Southport Tuggeranong Residents’ Facebook Group.
+Yes, you can rent it to other residents. You could try advertising it on the ‘Southport Tuggeranong Residents’ Facebook Group.
 
 It is up to you to:
 
@@ -330,4 +330,4 @@ We recommend:
 
 - Clarifying whether the rent includes your storage cage (it’s up to you)
 - Photographing the car space and adjoining storage shed, if there is one, to help resolve disputes about cleanliness or damage
-- Asking the renter to leave you enough space to open the door or your storage cage.
+- Asking the renter to leave you enough space to open the door of your storage cage.
