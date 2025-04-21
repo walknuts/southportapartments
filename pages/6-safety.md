@@ -41,18 +41,15 @@ They sense two different fire products: smoke and heat. They respond differently
 
 #### Do they require maintenance?
 
-Only the smoke alarm. Although it is mains-powered, it has a backup 9V battery, which you should change annually, and you should test it at the same time. Other instructions for your smoke alarm are here. (Our fire
-safety contractor may occasionally come to test your heat detector, but it requires no maintenance or testing by you.)
+Only the smoke alarm. Although it is mains-powered, it has a backup 9V battery, which you should change annually, and you should test it at the same time. Other instructions for your smoke alarm are [here](https://documents.portalink.net/product/287091/INST%20SMOKE%20643085%20LE05841AF.pdf). (Our fire safety contractor may occasionally come to test your heat detector, but it requires no maintenance or testing by you.)
 
-What if I burn my toast? Just open your doors and windows to let the smoke escape. You don’t have to worry about the fire brigade arriving! [This is my understanding as well as MG’s; however, Geocon’s Building Manual for
-Southport says: ‘if the smoke is not cleared within 5 minutes or the smoke becomes denser in that time frame. The alarm will then also escalate to a full building alarm in which the evacuation system will sound
-throughout and ACT Fire & Rescue (ACTF&ampR) will be called.’ Is that true?]
+What if I burn my toast? Just open your doors and windows to let the smoke escape. You don’t have to worry about the fire brigade arriving! {This is my understanding as well as MG’s; however, Geocon’s Building Manual for Southport says: ‘if the smoke is not cleared within 5 minutes or the smoke becomes denser in that time frame. The alarm will then also escalate to a full building alarm in which the evacuation system will sound throughout and ACT Fire & Rescue will be called.’ Is that true?}
 
 ### Warnings and evacuation
 
 As the National Construction Code requires, Southport has an Emergency Warning and Intercom System (EWIS) to Australian Standard AS 1670.4.
 
-[Describe how it works, including testing and cascading. In testing, include their timing, for sleeping babies and shift workers, and what to do if you can’t hear a test.]
+{Describe how it works, including testing and cascading. In testing, include their timing, for sleeping babies and shift workers, and what to do if you can’t hear a test.}
 
 If a fire is confirmed, the system will you ask you to evacuate. Near you will be an Evacuation Diagram like these:
 
@@ -62,8 +59,7 @@ Tip: Memorise the Evacuation Diagram near your unit so you can evacuate quickly 
 
 ### What if I need help to evacuate?
 
-Ask the Strata Manager for a PEEP (Personal Emergency Evacuation Plan) form. If you have lodged your completed PEEP form with the Strata Manager, the fire brigade will see it and call you. Stay in your room with your
-front door closed until you receive that call. Your front door is rated to resist a fire for up to 2 hours.
+Ask the Strata Manager for a PEEP (Personal Emergency Evacuation Plan) form. If you have lodged your completed PEEP form with the Strata Manager, the fire brigade will see it and call you. Stay in your room with your front door closed until you receive that call. Your front door is rated to resist a fire for up to 2 hours.
 
 ### Storage cages
 
@@ -101,7 +97,7 @@ TK
 
 TK
 
-[Check the personal and fire safety of needing a fob to exit the platform through the powered door.]
+{Check the personal and fire safety of needing a fob to exit the platform through the powered door.}
 
 ## CARPARK
 
