@@ -46,11 +46,9 @@ Before you move in, you’ll want to start arranging your utilities.
 
 ### Water
 
-There’s only one choice in Canberra: Icon Water.
+There’s only one choice in Canberra: [Icon Water](https://www.iconwater.com.au).
 
 ![](/assets/images/pages/2-moving-003.jpg)
-
-Visit Icon Water’s website.
 
 [Is each unit’s cold water individually metered? If so, where is the meter?]
 
@@ -73,7 +71,7 @@ The hot water meter is accessible through a removable panel in your bathroom cei
 
 You can choose wired or wireless internet.
 
-Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was iiNet:
+Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was [iiNet](https://www.iinet.net.au/home):
 
 ![](/assets/images/pages/2-moving-005.jpg)
 
@@ -83,12 +81,11 @@ iiNet now offers a faster internet service called Ultra VDSL2 Broadband. Still u
 
 ![](/assets/images/pages/2-moving-006.png)
 
-Infinite, a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
+[Infinite](https://www.infinite.net.au), a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
 
 So contact iiNet or Infinite if you want to arrange a _wired_ connection. If the ISP’s technician needs access to the Communications Room, refer them to the Building Manager.
 
-There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from
-your ISP’s transmitter.
+There is also _mobile_ internet. It offers more choice of Internet Service Providers (ISPs), but ask about the likely reception in _your unit._ It can be insufficient if your unit is on the far side of the building from your ISP’s transmitter.
 
 ### Telephone
 
@@ -96,14 +93,13 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 
 ### TV
 
-Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one
-end and an F-type on the other.
+Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one end and an F-type on the other.
 
 ![](/assets/images/pages/2-moving-007.jpeg)
 
-### Home insurance
+## HOME INSURANCE
 
-Southport’s insurance, included in your levy, covers your building, so you don’t need Building Insurance. (A copy of Southport’s Building Insurance policy is on Grady’s owners portal.)
+Southport’s insurance, included in your levy, covers your building, so you don’t need Building Insurance. (A copy of Southport’s Building Insurance policy is on [Grady’s owners portal](https://gradystrata.com.au/client-login/).)
 
 It’s up to you whether you buy Contents Insurance to cover:
 
@@ -114,11 +110,15 @@ If the Contents Insurance application form asks you about the construction of yo
 
 Investors should consider landlord’s insurance.
 
-### Owners corporation levy
+## OWNERS CORPORATION LEVY
 
-Do I have to pay it before I move in? [Answer TK]
+### Do I have to pay it before I move in?
 
-Are rates included in my levy? No.
+TK
+
+### Are rates included in my levy?
+
+No.
 
 ## WHEN YOU ARRIVE
 
@@ -147,7 +147,7 @@ There are also fire exits. You might be able to use one as a shortcut to your un
 
 Although labelled ‘Automatic’, they don’t open automatically as you approach, as do the doors at the shopping mall. The reason is security. You must hold your fob near the reader beside the door.
 
-We are considering labelling the doors more intuitively to the Australian Standard.
+We are considering labelling the doors more intuitively according to the Australian Standard.
 
 ### How do I let visitors in?
 
@@ -155,7 +155,7 @@ These are the steps for you and your visitor:
 
 ![](/assets/images/pages/2-moving-009.png)
 
-For more instructions on your unit’s intercom, here is a link to the Operation Manual.
+For more instructions on your unit’s intercom, see the [Operation Manual](https://www.aiphone.com/wp-content/uploads/GT-Series-GT-1A-Operation-Manual.pdf).
 
 ### Parking
 
@@ -163,10 +163,9 @@ All residents have allocated undercover parking. Here are the three entrances fr
 
 ![](/assets/images/pages/2-moving-010.jpg)
 
-Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The
-roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
+Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
 
-Have an EV? Unfortunately, we do not yet have chargers in our carparks, but we are working on it. In the interim, Evo Energy, just across the road, have a public charger.
+Have an EV? Unfortunately, we do not yet have chargers in our carparks, but we are working on it. In the interim, Evo Energy has a public charger just across the road.
 
 ### Where is my storage cage, and what can I store?
 
@@ -174,8 +173,7 @@ The storage cages are in the carparks. Some adjoin the unit’s carpark; others 
 
 The cages are lockable, but you must bring your padlock.
 
-When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National
-Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
+When choosing what you can store, be aware that our carparks are NCC-classified as ‘wet areas’, which means they are susceptible to moisture and minor water infiltration, such as from wet cars. (NCC is the National Construction Code.) Also, thieves have broken into storage cages despite our access control and CCTV. So, do not store valuables.
 
 You must also consider fire safety — see our ‘Safety’ page.
 
@@ -201,5 +199,4 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 We’re sorry to see you go. We’ll miss you.
 
-As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange
-priority access, and give you instructions, including for your removalist’s parking.
+As you did when you moved in, please book a time with our Building Manager (see our ‘Contact’ page) at least two days before. Again, if you need the lifts, he will line them with padding for your protection, arrange priority access, and give you instructions, including for your removalist’s parking.
