@@ -94,7 +94,7 @@ There are two contracts:
 
 Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Currency and Policy Schedule on [Grady’s portal](https://gradystrata.com.au/client-login/). The PDS and Policy Wording are on [Chubb’s website](https://www.chubb.com/content/dam/chubb-sites/chubb-com/au-en/businesses/policy-wordings-and-documents/chubb-strata-insurance-pds.pdf).
 
-## SOUTHPORT APARTMENTS POLICIES
+## POLICIES
 
 The purposes of our policies are:
 
