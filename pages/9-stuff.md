@@ -130,12 +130,35 @@ As we write and approve policies, we will link them to this list:
 21. Smoke drift
 22. EC Emergency Access
 
-## RESOURCES
+## OTHER RESOURCES
 
-### Owners Corporation Network
+### Owners Corporation Network (OCN ACT)
 
-### Strata Community Association
+From the [OCN ACT website](https://www.ocnact.org.au): 'The OCN ACT is an association of unit owners and body corporates that has been established to further the interests of persons living in medium and high density housing in the ACT, and to address their concerns as and when necessary'.
 
-### Facilities Management Association
+After an initial joining fee of $5.00, the annual fee for individual members is $20. Some on the EC are individual members. The annual corporate membership fee for Southport would be $600. The OCN ACT publishes helpful information on its [website](https://www.ocnact.org.au) and in its quarterly newsletter. It also organises information nights for members.
 
-### Look Up Strata
+### Strata Community Association (SCA)
+
+From the [SCA website](https://www.strata.community): The 'Strata Community Association (SCA) is the peak body for Industry Managers, Lot Owners, Tenants and Stakeholders living in or affected by Strata Title, Body Corporate, Community Title and Owners Corporations'.
+
+Although we would be eligible for membership, the SCA is mainly a professional association for strata managers. The benefits of Southport having a strata manager who is an SCA member would include:
+
+- Professional development
+- Professional resources
+- Code of conduct
+- Dispute resolution 
+
+Although most of the SCA's information is only for members, the [SCA website](https://www.strata.community) still has enough helpful information to be worth visiting for non-members.
+
+### Facilities Management Association (FMA)
+
+From the [FMA website](https://www.fma.com.au/Web): 'The Facility Management Association represents professionals, teams and organisations involved in the strategic and operational management of facilities in both the public and private sectors throughout Australia, as well as those organisations that support the industry through the provision of products and services'.
+
+The FMA is a professional association like the SCA, but for facilities managers, which would also offer similar benefits to Southport. 
+
+### LookUpStrata
+
+LookUpStrata is for unit owners and their Executive Committees. From the [LookUpStrata website](https://www.lookupstrata.com.au): 'We aim to promote freedom of knowledge, leading to more open conversations in the strata community',and 'We are your gateway to the latest strata title news and information'
+
+LookUpStrata offers informative emails, newsletters and webinars. It is free, but it is a business, so expect advertising. Nevertheless, it offers practical advice on a wide range of issues.
