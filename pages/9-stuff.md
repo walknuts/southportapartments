@@ -19,75 +19,80 @@ hero:
 
 ## LEGISLATION
 
-These are the primary ACT Acts, Regulations and standards governing Southport:
+Some ACT Acts and Regulations governing Southport are:
 
 - [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html)
 - [_Unit Titles (Management) Regulation 2011 (ACT_](https://www.legislation.act.gov.au/View/sl/2011-39/current/html/2011-39.html)
 - [_Unit Titles Act 2001_](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html)
 - [_Land Titles Act 1925_](https://www.legislation.act.gov.au/View/a/1925-1/current/html/1925-1.html)
-- National Construction
-- 
+
+## STANDARDS
+
+Some standards are:
+
+- [National Construction Code (NCC)](https://ncc.abcb.gov.au)
+- [Australian Standards](https://www.standards.org.au)
+
 ### NCC applicability
 
-Southport's buildings are Class 2, so the applicable volumes are Volume 1 (from the old Building Code of Australia) and Volume 3 for plumbing.
+Southport's buildings are Class 2, so the applicable NCC volumes are Volume 1 (from the old Building Code of Australia) and Volume 3 for plumbing.
 
 ## DEFINITIONS
 
-Managing Southport involves knowing some special terms, including the following.
+Managing Southport involves knowing some definitions. The following definitions summarise the full legal and authoritative definitions in the referenced legislation.
 
 ### Units plan
 
-A legal group of units such as Southport Apartments, which is registered as Units Plan No. 4368.
+A legal group of units. Southport is registered as Units Plan No. 4368.
+
+See the [_Unit Titles Act 2001_](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html), dictionary.
 
 ### Developer
 
-The lessee who applied to develop a units plan on their land. (Adapted from the Unit Titles Act, Dictionary.)
+A lessee who applies to develop a units plan on their land. Southport’s developer was GEOCON.
 
-Southport’s developer was GEOCON.
+See the [_Unit Titles Act 2001_](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html), dictionary.
 
 ### Owners corporation
 
-‘The owners corporation for a units plan is responsible for managing the units plan’ as (s 7 of the _Unit Titles (Management) Act 2011_ explains. s 10 of the Act then explains that ‘The members of an owners corporation
-for a units plan are the owners of the units’.
+A corporation of unit owners responsible for managing their units plan. Some Australian states call it a ‘body corporate’.
 
-Some Australian states use the term ‘body corporate’.
+See the [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html), sections 7 and 10.
 
 ### Strata
 
-‘Strata’ is a units plan’s finances, people and legals. It’s like the _software_.
+A units plan’s finances, people and legals. It’s like the _software_.
 
 ### Facilities
 
-‘Facilities’ are a units plan’s buildings, equipment and systems. It’s like the _hardware_.
-
-We plan to improve the organisation of the following elements, ideally into an ISO 9001-approved Quality Manual.
+A units plan’s buildings, equipment and systems. It’s like the _hardware_.
 
 ### Unit ‘type’
 
-Southport’s units are Class A because ‘the boundary of the unit is defined by floors, walls and ceilings of the unit’ (from ACT Planning’s website).
+Southport’s units are Class A because ‘the boundary of the unit is defined by floors, walls and ceilings of the unit’ (from [ACT Planning’s website](https://www.planning.act.gov.au/community/buy/leasing-and-titles/unit-titles)).
 
-While mainly residential, Southport is what the UTMA (s 39A) calls a ‘mixed-use inputs plan’.
+While mainly residential, Southport is what the [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html), in s 39A, calls a ‘mixed-use inputs plan’.
 
 ## STRATA MANAGEMENT
 
-While s 7 of the UTMA says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
+While s 7 of the [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html) says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
 ![](/assets/images/pages/9-stuff-002.jpg)
 
-Owners can find our current strata management contracts with Grady Strata and Facilities on their portal.
+Owners can find our current strata management contracts with Grady Strata and Facilities on [their portal](https://gradystrata.com.au/client-login/).
 
 There are two:
 
 - The Owners Corporation Management Agreement between Grady Strata & Facilities Pty Ltd and the Owners of Units Plan 4368, effective 17 November 2022
 - The Building Manager Agreement between Units Plan 4368 of Southport Apartments and Grady Strata & Facilities Pty Ltd, effective 1 November 2022.
 
-[Michael, can you add them, please?]
+{Michael, can you add them, please?}
 
 ## STRATA INSURANCE
 
 ![](/assets/images/pages/9-stuff-003.png)
 
-Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Current and Policy Schedule on Grady’s portal. The PDS and Policy Wording are on Chubb’s website.
+Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Current and Policy Schedule on [Grady’s portal](https://gradystrata.com.au/client-login/). The PDS and Policy Wording are on [Chubb’s website](https://www.chubb.com/content/dam/chubb-sites/chubb-com/au-en/businesses/policy-wordings-and-documents/chubb-strata-insurance-pds.pdf).
 
 ## SOUTHPORT APARTMENTS POLICIES
 
@@ -97,7 +102,7 @@ The purposes of our policies are:
 - To guide the Strata Manager’s operational management, including answering owners’ enquiries, without them having to ask the Executive Committee each time
 - Standardisation across Executive Committees.
 
-Policies are essential for quality management.
+Policies are essential for quality management, the ideal being an [ISO 9001-approved Quality Manual](https://www.iso.org/standard/62085.html).
 
 As we write and approve policies, we will link them to this list:
 
@@ -123,3 +128,14 @@ As we write and approve policies, we will link them to this list:
 19. Airbnb
 20. EV charging
 21. Smoke drift
+22. EC Emergency Access
+
+## RESOURCES
+
+### Owners Corporation Network
+
+### Strata Community Association
+
+### Facilities Management Association
+
+### Look Up Strata
