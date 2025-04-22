@@ -35,7 +35,10 @@ Some standards are:
 
 ### NCC applicability
 
-Southport's buildings are Class 2, so the applicable NCC volumes are Volume 1 (formerly the Building Code of Australia) and Volume 3 (for plumbing).
+Southport's buildings are Class 2, so the applicable NCC volumes are:
+
+- Volume 1 (formerly the Building Code of Australia)
+- Volume 3 (for plumbing).
 
 ## DEFINITIONS
 
