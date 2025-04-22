@@ -21,11 +21,15 @@ hero:
 
 These are the primary ACT Acts, Regulations and standards governing Southport:
 
-- _Unit Titles (Management) Act 2011 (ACT)_
-- _Unit Titles (Management) Regulation 2011 (ACT_
-- _Unit Titles Act 2001_
-- _Land Titles Act 1925_
-- _National Construction Code_ (NCC, for which Southport’s buildings are Class 2, so Volume 1 applies generally and Volume 3 for plumbing).
+- [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html)
+- [_Unit Titles (Management) Regulation 2011 (ACT_](https://www.legislation.act.gov.au/View/sl/2011-39/current/html/2011-39.html)
+- [_Unit Titles Act 2001_](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html)
+- [_Land Titles Act 1925_](https://www.legislation.act.gov.au/View/a/1925-1/current/html/1925-1.html)
+- National Construction
+- 
+### NCC applicability
+
+Southport's buildings are Class 2, so the applicable volumes are Volume 1 (from the old Building Code of Australia) and Volume 3 for plumbing.
 
 ## DEFINITIONS
 
