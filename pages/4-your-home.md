@@ -311,7 +311,13 @@ We want Southport to be as good for investing as it is for living. We only ask t
 
 ### Can I rent my unit on Airbnb?
 
-Yes, of course. As for any rental, please instruct your guests on our rules. Our only other request is that you ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property.
+Yes, of course.
+
+We only ask you to please:
+
+- Ask our Strata Manager (see our ‘Contact’ page) for permission before installing a lock box on the common property
+- Instruct your guests on our rules
+- Give your guests clear instructions on how to find your carpark (because the numbering is random).
 
 We hope the information on our website helps your guests make the most of their stay.
 
