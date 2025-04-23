@@ -40,6 +40,10 @@ If you need extra keys or fobs, ask our Strata Manager because they are unavaila
 Book a time with our Building Manager (see our ‘Contact’ page) at least two days before. If you need the lifts, he will line them with padding for your protection and arrange priority access. He will give you
 instructions, including for your removalist’s parking.
 
+### Can I hire a lift for my removalist's exclusive use? They charge by the hour.
+
+TK
+
 ## UTILITIES
 
 Before you move in, you’ll want to start arranging your utilities.
