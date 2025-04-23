@@ -10,8 +10,8 @@ image: "/assets/images/blog/7-blog-005.jpg"
 
 Do you remember when our goldfish on the platform had to put up with a pond full of rusty steel?
 
-![](/assets/images/blog/7-blog-004.jpg)
+![]({% link assets/images/blog/7-blog-004.jpg %})
 
 Well, we moved them out temporarily while we upgraded their home. The fish are now back for all to enjoy.
 
-![](/assets/images/blog/7-blog-006.jpeg)
+![]({% link assets/images/blog/7-blog-006.jpeg %})

@@ -35,7 +35,7 @@ And then let’s look at:
 
 Your unit has two types of sensors for fire:
 
-![](/assets/images/pages/6-safety-002.jpg)
+![]({% link assets/images/pages/6-safety-002.jpg %})
 
 They sense two different fire products: smoke and heat. They respond differently: the smoke alarm emits a loud sound to alert you, and the heat detector triggers an alert to the fire brigade.
 
@@ -53,7 +53,7 @@ As the National Construction Code requires, Southport has an Emergency Warning a
 
 If a fire is confirmed, the system will you ask you to evacuate. Near you will be an Evacuation Diagram like these:
 
-![](/assets/images/pages/6-safety-003.png)
+![]({% link assets/images/pages/6-safety-003.png %})
 
 Tip: Memorise the Evacuation Diagram near your unit so you can evacuate quickly and safely if the time comes.
 
@@ -73,7 +73,7 @@ TK
 
 Inside your unit is an electrical panel like this:
 
-![](/assets/images/pages/6-safety-004.jpeg)
+![]({% link assets/images/pages/6-safety-004.jpeg %})
 
 Each electrical circuit has an orange switch, and the main switch is red. Up is on for all switches.
 
@@ -106,6 +106,6 @@ Two reasons for the 10 kph speed limit are:
 - A car reversing with poor visibility.
 - A small child running from behind a car.
 
-![](/assets/images/pages/6-safety-005.jpg)
+![]({% link assets/images/pages/6-safety-005.jpg %})
 
 TK

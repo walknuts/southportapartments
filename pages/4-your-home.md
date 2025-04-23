@@ -23,7 +23,7 @@ hero:
 
 It is important to understand the boundaries between what is yours and what is your neighbour’s or a ‘common area’. The _Unit Titles Act_ defines the boundaries:
 
-![](/assets/images/pages/4-home-002.jpg)
+![]({% link assets/images/pages/4-home-002.jpg %})
 
 [Add diagram.]
 
@@ -81,7 +81,7 @@ TK
 
 ### Internal finishes
 
-![](/assets/images/pages/4-home-003.jpg)
+![]({% link assets/images/pages/4-home-003.jpg %})
 
 Owners can view or download the ‘Southport Internal Finishes Schedule’ from [Grady’s portal](https://gradystrata.com.au/client-login/). It lists the finishes for the:
 
@@ -97,13 +97,13 @@ Renters, ask your landlord or their agent for the Schedule and permission to alt
 
 The external finishes, which are not on Grady’s portal, are:
 
-![](/assets/images/pages/4-home-004.jpg)
+![]({% link assets/images/pages/4-home-004.jpg %})
 
 Again, renters, please seek permission from your landlord or their agent.
 
 ## APPLIANCES AND EQUIPMENT
 
-![](/assets/images/pages/4-home-005.jpg)
+![]({% link assets/images/pages/4-home-005.jpg %})
 
 This section has instructions for the standard original appliances and equipment:
 
@@ -154,7 +154,7 @@ Here are some basics common to all models:
 
 Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step which swings out the vertical vanes, this photo may help you:
 
-![](/assets/images/pages/4-home-006.jpg)
+![]({% link assets/images/pages/4-home-006.jpg %})
 
 ### Cooktop
 
@@ -174,7 +174,7 @@ Here are the instructions (link to the file in the folder ‘Southport Website L
 
 Tip: Don’t forget to wash the filter periodically per Blanco’s instructions. These photos show why:
 
-![](/assets/images/pages/4-home-007.png)
+![]({% link assets/images/pages/4-home-007.png %})
 
 ### Clothes dryer
 
@@ -186,13 +186,13 @@ Your bathroom and laundry have exhaust fans in their ceilings. The bathroom fan 
 
 The exhaust fans are so quiet that you’ll have to listen carefully. If you hold a single ply of tissue paper under the vent, it should suck in lightly like this:
 
-![](/assets/images/pages/4-home-008.jpg)
+![]({% link assets/images/pages/4-home-008.jpg %})
 
 ### Downlights
 
 You can replace your LED downlights without an electrician because each downlight plugs into a 240V socket in the ceiling.
 
-![](/assets/images/pages/4-home-009.jpg)
+![]({% link assets/images/pages/4-home-009.jpg %})
 
 Always follow the instructions for the downlight you buy, but here is a general _guide_:
 
@@ -216,7 +216,7 @@ Again:
 
 ### Door closer
 
-![](/assets/images/pages/4-home-010.jpg)
+![]({% link assets/images/pages/4-home-010.jpg %})
 
 If your front door is not closing how you like, you can adjust it following [these instructions](https://www.yalehome.com/au/en/documents/technical-downloads/door-closers/y2400/Y2400%20-%20Standard%20Installation%20Template.pdf).
 
@@ -228,7 +228,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 ### Toilet
 
-![](/assets/images/pages/4-home-011.jpg)
+![]({% link assets/images/pages/4-home-011.jpg %})
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
@@ -280,7 +280,7 @@ If a tile is not cracked but rocks when you walk on it or is not level, follow s
 
 ## CAN I MODIFY MY UNIT?
 
-![](/assets/images/pages/4-home-012.jpg)
+![]({% link assets/images/pages/4-home-012.jpg %})
 
 Yes, subject to the following conditions. We are developing policies that provide more detail on our conditions (standards) and means of compliance.
 
@@ -305,7 +305,7 @@ TK
 
 ## RENTING YOUR UNIT
 
-![](/assets/images/pages/4-home-013.png)
+![]({% link assets/images/pages/4-home-013.png %})
 
 We want Southport to be as good for investing as it is for living. We only ask that you or your agent please instruct your tenants on our Owners Corporation and House Rules. We will hold you responsible for breaches.
 

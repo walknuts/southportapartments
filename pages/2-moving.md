@@ -48,7 +48,7 @@ Before you move in, you’ll want to start arranging your utilities.
 
 There’s only one choice in Canberra: [Icon Water](https://www.iconwater.com.au).
 
-![](/assets/images/pages/2-moving-003.jpg)
+![]({% link assets/images/pages/2-moving-003.jpg %})
 
 [Is each unit’s cold water individually metered? If so, where is the meter?]
 
@@ -59,7 +59,7 @@ For gas, you can choose your supplier.
 Why gas when your unit has no gas appliances? Gas still heats our centralised hot water until we convert it to electricity, which we are investigating. We calculate your proportion of our total gas usage from your hot
 water usage, as measured by a meter above your bathroom ceiling:
 
-![](/assets/images/pages/2-moving-004.jpg)
+![]({% link assets/images/pages/2-moving-004.jpg %})
 
 The hot water meter is accessible through a removable panel in your bathroom ceiling. You’ll need a step ladder to reach it and a flat-bladed screwdriver to undo its locking screws.
 
@@ -73,13 +73,13 @@ You can choose wired or wireless internet.
 
 Every unit has RJ11 sockets for _wired_ internet. Initially, the only Internet Service Provider (ISP) was [iiNet](https://www.iinet.net.au/home):
 
-![](/assets/images/pages/2-moving-005.jpg)
+![]({% link assets/images/pages/2-moving-005.jpg %})
 
 Their initial offering — VDSL — was, and still is, fast, with up to 100 Mbps download speeds. VDSL uses the old TransACT network, not the NBN.
 
 iiNet now offers a faster internet service called Ultra VDSL2 Broadband. Still using the TransACT network, its download speeds are up to 500 Mbps.
 
-![](/assets/images/pages/2-moving-006.png)
+![]({% link assets/images/pages/2-moving-006.png %})
 
 [Infinite](https://www.infinite.net.au), a local Canberra company, now offers a high-speed internet service called Vision Ultrafast.
 
@@ -95,7 +95,7 @@ Your unit has standard telephone (RJ11) wall sockets if you want a landline. Arr
 
 Your unit has F-type (threaded) sockets for free-to-air TV. If your TV cable connector is PAL (push-on), Bunnings and Officeworks sell F-type adapters and cables. They even sell combo cables with a PAL connector on one end and an F-type on the other.
 
-![](/assets/images/pages/2-moving-007.jpeg)
+![]({% link assets/images/pages/2-moving-007.jpeg %})
 
 ## HOME INSURANCE
 
@@ -126,7 +126,7 @@ No.
 
 Here’s a map of the entrances to the units and amenities:
 
-![](/assets/images/pages/2-moving-008.jpg)
+![]({% link assets/images/pages/2-moving-008.jpg %})
 
 ### Other entrances
 
@@ -153,7 +153,7 @@ We are considering labelling the doors more intuitively according to the Austral
 
 These are the steps for you and your visitor:
 
-![](/assets/images/pages/2-moving-009.png)
+![]({% link assets/images/pages/2-moving-009.png %})
 
 For more instructions on your unit’s intercom, see the [Operation Manual](https://www.aiphone.com/wp-content/uploads/GT-Series-GT-1A-Operation-Manual.pdf).
 
@@ -161,7 +161,7 @@ For more instructions on your unit’s intercom, see the [Operation Manual](http
 
 All residents have allocated undercover parking. Here are the three entrances from the driveway:
 
-![](/assets/images/pages/2-moving-010.jpg)
+![]({% link assets/images/pages/2-moving-010.jpg %})
 
 Stop and hold your fob near the card reader on the right to open the correct roller door. If your carpark is in the Basement, you can drive straight down the ramp and use the alternative card reader at the bottom. The roller door will close automatically behind you. To exit, approach slowly until the sensor opens the roller door. Again, it will close automatically behind you.
 
@@ -181,7 +181,7 @@ You must also consider fire safety — see our ‘Safety’ page.
 
 ### How do I get rid of my old cardboard packing boxes?
 
-![](/assets/images/pages/2-moving-011.jpg)
+![]({% link assets/images/pages/2-moving-011.jpg %})
 
 Flatten the boxes and put them in the yellow-top bin in the Recycling cupboard near the lifts or the Waste Room in the ground-level garage (also near the lifts).
 
@@ -195,7 +195,7 @@ Please arrange to remove large items such as furniture or hold them until our ne
 
 ## MOVING OUT?
 
-![](/assets/images/pages/2-moving-012.jpg)
+![]({% link assets/images/pages/2-moving-012.jpg %})
 
 We’re sorry to see you go. We’ll miss you.
 

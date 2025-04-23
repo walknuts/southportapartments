@@ -24,13 +24,11 @@ Cool stuff is happening here. Be a part of it!
 
 # Home
 
-![](/assets/images/pages/0-home-001.jpg)
-
-![](/assets/images/pages/0-home-002.png)
+![]({% link assets/images/pages/0-home-002.png %})
 
 ## WHAT’S NEWS?
 
-![](/assets/images/pages/0-home-003.png)
+![]({% link assets/images/pages/0-home-003.png %})
 
 ### Disclaimer
 

@@ -80,7 +80,7 @@ While mainly residential, Southport is what the [_Unit Titles (Management) Act 2
 
 While s 7 of the [_Unit Titles (Management) Act 2011 (ACT)_](https://www.legislation.act.gov.au/View/a/2011-41/current/html/2011-41.html) says ‘The owners corporation for a units plan is responsible for managing the units plan’, it also says, ‘An owners corporation may be helped by … a manager’, often called a Strata Manager.
 
-![](/assets/images/pages/9-stuff-002.jpg)
+![]({% link assets/images/pages/9-stuff-002.jpg %})
 
 Owners can find our current strata management contracts with Grady Strata and Facilities on [their portal](https://gradystrata.com.au/client-login/).
 
@@ -93,7 +93,7 @@ There are two contracts:
 
 ## STRATA INSURANCE
 
-![](/assets/images/pages/9-stuff-003.png)
+![]({% link assets/images/pages/9-stuff-003.png %})
 
 Our ‘Strata Insurance’ is with Chubb. Owners can find the Certificate of Currency and Policy Schedule on [Grady’s portal](https://gradystrata.com.au/client-login/). The PDS and Policy Wording are on [Chubb’s website](https://www.chubb.com/content/dam/chubb-sites/chubb-com/au-en/businesses/policy-wordings-and-documents/chubb-strata-insurance-pds.pdf).
 

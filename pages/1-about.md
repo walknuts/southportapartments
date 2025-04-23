@@ -21,11 +21,11 @@ hero:
 
 No city is more liveable than Australia's national capital, Canberra.
 
-![View of Canberra City](/assets/images/pages/1-about-002.jpeg)
+![View of Canberra City]({% link assets/images/pages/1-about-002.jpeg %})
 
 We are southside in the suburb of Greenway, on the shores of another beautiful lake:
 
-![View of Lake Tuggeranong](/assets/images/pages/1-about-003.jpeg)
+![View of Lake Tuggeranong]({% link assets/images/pages/1-about-003.jpeg %})
 
 See our 'Contact' page for our address.
 
@@ -40,19 +40,19 @@ You'll love living where convenience meets nature:
 
 Taste the nature...
 
-![Lake view with natural surroundings](/assets/images/pages/1-about-004.jpg)
+![Lake view with natural surroundings]({% link assets/images/pages/1-about-004.jpg %})
 
 ...and then the coffee...
 
-![Coffee shop near Southport](/assets/images/pages/1-about-005.jpg)
+![Coffee shop near Southport]({% link assets/images/pages/1-about-005.jpg %})
 
-![Another local cafe](/assets/images/pages/1-about-006.jpg)
+![Another local cafe]({% link assets/images/pages/1-about-006.jpg %})
 
 There's also the Hardware Cafe in Bunnings and the Vietnamese restaurant in our building (see 'Our shops' below).
 
 ## Design and Build
 
-![Southport building exterior](/assets/images/pages/1-about-007.jpg)
+![Southport building exterior]({% link assets/images/pages/1-about-007.jpg %})
 
 Southport was a project of GEOCON, Canberra's largest residential developer and the fifth-largest in Australia. Eight years later, GEOCON still supports us, including supplying information for this website.
 
@@ -66,11 +66,11 @@ Southport has two buildings:
 
 (\* We are considering renaming the buildings more imaginatively and descriptively than the developer's building schedule.)
 
-![Aerial view of Southport](/assets/images/pages/1-about-008.jpg)
+![Aerial view of Southport]({% link assets/images/pages/1-about-008.jpg %})
 
 ## Amenities
 
-![Southport amenities overview](/assets/images/pages/1-about-009.jpg)
+![Southport amenities overview]({% link assets/images/pages/1-about-009.jpg %})
 
 Southport's amenities include:
 
@@ -85,7 +85,7 @@ Here's more details about our amenities:
 
 Stage 1's sheltered central courtyard on Level 1 has two heated pools surrounded by tables, chairs, a sunken lounge and a garden.
 
-![Southport swimming pools](/assets/images/pages/1-about-010.jpg)
+![Southport swimming pools]({% link assets/images/pages/1-about-010.jpg %})
 
 Tip: Most residents love our pools and waterfall. However, consider your love or loathing of their sights and sounds when choosing which unit to buy or rent. A timer turns off the waterfall at 8:00 pm and we discourage
 pool use after 10:00 pm.
@@ -94,19 +94,19 @@ pool use after 10:00 pm.
 
 Stage 1's Level 5 has our modern, well-equipped gym, with toilets and showers for when you've finished your workout.
 
-![Southport gym facilities](/assets/images/pages/1-about-011.jpg)
+![Southport gym facilities]({% link assets/images/pages/1-about-011.jpg %})
 
 ### Sauna
 
 Next to the gym is the sauna.
 
-![Southport sauna](/assets/images/pages/1-about-012.jpg)
+![Southport sauna]({% link assets/images/pages/1-about-012.jpg %})
 
 ### Platform
 
 If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fishpond, toys, books, a communal vegetable garden and, of course, the view!
 
-![Southport outdoor platform area](/assets/images/pages/1-about-013.jpg)
+![Southport outdoor platform area]({% link assets/images/pages/1-about-013.jpg %})
 
 ## Shops
 
@@ -116,13 +116,13 @@ We house three shops on Anketell Street:
 - [Tuggers Laundromat](https://spinzone.com.au/locations/spinzone-tuggeranong-act-2900/)
 - [Thai Bodhi Thai Massage](https://thaibodhithai.com.au)
 
-![Shops at Southport](/assets/images/pages/1-about-014.jpg)
+![Shops at Southport]({% link assets/images/pages/1-about-014.jpg %})
 
-![Restaurant at Southport](/assets/images/pages/1-about-015.jpg)
+![Restaurant at Southport]({% link assets/images/pages/1-about-015.jpg %})
 
 ## Accessibility
 
-![Accessibility features at Southport](/assets/images/pages/1-about-016.jpg)
+![Accessibility features at Southport]({% link assets/images/pages/1-about-016.jpg %})
 
 We value accessibility. For example, we have:
 
@@ -132,7 +132,7 @@ We value accessibility. For example, we have:
 
 ## Environment
 
-![Sustainable features at Southport](/assets/images/pages/1-about-017.jpg)
+![Sustainable features at Southport]({% link assets/images/pages/1-about-017.jpg %})
 
 You care. So do we.
 
@@ -150,7 +150,7 @@ We've added more sustainable features:
 
 ## Value
 
-![Southport apartments value](/assets/images/pages/1-about-018.jpg)
+![Southport apartments value]({% link assets/images/pages/1-about-018.jpg %})
 
 We don't publish our unit prices because they fluctuate. We aren't the cheapest in Tuggeranong, but we hope this page convinces you of our excellent value, whether you want a home or an investment.
 
@@ -164,7 +164,7 @@ Enough about the property; Southport is also about our people. We are a diverse 
 
 We want to introduce ourselves:
 
-![Southport Executive Committee](/assets/images/pages/1-about-019.jpg)
+![Southport Executive Committee]({% link assets/images/pages/1-about-019.jpg %})
 
 Say 'Hi' if you see us around.
 
@@ -172,6 +172,6 @@ Say 'Hi' if you see us around.
 
 We couldn't manage Southport Apartments without our Strata Manager:
 
-![Grady Strata and Facilities logo](/assets/images/pages/1-about-020.jpg)
+![Grady Strata and Facilities logo]({% link assets/images/pages/1-about-020.jpg %})
 
 Grady Strata and Facilities have served the Southport community since 2020. They employ our on-site Building Manager. They helped us with the information for this website.

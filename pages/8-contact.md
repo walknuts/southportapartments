@@ -30,20 +30,21 @@ You can find us on Apple Maps or Google Maps.
 
 Our Building Manager has posted this notice in the entrances and lifts:
 
-![](/assets/images/pages/8-contact-002.jpg)
+![]({% link assets/images/pages/8-contact-002.jpg %})
 
 Grady are also your contact for:
 
 - Reporting lost keys and fobs (so the latter can be deactivated)
 - Ordering new keys and fobs (not available from Bunnings or general locksmiths).
 
-Note: A recent audit identified a problem with the ‘Lodge a Ticket’ QR code, which Grady are investigating. If you can’t lodge a ticket, or if Grady don’t respond ‘within 1 business day’, as promised, please let us know at our EC email address below.
+Note: A recent audit identified a problem with the ‘Lodge a Ticket’ QR code, which Grady are investigating. If you can’t lodge a ticket, or if Grady don’t respond ‘within 1 business day’, as promised, please let us know
+at our EC email address below.
 
 ## Building Manager
 
 Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around:
 
-![](/assets/images/pages/8-contact-003.jpg)
+![]({% link assets/images/pages/8-contact-003.jpg %})
 
 ## Can I contact the Executive Committee (EC) directly?
 
@@ -61,4 +62,4 @@ webmaster@southport.apartments
 
 ## Facebook?
 
-The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications. ![](/assets/images/pages/8-contact-004.png)
+The Owners Corporation is not affiliated with any of the Facebook Groups and does not use Facebook for official communications.

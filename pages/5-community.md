@@ -35,7 +35,7 @@ House Rules are often confused with Owners Corporation Rules, but they differ. T
 
 Our pool rules are for safety and the community. Some have signs:
 
-![](/assets/images/pages/5-community-002.jpg)
+![]({% link assets/images/pages/5-community-002.jpg %})
 
 The prohibition of glassware comes from the bad experience of having to drain the pool to remove the invisible fragments. It cost those responsible thousands and the rest of us swimming days.
 
@@ -47,7 +47,7 @@ Other community and safety considerations in and around the pools are to please:
 - Give way to lap swimmers in the lap pool (long and narrow)
 - Clean up and take your rubbish when you leave.
 
-![](/assets/images/pages/5-community-003.jpg)
+![]({% link assets/images/pages/5-community-003.jpg %})
 
 ## COURTESIES
 
