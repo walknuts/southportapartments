@@ -40,6 +40,10 @@ Grady are also your contact for:
 Note: A recent audit identified a problem with the ‘Lodge a Ticket’ QR code, which Grady are investigating. If you can’t lodge a ticket, or if Grady don’t respond ‘within 1 business day’, as promised, please let us know
 at our EC email address below.
 
+### Are we charged more for after-hours calls?
+
+Yes, and reasonably so. We appreciate this Grady service and we _want_ you to call them for 'Emergency Maintenance' as the notice says. However, please call the next business day if you are confident the matter can wait.
+
 ## Building Manager
 
 Here’s our Building Manager, Paul Hattersley, so you’ll recognise him when you see him around:
