@@ -1,5 +1,8 @@
 [tools]
 ruby = "3.4.1"
 
+[tasks.build]
+run = "bundle exec jekyll build"
+
 [tasks.serve]
 run = "bundle exec jekyll serve"
