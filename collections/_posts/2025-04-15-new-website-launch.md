@@ -21,7 +21,7 @@ Second, we want wider availability; Grady's portal is only for owners.
 
 When an owner volunteered to create and run the website for us, for free, we thought it was a rare opportunity worth trying! Especially when the Owners Corporation Network recommends it.
 
-We hope you enjoy looking around our website. We hope you'll notice how fast it loads because it's a 'static' website that needs no processing through a Content Management System.
+We hope you enjoy looking around our website, which we hope loads quickly for you because it's 'static', needing no processing through a Content Management System.
 
 Please be patient while we fill in the blanks and smooth the rough edges. And please email your corrections and suggestions to our webmaster at:
 
