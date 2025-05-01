@@ -162,7 +162,7 @@ Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not ha
 
 ### Oven
 
-Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco 60cm Electric Oven Model BOSE65XP.
+[Here are the instructions](/assets/documents/blanco-oven-manual.pdf) for the Blanco 60cm Electric Oven Model BOSE65XP.
 
 ### Range hood
 
