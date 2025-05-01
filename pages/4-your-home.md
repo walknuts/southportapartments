@@ -170,7 +170,7 @@ Here are the instructions (link to the file in the folder ‘Southport Website L
 
 ### Dishwasher
 
-Here are the instructions (link to the file in the folder ‘Southport Website Linked Files) for the Blanco Dishwasher Model BFD645X.
+[Here are the instructions](assets/documents/blanco-dishwasher-manual.pdf) for the Blanco Dishwasher Model BFD645X.
 
 Tip: Don’t forget to wash the filter periodically per Blanco’s instructions. These photos show why:
 
