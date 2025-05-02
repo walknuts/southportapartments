@@ -232,7 +232,7 @@ If you still have it, your unit’s original carpet was nylon with a cut pile tw
 
 Your toilet is a Villeroy & Boch O.Novo toilet suite.
 
-Villeroy & Boch’s part number for a new seat is 9M38S101. One local source is [Southern Plumbing Plus](https://spplus.com.au/vb5310-9m38s101-o-novo-soft-close-seat-with-top-fix-quick-release-hinges-white.html), the original supplier, in Fyshwick.
+Villeroy & Boch’s part number for a new seat is 9M38S101. One local source is [Southern Plumbing Plus](https://spplus.com.au), the original supplier, in Fyshwick. (Enter the part number in their search bar.)
 
 ### Flyscreens
 
