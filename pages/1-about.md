@@ -74,10 +74,10 @@ Southport has two buildings:
 
 Southport's amenities include:
 
-- Two Pools
+- Two pools
 - Gym
 - Sauna
-- An outdoor recreational 'Platform'
+- An outdoor recreational 'Platform'.
 
 Here's more details about our amenities:
 
