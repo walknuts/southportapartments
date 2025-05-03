@@ -70,7 +70,7 @@ Southport has two buildings:
 
 ## Amenities
 
-![Southport amenities overview]({% link assets/images/pages/1-about-009.jpg %})
+![Southport amenities overview]({% link assets/images/pages/swimmer.jpg %})
 
 Southport's amenities include:
 
