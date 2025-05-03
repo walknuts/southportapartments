@@ -94,7 +94,7 @@ pool use after 10:00 pm.
 
 Stage 1's Level 5 has our modern, well-equipped gym, with toilets and showers for when you've finished your workout.
 
-![Southport gym facilities]({% link assets/images/pages/1-about-011.jpg %})
+![Southport gym facilities]({% link assets/images/pages/gym.jpg %})
 
 ### Sauna
 
