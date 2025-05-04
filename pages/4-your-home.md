@@ -162,7 +162,7 @@ Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not ha
 
 ### Oven
 
-[Here are the instructions](/assets/documents/blanco-oven-manual.pdf) for the Blanco 60cm Electric Oven Model BOSE65XP.
+[Here are the instructions]({% link assets/documents/blanco-oven-manual.pdf %}) for the Blanco 60cm Electric Oven Model BOSE65XP.
 
 ### Range hood
 
@@ -170,7 +170,7 @@ Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not ha
 
 ### Dishwasher
 
-[Here are the instructions](/assets/documents/blanco-dishwasher-manual.pdf) for the Blanco Dishwasher Model BFD645X.
+[Here are the instructions]({% link assets/documents/blanco-dishwasher-manual.pdf %}) for the Blanco Dishwasher Model BFD645X.
 
 Tip: Don’t forget to wash the filter periodically per Blanco’s instructions. These photos show why:
 
