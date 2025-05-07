@@ -18,7 +18,7 @@ hero:
 ---
 
 
-## Location! Location! Location!
+## LOCATION! LOCATION! LOCATION!
 
 No city is more liveable than Australia's national capital, Canberra.
 
@@ -53,7 +53,7 @@ Taste the nature on your doorstep…
 
 There's also the Hardware Cafe in Bunnings and the Vietnamese restaurant in our building (see 'Our shops' below).
 
-## Design and Build
+## DESIGN AND BUILD
 
 ![Southport building exterior]({% link assets/images/pages/1-about-007.jpg %})
 
@@ -71,7 +71,7 @@ Southport has two buildings:
 
 ![Aerial view of Southport]({% link assets/images/pages/1-about-008.jpg %})
 
-## Amenities
+## AMENITIES
 
 ![Southport amenities overview]({% link assets/images/pages/swimmer.jpg %})
 
@@ -111,7 +111,7 @@ If you prefer to relax outdoors, the Platform has seats, tables, barbecues, a fi
 
 ![Southport outdoor platform area]({% link assets/images/pages/1-about-013.jpg %})
 
-## Shops
+## SHOPS
 
 We house three shops on Anketell Street:
 
@@ -123,7 +123,7 @@ We house three shops on Anketell Street:
 
 ![Restaurant at Southport]({% link assets/images/pages/1-about-015.jpg %})
 
-## Accessibility
+## ACCESSIBILITY
 
 ![Accessibility features at Southport]({% link assets/images/pages/1-about-016.jpg %})
 
@@ -133,7 +133,7 @@ We value accessibility. For example, we have:
 - Ramps
 - Accessible parking (some units)
 
-## Environment
+## ENVIRONMENT
 
 ![Sustainable features at Southport]({% link assets/images/pages/1-about-017.jpg %})
 
@@ -151,7 +151,7 @@ We've added more sustainable features:
 - We are trialling the ACT Government's 'Food Organics and Garden Organics' (FOGO) bins
 - We bid to participate in the ACT Government's Sustainable Apartments Pilot (to help us convert our hot water from gas to electricity and to install EV charging)
 
-## Value
+## VALUE
 
 ![Southport apartments value]({% link assets/images/pages/1-about-018.jpg %})
 
@@ -159,7 +159,7 @@ We don't publish our unit prices because they fluctuate. We aren't the cheapest 
 
 Our owners corporation levy, which pays for all our services, ranges from around $3500 to $8300 per annum (in 2025), depending on the unit size. Again, we ask you to consider value, not just price.
 
-## People
+## PEOPLE
 
 Enough about the property; Southport is also about our people. We are a diverse community you'll enjoy meeting and chatting with as you share our amenities.
 
