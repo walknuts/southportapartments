@@ -17,6 +17,7 @@ hero:
   fullscreen_desktop: false
 ---
 
+
 ## Location! Location! Location!
 
 No city is more liveable than Australia's national capital, Canberra.
