@@ -81,7 +81,7 @@ Southport's amenities include:
 - Sauna
 - An outdoor recreational 'Platform'.
 
-Here's more details about our amenities:
+Here are more details about our amenities:
 
 ### Pools
 
