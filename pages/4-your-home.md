@@ -152,9 +152,9 @@ Here are some basics common to all models:
 
 [Insert image]
 
-Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step which swings out the vertical vanes, this photo may help you:
+Tip: Don’t forget to clean the evaporator’s filters regularly. It’s not hard if you have a small ladder. Follow the instructions. When you get to the step that swings out the vertical vanes, this photo may help you:
 
-![]({% link assets/images/pages/4-home-006.jpg %})
+![]({% link assets/images/pages/aircon-tab-instruction.jpg %})
 
 ### Cooktop
 
