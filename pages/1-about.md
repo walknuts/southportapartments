@@ -11,7 +11,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/pages/banner-small.png"
+  background_image: "/assets/images/pages/banner-small.jpg"
   background_image_blend_mode: overlay
   fullscreen_mobile: false
   fullscreen_desktop: false
