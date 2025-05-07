@@ -38,7 +38,9 @@ You'll love living where convenience meets nature:
 - Pop across the road for your hardware and garden (Bunnings)
 - Jump on a bus (stops only steps away)
 
-Taste the nature...
+Taste the nature on your doorstep…
+
+![Black swans on Lake Tuggeranong]({% link assets/images/pages/black-swans-on-lake-tuggeranong.jpg %})
 
 ![Lake view with natural surroundings]({% link assets/images/pages/1-about-004.jpg %})
 
