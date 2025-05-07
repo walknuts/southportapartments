@@ -17,7 +17,7 @@ hero:
   background_image_blend_mode: overlay
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "660px"
+  height: "1080px"
 ---
 
 Cool stuff is happening here. Be a part of it!
