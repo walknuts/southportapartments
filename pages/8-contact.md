@@ -32,13 +32,14 @@ Our Building Manager has posted this notice in the entrances and lifts:
 
 ![]({% link assets/images/pages/8-contact-002.jpg %})
 
+If you prefer, [this is the link for the QR code](https://gradystrata.my.smata.com/jobs/new).
+
 Grady are also your contact for:
 
 - Reporting lost keys and fobs (so the latter can be deactivated)
 - Ordering new keys and fobs (not available from Bunnings or general locksmiths).
 
-Note: A recent audit identified a problem with the ‘Lodge a Ticket’ QR code, which Grady are investigating. If you can’t lodge a ticket, or if Grady don’t respond ‘within 1 business day’, as promised, please let us know
-at our EC email address below.
+Note: A recent audit identified a problem with the ‘Lodge a Ticket’ QR code, which Grady are investigating. If you can’t lodge a ticket, or if Grady don’t respond ‘within 1 business day’, as promised, please let us know at our EC email address below.
 
 ### Are we charged more for after-hours calls?
 
