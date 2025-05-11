@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+@layer base {
+  body {
+    @apply font-sans text-base-content bg-base-100;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold;
+  }
+  h1 {
+    @apply text-4xl md:text-5xl mb-6;
+  }
+  h2 {
+    @apply text-3xl md:text-4xl mb-4;
+  }
+  h3 {
+    @apply text-2xl md:text-3xl mb-3;
+  }
+  a {
+    @apply text-accent hover:text-primary-focus transition-colors;
+  }
+}
+
+@layer components {
+  .container {
+    @apply px-4 mx-auto max-w-7xl;
+  }
+  
+  .banner {
+    @apply relative py-16 md:py-32 bg-gradient-to-r from-primary to-secondary text-primary-content;
+  }
+  
+  .content {
+    @apply py-8 md:py-16;
+  }
+  
+  .blog-post {
+    @apply prose prose-lg max-w-none;
+  }
+  
+  .card-post {
+    @apply card bg-base-100 shadow-xl hover:shadow-2xl transition-shadow;
+  }
+  
+  .card-post-img {
+    @apply h-48 md:h-64 w-full object-cover;
+  }
+  
+  .btn-primary {
+    @apply btn btn-primary;
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  }
+}

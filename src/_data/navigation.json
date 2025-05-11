@@ -1,0 +1,58 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about/"
+    },
+    {
+      "name": "Moving",
+      "url": "/moving/"
+    },
+    {
+      "name": "Visiting",
+      "url": "/visiting/"
+    },
+    {
+      "name": "Your Home",
+      "url": "/your-home/"
+    },
+    {
+      "name": "Community",
+      "url": "/community/"
+    },
+    {
+      "name": "Safety",
+      "url": "/safety/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ]
+}

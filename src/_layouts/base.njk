@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="southport">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+    
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Source+Code+Pro&family=Source+Sans+3:wght@300;400;700&display=swap" rel="stylesheet">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <!-- Open Graph / Social Meta Tags -->
+    <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url | url }}">
+    <meta property="og:image" content="{% if image %}{{ image }}{% else %}{{ site.defaultImage }}{% endif %}">
+</head>
+<body class="flex flex-col min-h-screen">
+    <!-- Header -->
+    <header class="sticky top-0 bg-base-100 z-50 shadow-md">
+        <div class="navbar container">
+            <div class="navbar-start">
+                <div class="dropdown">
+                    <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+                    </div>
+                    <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                        {% for item in navigation.main %}
+                        <li><a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <a href="/" class="text-xl font-heading font-bold text-accent">{{ site.logo.text }}</a>
+            </div>
+            <div class="navbar-end hidden lg:flex">
+                <ul class="menu menu-horizontal px-1 font-heading">
+                    {% for item in navigation.main %}
+                    <li><a href="{{ item.url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Banner -->
+    {% if banner %}
+    <div class="banner" {% if bannerImage %}style="background-image: url('{{ bannerImage }}'); background-size: cover; background-position: center;"{% endif %}>
+        <div class="container flex flex-col items-center text-center">
+            <h1 class="text-shadow">{{ banner.heading }}</h1>
+            {% if banner.subheading %}
+            <p class="text-xl md:text-2xl mb-4 text-shadow">{{ banner.subheading }}</p>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        {{ content | safe }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-base-300 text-base-content pt-12 pb-6">
+        <div class="container">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h3 class="text-xl mb-4 font-heading">{{ site.footer.title }}</h3>
+                    <p>{{ site.footer.description }}</p>
+                </div>
+                <div>
+                    <h3 class="text-xl mb-4 font-heading">Quick Links</h3>
+                    <ul class="space-y-2">
+                        {% for item in navigation.footer %}
+                        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-xl mb-4 font-heading">Contact</h3>
+                    <address class="not-italic">
+                        <p>{{ site.contact.address }}</p>
+                        <p>{{ site.contact.city }}, {{ site.contact.state }} {{ site.contact.zip }}</p>
+                        <p>{{ site.contact.country }}</p>
+                        {% if site.contact.phone %}<p>{{ site.contact.phone }}</p>{% endif %}
+                    </address>
+                </div>
+            </div>
+            <div class="border-t border-base-content/10 pt-6 text-sm">
+                <p>&copy; 2024 Southport Apartments EC. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        // Mobile menu toggle
+        document.addEventListener('DOMContentLoaded', function() {
+            // Any additional scripts can go here
+        });
+    </script>
+</body>
+</html>

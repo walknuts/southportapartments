@@ -1,0 +1,125 @@
+---
+layout: base.njk
+title: Contact Us
+description: Get in touch with Southport Apartments management
+permalink: "/contact/"
+banner:
+  heading: "Contact Us"
+  subheading: "We're here to help with any questions or concerns"
+bannerImage: "/images/pages/banner-small.jpg"
+eleventyNavigation:
+  key: Contact
+  order: 9
+---
+
+<div class="content">
+  <div class="container">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+      <div>
+        <h2 class="text-2xl font-heading font-bold mb-6">Get In Touch</h2>
+        
+        <div class="mb-8">
+          <h3 class="text-xl font-heading font-bold mb-3">Building Manager</h3>
+          <p class="mb-2">For day-to-day issues, maintenance requests, and move-in/out arrangements:</p>
+          <div class="flex items-center mb-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+            </svg>
+            <span>0400 123 456</span>
+          </div>
+          <div class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+              <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+            </svg>
+            <span>building.manager@southportapartments.com</span>
+          </div>
+        </div>
+        
+        <div class="mb-8">
+          <h3 class="text-xl font-heading font-bold mb-3">Strata Manager</h3>
+          <p class="mb-2">For owner's corporation matters, strata fees, or compliance issues:</p>
+          <div class="flex items-center mb-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h8a2 2 0 012 2v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4zm3 1h6v4H7V5zm8 8v2h1v1H4v-1h1v-2H4v-1h16v1h-1z" clip-rule="evenodd" />
+            </svg>
+            <span>Grady Strata and Facilities</span>
+          </div>
+          <div class="flex items-center mb-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+            </svg>
+            <span>(02) 6123 4567</span>
+          </div>
+          <div class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-primary" viewBox="0 0 20 20" fill="currentColor">
+              <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+              <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+            </svg>
+            <span>strata@gradyfacilities.com.au</span>
+          </div>
+        </div>
+        
+        <div>
+          <h3 class="text-xl font-heading font-bold mb-3">Emergency Contacts</h3>
+          <p class="mb-2">For urgent after-hours issues:</p>
+          <ul class="list-disc list-inside mb-4">
+            <li>Emergency services: <strong>000</strong></li>
+            <li>SES (flooding, storm damage): <strong>132 500</strong></li>
+            <li>After-hours emergency maintenance: <strong>0412 345 678</strong></li>
+          </ul>
+          <p class="text-sm">For gas leaks, electrical issues or water damage affecting common property, please contact the after-hours emergency number immediately.</p>
+        </div>
+      </div>
+      
+      <div>
+        <h2 class="text-2xl font-heading font-bold mb-6">Send Us a Message</h2>
+        <form class="space-y-4">
+          <div>
+            <label for="name" class="block mb-1">Name</label>
+            <input type="text" id="name" name="name" class="w-full border border-base-300 rounded-md p-2" required>
+          </div>
+          
+          <div>
+            <label for="email" class="block mb-1">Email</label>
+            <input type="email" id="email" name="email" class="w-full border border-base-300 rounded-md p-2" required>
+          </div>
+          
+          <div>
+            <label for="subject" class="block mb-1">Subject</label>
+            <input type="text" id="subject" name="subject" class="w-full border border-base-300 rounded-md p-2" required>
+          </div>
+          
+          <div>
+            <label for="message" class="block mb-1">Message</label>
+            <textarea id="message" name="message" rows="5" class="w-full border border-base-300 rounded-md p-2" required></textarea>
+          </div>
+          
+          <div>
+            <button type="submit" class="btn btn-primary">Send Message</button>
+          </div>
+          
+          <p class="text-sm">This form is for demonstration purposes only. To actually contact us, please use the phone or email details provided.</p>
+        </form>
+        
+        <div class="mt-12">
+          <h2 class="text-2xl font-heading font-bold mb-6">Location</h2>
+          <div class="bg-base-200 p-4 rounded-md mb-4">
+            <p class="font-bold">Southport Apartments</p>
+            <address class="not-italic">
+              Anketell Street, Greenway<br>
+              Tuggeranong, ACT 2900<br>
+              Australia
+            </address>
+          </div>
+          <div class="aspect-w-16 aspect-h-9 rounded-md overflow-hidden h-64 bg-base-200">
+            <!-- Placeholder for map -->
+            <div class="w-full h-full flex items-center justify-center">
+              <p>Interactive map would be displayed here</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,56 @@
+---
+layout: base.njk
+---
+
+<article class="content">
+  <div class="container">
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center text-sm mb-4">
+        <time class="text-neutral/70">
+          {{ page.date }}
+        </time>
+        {% if categories %}
+        <span class="mx-2">•</span>
+        <div class="flex flex-wrap gap-2">
+          {% for category in categories %}
+            <a href="/category/{{ category | slug }}/" class="badge badge-primary">{{ category }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if image %}
+    <figure class="mb-8">
+      <img src="{{ image }}" alt="{{ title }}" class="w-full h-64 md:h-96 object-cover rounded-xl">
+    </figure>
+    {% endif %}
+
+    <div class="blog-post">
+      {{ content | safe }}
+    </div>
+
+    {% if collections.posts %}
+    <div class="border-t border-base-300 mt-12 pt-8">
+      <div class="flex flex-col md:flex-row md:justify-between">
+        {% set previousPost = collections.posts | getPreviousCollectionItem %}
+        {% set nextPost = collections.posts | getNextCollectionItem %}
+
+        <div class="mb-4 md:mb-0">
+          {% if previousPost %}
+          <span class="text-sm text-neutral/70">Previous</span>
+          <a href="{{ previousPost.url }}" class="block font-heading font-bold">{{ previousPost.data.title }}</a>
+          {% endif %}
+        </div>
+
+        <div>
+          {% if nextPost %}
+          <span class="text-sm text-neutral/70">Next</span>
+          <a href="{{ nextPost.url }}" class="block font-heading font-bold">{{ nextPost.data.title }}</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,70 @@
+---
+layout: base.njk
+pagination:
+  data: collections.categories
+  size: 1
+  alias: category
+permalink: /category/{{ category | slug }}/
+eleventyComputed:
+  title: "{{ category }} Posts"
+  description: "Blog posts in the {{ category }} category"
+  banner:
+    heading: "{{ category }}"
+    subheading: "Blog posts in this category"
+bannerImage: /images/pages/banner-small.jpg
+---
+
+<section class="content">
+  <div class="container">
+    <div class="flex flex-wrap gap-2 justify-center mb-8">
+      <a href="/blog/" class="badge badge-lg badge-outline">All</a>
+      {% for cat in collections.categories %}
+        <a href="/category/{{ cat | slug }}/" class="badge badge-lg {% if cat == category %}badge-primary{% else %}badge-outline{% endif %}">{{ cat }}</a>
+      {% endfor %}
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {% set categoryPosts = [] %}
+      {% for post in collections.posts %}
+        {% if post.data.categories and post.data.categories.includes(category) %}
+          {% set categoryPosts = (categoryPosts.push(post), categoryPosts) %}
+        {% endif %}
+      {% endfor %}
+      {% if categoryPosts.length > 0 %}
+        {% for post in categoryPosts %}
+          <div class="card-post h-full">
+            {% if post.data.image %}
+            <figure>
+              <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="card-post-img">
+            </figure>
+            {% endif %}
+            <div class="card-body">
+              <h2 class="card-title text-xl">{{ post.data.title }}</h2>
+              <div class="flex flex-wrap items-center text-sm mb-2">
+                <time>{{ post.date }}</time>
+                {% if post.data.categories %}
+                  <span class="mx-2">•</span>
+                  <div class="flex flex-wrap gap-1">
+                    {% for postCategory in post.data.categories %}
+                      <a href="/category/{{ postCategory | slug }}/" class="badge badge-sm badge-primary">{{ postCategory }}</a>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
+              <p class="mb-4">{{ post.data.description }}</p>
+              <div class="card-actions justify-end mt-auto">
+                <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      {% else %}
+        <div class="col-span-full text-center py-12">
+          <h2 class="text-2xl font-heading font-bold mb-4">No posts found</h2>
+          <p>There are currently no posts in the {{ category }} category.</p>
+          <a href="/blog/" class="btn btn-primary mt-4">View All Posts</a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</section>

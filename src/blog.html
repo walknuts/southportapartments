@@ -1,0 +1,59 @@
+---
+layout: base.njk
+title: Blog
+description: Latest news and updates from Southport Apartments
+permalink: /blog/
+banner:
+  heading: Blog
+  subheading: Latest news and updates from Southport Apartments
+bannerImage: /images/pages/banner-small.jpg
+eleventyNavigation:
+  key: Blog
+  order: 7
+---
+
+<div class="content">
+  <div class="container">
+    <div class="mb-8">
+      <h1 class="text-3xl md:text-4xl font-heading font-bold text-center">Latest Updates</h1>
+      <p class="text-center">Stay informed about what's happening at Southport Apartments</p>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {% for post in collections.posts %}
+      <div class="card-post h-full">
+        {% if post.data.image %}
+        <figure>
+          <img src="{{ post.data.image }}" alt="{{ post.data.title }}" class="card-post-img">
+        </figure>
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title text-xl">{{ post.data.title }}</h2>
+          <div class="flex flex-wrap items-center text-sm mb-2">
+            <time>{{ post.date }}</time>
+            {% if post.data.categories %}
+              <span class="mx-2">•</span>
+              <div class="flex flex-wrap gap-1">
+                {% for category in post.data.categories %}
+                  <span class="badge badge-sm badge-primary">{{ category }}</span>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+          <p class="mb-4">{{ post.data.description }}</p>
+          <div class="card-actions justify-end mt-auto">
+            <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    
+    {% if collections.posts.length == 0 %}
+    <div class="text-center py-16">
+      <h2 class="text-2xl font-heading font-bold mb-4">No posts yet</h2>
+      <p>Check back soon for updates and news about Southport Apartments.</p>
+    </div>
+    {% endif %}
+  </div>
+</div>

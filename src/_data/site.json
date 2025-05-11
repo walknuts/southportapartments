@@ -1,0 +1,45 @@
+{
+  "title": "Southport Apartments",
+  "description": "Southport Apartments is a modern apartment complex located in the heart of Tuggeranong.",
+  "url": "https://southportapartments.com",
+  "baseUrl": "",
+  "author": "Southport Apartments EC",
+  "email": "info@southportapartments.com",
+  "buildTime": "2024",
+  "logo": {
+    "text": "Southport Apartments",
+    "image": "/images/logo/logo.png"
+  },
+  "defaultImage": "/images/pages/banner-small.jpg",
+  "social": {
+    "twitter": "",
+    "facebook": "",
+    "instagram": ""
+  },
+  "contact": {
+    "address": "Anketell Street, Greenway",
+    "city": "Tuggeranong",
+    "state": "ACT",
+    "zip": "2900",
+    "country": "Australia",
+    "phone": ""
+  },
+  "footer": {
+    "title": "Southport Apartments",
+    "description": "Southport Apartments is a modern apartment complex located in the heart of Tuggeranong.",
+    "copyright": "© 2024 Southport Apartments EC. All rights reserved."
+  },
+  "theme": {
+    "colors": {
+      "primary": "#696871",
+      "secondary": "#702bf7",
+      "accent": "#2b3af7",
+      "base": "#ffffff"
+    },
+    "fonts": {
+      "heading": "Lato",
+      "base": "Source Sans 3",
+      "mono": "Source Code Pro"
+    }
+  }
+}
