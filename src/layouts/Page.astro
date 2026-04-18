@@ -1,0 +1,65 @@
+---
+import Base from "./Base.astro";
+import { Image } from "astro:assets";
+
+interface Props {
+  title: string;
+  summary?: string;
+  heroImage?: ImageMetadata;
+}
+const { title, summary, heroImage } = Astro.props;
+---
+
+<Base title={title} description={summary}>
+  {
+    heroImage && (
+      <div class="page-hero">
+        <Image
+          src={heroImage}
+          alt=""
+          widths={[800, 1400, 2000]}
+          sizes="100vw"
+          loading="eager"
+        />
+      </div>
+    )
+  }
+  <article class="container container--prose page">
+    <header class="page__header">
+      <h1>{title}</h1>
+      {summary && <p class="page__summary">{summary}</p>}
+    </header>
+    <div class="prose"><slot /></div>
+  </article>
+</Base>
+
+<style>
+  .page-hero img {
+    width: 100%;
+    max-height: 60vh;
+    object-fit: cover;
+  }
+  .page {
+    padding-block: var(--space-7);
+  }
+  .page__header {
+    margin-bottom: var(--space-6);
+  }
+  .page__summary {
+    color: var(--color-text-muted);
+    font-size: var(--fs-500);
+    max-inline-size: 60ch;
+  }
+  .prose :global(figure) {
+    margin-block: var(--space-6);
+  }
+  .prose :global(img) {
+    border-radius: var(--radius-sm);
+  }
+  .prose :global(h2) {
+    margin-top: var(--space-7);
+  }
+  .prose :global(h3) {
+    margin-top: var(--space-6);
+  }
+</style>

@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@fontsource/fraunces':
+        specifier: ^5.2.9
+        version: 5.2.9
       astro:
         specifier: ^6.1.7
         version: 6.1.7(rollup@4.60.1)
@@ -226,6 +229,9 @@ packages:
     engines: {node: '>=18'}
     cpu: [x64]
     os: [win32]
+
+  '@fontsource/fraunces@5.2.9':
+    resolution: {integrity: sha512-XDzuddBtoC7BZgZdBn6b7hsFZY2+V1hgN7yca5fBTKuHjb/lOd45a0Ji8dTUgFhPoL7RdGupo+bC2BFSt6UH8Q==}
 
   '@img/colour@1.1.0':
     resolution: {integrity: sha512-Td76q7j57o/tLVdgS746cYARfSyxk8iEfRxewL9h4OMzYhbW4TAcppl0mT4eyqXddh6L/jwoM75mo7ixa/pCeQ==}
@@ -1579,6 +1585,8 @@ snapshots:
 
   '@esbuild/win32-x64@0.27.7':
     optional: true
+
+  '@fontsource/fraunces@5.2.9': {}
 
   '@img/colour@1.1.0':
     optional: true
