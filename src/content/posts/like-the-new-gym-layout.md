@@ -7,7 +7,7 @@ heroImage: "../../assets/images/news/like-the-new-gym-layout/new-gym-layout.jpg"
 
 In a previous post, on 17 June 2025, we mentioned a new gym layout:
 
-![Proposed gym layout diagram](../../assets/images/news/like-the-new-gym-layout/gym-layout-proposal.jpg)
+![Proposed gym layout diagram](../../assets/images/news/shared/gym-layout-proposal.jpg)
 
 Thanks to our Building Manager, Paul, and his team of helpers, they've now moved the equipment, and the new layout is ready for you to try out!
 

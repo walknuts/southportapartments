@@ -60,4 +60,4 @@ Southport is more than committees and managers. Mainly, it's about community. (S
 
 All our owners and residents want to meet you!
 
-![Community gathering — photo by Chang Duong on Unsplash](../../../assets/images/about/people/community.jpg)
+![Community gathering — photo by Chang Duong on Unsplash](../../../assets/images/about/people/community-photo.jpg)
