@@ -26,6 +26,9 @@ pnpm-debug.log*
 # scraped reference site (kept locally only)
 scrape/
 
+# astro-broken-links-checker output (cache + log)
+.link-checker/
+
 # OS
 Thumbs.db
 

@@ -1,0 +1,95 @@
+---
+import Base from "../../layouts/Base.astro";
+import { Image } from "astro:assets";
+
+const galleryModules = import.meta.glob<{ default: ImageMetadata }>(
+  "../../assets/images/about/gallery/*.{jpg,jpeg,png,webp}",
+  { eager: true },
+);
+
+const photos = Object.entries(galleryModules)
+  .map(([path, mod]) => ({
+    src: mod.default,
+    alt: path.split("/").pop()!.replace(/\.[^.]+$/, "").replace(/-/g, " "),
+  }))
+  .sort((a, b) => a.alt.localeCompare(b.alt));
+
+const hero = photos.find((p) => p.alt.includes("sculpture")) ?? photos[0];
+---
+
+<Base
+  title="Gallery"
+  description="Photos of Southport Apartments and Lake Tuggeranong."
+>
+  <div class="page-hero">
+    <Image
+      src={hero.src}
+      alt=""
+      widths={[800, 1400, 2000]}
+      sizes="100vw"
+      loading="eager"
+    />
+  </div>
+  <article class="container gallery">
+    <header class="gallery__header">
+      <h1>Gallery</h1>
+      <p class="gallery__lede">
+        Snapshots of the Southport lifestyle, from sunrise on Lake Tuggeranong
+        to the city lights reflected on its still water at night.
+      </p>
+    </header>
+    <ul class="gallery__grid">
+      {
+        photos.map((p) => (
+          <li>
+            <Image
+              src={p.src}
+              alt={p.alt}
+              widths={[400, 800, 1200]}
+              sizes="(min-width: 1100px) 33vw, (min-width: 720px) 50vw, 100vw"
+              loading="eager"
+            />
+          </li>
+        ))
+      }
+    </ul>
+  </article>
+</Base>
+
+<style>
+  .page-hero img {
+    width: 100%;
+    max-height: 60vh;
+    object-fit: cover;
+  }
+  .gallery {
+    padding-block: var(--space-7);
+  }
+  .gallery__header {
+    text-align: center;
+    margin-bottom: var(--space-6);
+  }
+  .gallery__lede {
+    color: var(--color-text-muted);
+    font-size: var(--fs-500);
+    max-inline-size: 60ch;
+    margin-inline: auto;
+  }
+  .gallery__grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-4);
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
+  .gallery__grid li {
+    margin: 0;
+  }
+  .gallery__grid img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+  }
+</style>
