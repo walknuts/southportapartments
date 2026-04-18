@@ -5,7 +5,7 @@ summary: "An invitation to participate in environmental research, and how it dif
 heroImage: "../../assets/images/news/sustainability-scheme-2-exploratory-visit/dr-wendy-russell-anu.jpg"
 ---
 
-Did you see our previous two posts on our [bid](/posts/sustainability-scheme-we-re-shortlisted) and then [selection](/posts/sustainability-scheme-we-re-in) for an ACT Government-sponsored sustainability scheme?
+Did you see our previous two posts on our [bid](/news/sustainability-scheme-we-re-shortlisted) and then [selection](/news/sustainability-scheme-we-re-in) for an ACT Government-sponsored sustainability scheme?
 
 We were recently invited to bid on another one, called 'ACT Apartment Decarbonisation', a project of the ANU's Centre for Energy Systems. The research team's leader is Dr Wendy Russell:
 

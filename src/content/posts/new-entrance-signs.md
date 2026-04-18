@@ -46,7 +46,7 @@ For confirmation, because the name can change along a street. The street name wi
 
 ## Which font?
 
-It's Metropolis, a close match to GEOCON's original style guide for Southport. It's clean, modern, and easy to read. (See ['Style Guide' on our 'Policies' page](/policies#Style-guide).)
+It's Metropolis, a close match to GEOCON's original style guide for Southport. It's clean, modern, and easy to read. (See ['Style Guide' on our 'Policies' page](/policies#style-guide).)
 
 ## Why are we only renewing two of the three signs?
 
