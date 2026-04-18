@@ -1,0 +1,74 @@
+---
+import { getCollection, render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { Image } from "astro:assets";
+
+export async function getStaticPaths() {
+  const all = await getCollection("posts", ({ data }) => !data.draft);
+  return all.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const date = entry.data.date.toLocaleDateString("en-AU", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<Base title={entry.data.title} description={entry.data.summary}>
+  {
+    entry.data.heroImage && (
+      <div class="page-hero">
+        <Image
+          src={entry.data.heroImage}
+          alt=""
+          widths={[800, 1400, 2000]}
+          sizes="100vw"
+          loading="eager"
+        />
+      </div>
+    )
+  }
+  <article class="container container--prose post">
+    <header>
+      <p class="post__date">{date}</p>
+      <h1>{entry.data.title}</h1>
+      <p class="post__summary">{entry.data.summary}</p>
+    </header>
+    <div class="prose"><Content /></div>
+    <footer class="post__footer">
+      <a href="/news">&larr; All news</a>
+    </footer>
+  </article>
+</Base>
+
+<style>
+  .page-hero img {
+    width: 100%;
+    max-height: 60vh;
+    object-fit: cover;
+  }
+  .post {
+    padding-block: var(--space-7);
+  }
+  .post__date {
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: var(--fs-300);
+  }
+  .post__summary {
+    color: var(--color-text-muted);
+    font-size: var(--fs-500);
+  }
+  .post__footer {
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--color-rule);
+  }
+</style>
