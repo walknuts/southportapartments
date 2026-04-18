@@ -29,6 +29,9 @@ scrape/
 # astro-broken-links-checker output (cache + log)
 .link-checker/
 
+# Claude Code session-memory dir
+.remember/
+
 # OS
 Thumbs.db
 
