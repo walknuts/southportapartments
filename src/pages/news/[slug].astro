@@ -30,7 +30,7 @@ const date = entry.data.date.toLocaleDateString("en-AU", {
     </header>
     <div class="prose"><Content /></div>
     <footer class="post__footer">
-      <a href="/news">&larr; All news</a>
+      <a href={`${import.meta.env.BASE_URL}news`}>&larr; All news</a>
     </footer>
   </article>
 </Base>

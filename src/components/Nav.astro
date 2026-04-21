@@ -1,19 +1,23 @@
 ---
+const base = import.meta.env.BASE_URL;
+
 const items = [
-  { href: "/about", label: "About" },
-  { href: "/visiting", label: "Visiting" },
-  { href: "/my-home", label: "My Home" },
-  { href: "/community", label: "Community" },
-  { href: "/moving-in", label: "Moving In" },
-  { href: "/safety", label: "Safety" },
-  { href: "/news", label: "News" },
-  { href: "/contact", label: "Contact" },
+  { path: "about", label: "About" },
+  { path: "visiting", label: "Visiting" },
+  { path: "my-home", label: "My Home" },
+  { path: "community", label: "Community" },
+  { path: "moving-in", label: "Moving In" },
+  { path: "safety", label: "Safety" },
+  { path: "news", label: "News" },
+  { path: "contact", label: "Contact" },
 ];
-const current = Astro.url.pathname.replace(/\/$/, "") || "/";
+
+const current = Astro.url.pathname.replace(/\/$/, "");
+const isCurrent = (path) => current === `${base}${path}`.replace(/\/$/, "");
 ---
 
 <nav class="nav" aria-label="Primary">
-  <a class="nav__brand" href="/">Southport Apartments</a>
+  <a class="nav__brand" href={base}>Southport Apartments</a>
   <input id="nav-toggle" class="nav__toggle" type="checkbox" aria-label="Open menu" />
   <label for="nav-toggle" class="nav__burger" aria-hidden="true">
     <span></span><span></span><span></span>
@@ -22,7 +26,7 @@ const current = Astro.url.pathname.replace(/\/$/, "") || "/";
     {
       items.map((it) => (
         <li>
-          <a href={it.href} aria-current={current === it.href ? "page" : undefined}>
+          <a href={`${base}${it.path}`} aria-current={isCurrent(it.path) ? "page" : undefined}>
             {it.label}
           </a>
         </li>
