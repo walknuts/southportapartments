@@ -2,7 +2,6 @@
 title: "The fish are back!"
 date: 2024-01-08
 summary: "Our goldfish have returned to an upgraded pond on the Platform."
-heroImage: "../../assets/images/news/the-fish-are-back/img-0886.jpeg"
 ---
 
 Do you remember our goldfish on the Platform having to share their pond with rusting steel beams?

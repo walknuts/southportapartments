@@ -2,7 +2,6 @@
 title: "Southport's beginnings"
 date: 2023-06-06
 summary: "A look back at Southport's planning, approval and construction."
-heroImage: "../../assets/images/news/southport-s-beginnings/southquay-master-plan.png"
 ---
 
 Interested in Southport's early history?

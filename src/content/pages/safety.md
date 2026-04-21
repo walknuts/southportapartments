@@ -2,7 +2,6 @@
 title: "Safety and security"
 summary: "Personal safety, fire, electrical, windows, pools, gym, sauna, the Platform, the carpark, balconies and walkways --- the precautions that keep Southport residents safe."
 order: 6
-heroImage: "../../assets/images/safety/banner.jpeg"
 ---
 
 A few instructions and tips to help everyone at Southport stay safe and secure.

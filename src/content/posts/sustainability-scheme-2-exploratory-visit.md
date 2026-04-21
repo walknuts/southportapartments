@@ -2,7 +2,6 @@
 title: "Sustainability scheme 2: exploratory visit"
 date: 2025-07-10
 summary: "An invitation to participate in environmental research, and how it differs from our other scheme."
-heroImage: "../../assets/images/news/sustainability-scheme-2-exploratory-visit/dr-wendy-russell-anu.jpg"
 ---
 
 Did you see our previous two posts on our [bid](/news/sustainability-scheme-we-re-shortlisted) and then [selection](/news/sustainability-scheme-we-re-in) for an ACT Government-sponsored sustainability scheme?

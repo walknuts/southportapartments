@@ -2,7 +2,6 @@
 title: "New entrance signs"
 date: 2025-08-02
 summary: "Why we are replacing two of our entrance signs and how we designed the replacements."
-heroImage: "../../assets/images/news/new-entrance-signs/325-anketell-new-signs.jpeg"
 ---
 
 We'll soon have new signs over two of our entrances:

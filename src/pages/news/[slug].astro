@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import Base from "../../layouts/Base.astro";
-import { Image } from "astro:assets";
+import Hero from "../../components/Hero.astro";
 
 export async function getStaticPaths() {
   const all = await getCollection("posts", ({ data }) => !data.draft);
@@ -21,19 +21,7 @@ const date = entry.data.date.toLocaleDateString("en-AU", {
 ---
 
 <Base title={entry.data.title} description={entry.data.summary}>
-  {
-    entry.data.heroImage && (
-      <div class="page-hero">
-        <Image
-          src={entry.data.heroImage}
-          alt=""
-          widths={[800, 1400, 2000]}
-          sizes="100vw"
-          loading="eager"
-        />
-      </div>
-    )
-  }
+  <Hero image={entry.data.heroImage} />
   <article class="container container--prose post">
     <header>
       <p class="post__date">{date}</p>
@@ -48,11 +36,6 @@ const date = entry.data.date.toLocaleDateString("en-AU", {
 </Base>
 
 <style>
-  .page-hero img {
-    width: 100%;
-    max-height: 60vh;
-    object-fit: cover;
-  }
   .post {
     padding-block: var(--space-7);
   }

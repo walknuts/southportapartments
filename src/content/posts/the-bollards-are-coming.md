@@ -2,7 +2,6 @@
 title: "The bollards are coming!"
 date: 2025-02-24
 summary: "Bollards are finally going in along Cynthea Teague Crescent to stop cars parking on, and damaging, our nature strip."
-heroImage: "../../assets/images/news/the-bollards-are-coming/bollards-installed.jpeg"
 ---
 
 ![The bollards installed.](../../assets/images/news/the-bollards-are-coming/bollards-installed.jpeg)

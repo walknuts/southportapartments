@@ -2,7 +2,6 @@
 title: "My Community"
 summary: "Rules and courtesies that help us live well together --- from social events and shared facilities to visitors and levies."
 order: 4
-heroImage: "../../assets/images/community/christmas-barbecue.jpg"
 ---
 
 ## Social

@@ -2,7 +2,6 @@
 title: "New pedestrian bridge over the lake"
 date: 2025-05-28
 summary: "A proposed pedestrian bridge will connect us to new neighbours, bus stops, and scenic walks."
-heroImage: "../../assets/images/news/new-pedestrian-bridge-over-the-lake/bridge-location-map.png"
 ---
 
 Did you see the recent development application for a new pedestrian bridge across the lake?

@@ -2,7 +2,6 @@
 title: "My home"
 summary: "Knowing and caring for your unit at Southport — boundaries, construction, warranty, finishes, appliances, and renting."
 order: 3
-heroImage: "../../assets/images/my-home/interior-finishes.jpg"
 ---
 
 This page covers what makes up your unit, who is responsible for what, and how to look after the appliances and equipment that came with it. For changes to the structure or fittings, see [Alterations](/my-home/alterations).

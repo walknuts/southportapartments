@@ -1,7 +1,6 @@
 ---
 title: "Our People"
 summary: "Meet the Executive Committee, Strata Manager, Building Manager, and resident community at Southport Apartments."
-heroImage: "../../../assets/images/about/people/chair-rohan-samara.png"
 ---
 
 We look forward to meeting you!

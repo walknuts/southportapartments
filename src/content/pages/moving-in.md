@@ -2,7 +2,6 @@
 title: "Moving in"
 summary: "Practical guidance to make your move easy --- arranging utilities, sorting insurance, understanding your levy, finding your way around when you arrive, and settling in."
 order: 5
-heroImage: "../../assets/images/moving-in/moving-truck.png"
 ---
 
 Welcome to your new home at Southport Apartments. Whether you're an owner or renter, we're glad to have you in the Southport community.

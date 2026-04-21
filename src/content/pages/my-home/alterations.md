@@ -1,7 +1,6 @@
 ---
 title: "Alterations"
 summary: "Personalise your home — Southport welcomes alterations and supports owners through a simple, neighbourly approval process."
-heroImage: "../../../assets/images/my-home/alterations/vinyl-plank-flooring-hero.jpg"
 ---
 
 ![A popular alteration is vinyl plank flooring (Godfrey Hirst photo, not from Southport).](../../../assets/images/my-home/alterations/vinyl-plank-flooring-hero.jpg)

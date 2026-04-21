@@ -2,7 +2,6 @@
 title: "Our tiles keep good company"
 date: 2025-09-15
 summary: "A resident spotted our outdoor tiles at a swish Melbourne CBD hotel."
-heroImage: "../../assets/images/news/our-tiles-keep-good-company/voco-melbourne-central.jpeg"
 ---
 
 One of our residents got a surprise recently when they noticed our outdoor tiles adorning a swish hotel in Melbourne's CBD.

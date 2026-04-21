@@ -2,7 +2,6 @@
 title: "New gym layout"
 date: 2025-06-17
 summary: "An opportunity to comment on a proposed new layout for the gym."
-heroImage: "../../assets/images/news/shared/gym-layout-proposal.jpg"
 ---
 
 Gym users, have you seen this notice proposing a new gym layout?

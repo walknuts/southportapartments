@@ -2,7 +2,6 @@
 title: "'Great expectations': Southport's marketing"
 date: 2025-07-05
 summary: "Revisiting GEOCON's original off-the-plan marketing brochure for Southport, ten years on."
-heroImage: "../../assets/images/news/great-expectations-southport-s-marketing/southport-brochure-page-1.jpg"
 ---
 
 Did you, like 'Pip' in Charles Dickens' novel, have 'Great Expectations' when you bought off the plan after reading GEOCON's 'novella', 'Southport', below?

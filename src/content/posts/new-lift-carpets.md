@@ -2,7 +2,6 @@
 title: "New lift carpets"
 date: 2025-08-28
 summary: "Our Building Manager Paul has fitted new carpet tiles in all the lifts, using leftovers from an earlier project."
-heroImage: "../../assets/images/news/new-lift-carpets/new-lift-carpet.jpeg"
 ---
 
 Have you used our lifts lately? Have you noticed the new carpets?

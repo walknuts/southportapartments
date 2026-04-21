@@ -2,7 +2,6 @@
 title: "New lights for the pool area"
 date: 2025-05-07
 summary: "New stainless steel lights brighten up our pool area at night."
-heroImage: "../../assets/images/news/new-lights-for-the-pool-area/pool-lights.jpg"
 ---
 
 Have you noticed the new lights in our pool area?

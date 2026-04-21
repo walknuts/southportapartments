@@ -2,7 +2,6 @@
 title: "Like the new gym layout?"
 date: 2025-08-17
 summary: "The gym has been rearranged to Paul's proposed layout—come and try it, and let him know what you think."
-heroImage: "../../assets/images/news/like-the-new-gym-layout/new-gym-layout.jpg"
 ---
 
 In a previous post, on 17 June 2025, we mentioned a new gym layout:

@@ -2,7 +2,6 @@
 title: "A warm welcome home"
 date: 2025-07-04
 summary: "'Warm' lighting improves Southport's indoor cosiness."
-heroImage: "../../assets/images/news/a-warm-welcome-home/warm-hallway-lighting.jpeg"
 ---
 
 Did you feel more warmly welcomed when you arrived home tonight? But you couldn't quite put your finger on the reason.

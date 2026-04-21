@@ -2,7 +2,6 @@
 title: "Sustainability scheme: we're in!"
 date: 2025-04-23
 summary: "Southport has been selected for the ACT Government's Sustainable Apartments Pilot."
-heroImage: "../../assets/images/news/sustainability-scheme-we-re-in/act-government-email.jpg"
 ---
 
 In March, we posted that the ACT Government had short-listed Southport in their selection process for a 'Sustainable Apartments Pilot'.

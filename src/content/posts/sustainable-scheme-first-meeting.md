@@ -2,7 +2,6 @@
 title: "Sustainable scheme: first meeting"
 date: 2025-06-16
 summary: "The ACT Government and consultants GHD held their first meeting with us about electrifying Southport."
-heroImage: "../../assets/images/news/sustainable-scheme-first-meeting/gas-water-heaters.jpg"
 ---
 
 Previous posts have mentioned the 'Sustainability Apartments Pilot', where the ACT Government is paying consultants to develop a tailored plan for us to fully electrify, including our hot water and pool heating, which currently use gas. See below.
