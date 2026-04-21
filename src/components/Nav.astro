@@ -1,5 +1,5 @@
 ---
-const base = import.meta.env.BASE_URL;
+import { url } from "../lib/url";
 
 const items = [
   { path: "about", label: "About" },
@@ -13,11 +13,11 @@ const items = [
 ];
 
 const current = Astro.url.pathname.replace(/\/$/, "");
-const isCurrent = (path) => current === `${base}${path}`.replace(/\/$/, "");
+const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
 ---
 
 <nav class="nav" aria-label="Primary">
-  <a class="nav__brand" href={base}>Southport Apartments</a>
+  <a class="nav__brand" href={url("/")}>Southport Apartments</a>
   <input id="nav-toggle" class="nav__toggle" type="checkbox" aria-label="Open menu" />
   <label for="nav-toggle" class="nav__burger" aria-hidden="true">
     <span></span><span></span><span></span>
@@ -26,7 +26,7 @@ const isCurrent = (path) => current === `${base}${path}`.replace(/\/$/, "");
     {
       items.map((it) => (
         <li>
-          <a href={`${base}${it.path}`} aria-current={isCurrent(it.path) ? "page" : undefined}>
+          <a href={url(it.path)} aria-current={isCurrent(it.path) ? "page" : undefined}>
             {it.label}
           </a>
         </li>

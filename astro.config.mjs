@@ -2,6 +2,7 @@
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
 import astroBrokenLinksChecker from "astro-broken-links-checker";
+import sitemap from "@astrojs/sitemap";
 
 const SITE = "https://walknuts.github.io";
 const BASE = "/southportapartments/";
@@ -11,10 +12,9 @@ const BASE = "/southportapartments/";
  * image references like `/foo` resolve correctly under the configured base.
  */
 const rewriteAbsoluteUrls = () => (tree) => {
-  const baseNoSlash = BASE.replace(/\/$/, "");
   const prefix = (value) =>
     typeof value === "string" && value.startsWith("/") && !value.startsWith("//")
-      ? `${baseNoSlash}${value}`
+      ? BASE + value.slice(1)
       : value;
   visit(tree, "element", (node) => {
     if (node.tagName === "a" && node.properties?.href) {
@@ -35,6 +35,7 @@ export default defineConfig({
     rehypePlugins: [rewriteAbsoluteUrls],
   },
   integrations: [
+    sitemap(),
     astroBrokenLinksChecker({
       checkExternalLinks: false,
       throwError: true,

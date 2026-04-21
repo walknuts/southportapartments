@@ -10,7 +10,7 @@ interface Props {
 const { title, summary, heroImage } = Astro.props;
 ---
 
-<Base title={title} description={summary}>
+<Base title={title} description={summary} ogImage={heroImage}>
   <Hero image={heroImage} />
   <article class="container container--prose page">
     <header class="page__header">

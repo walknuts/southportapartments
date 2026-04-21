@@ -5,8 +5,9 @@ import banner from "../assets/images/home/banner.jpg";
 interface Props {
   image?: ImageMetadata;
   alt?: string;
+  priority?: boolean;
 }
-const { image = banner, alt = "" } = Astro.props;
+const { image = banner, alt = "", priority = true } = Astro.props;
 ---
 
 <div class="page-hero">
@@ -15,7 +16,8 @@ const { image = banner, alt = "" } = Astro.props;
     alt={alt}
     widths={[800, 1400, 2000]}
     sizes="100vw"
-    loading="eager"
+    loading={priority ? "eager" : "lazy"}
+    fetchpriority={priority ? "high" : "auto"}
   />
 </div>
 
