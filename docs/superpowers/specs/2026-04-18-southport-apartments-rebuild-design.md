@@ -62,45 +62,47 @@ southportapartments/
 ```ts
 // src/content.config.ts
 const pages = defineCollection({
-  schema: ({ image }) => z.object({
-    title: z.string(),
-    summary: z.string().optional(),
-    order: z.number().optional(),       // controls nav position
-    heroImage: image().optional(),
-    draft: z.boolean().default(false),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      summary: z.string().optional(),
+      order: z.number().optional(), // controls nav position
+      heroImage: image().optional(),
+      draft: z.boolean().default(false),
+    }),
 });
 
 const posts = defineCollection({
-  schema: ({ image }) => z.object({
-    title: z.string(),
-    date: z.coerce.date(),
-    summary: z.string(),
-    heroImage: image().optional(),
-    draft: z.boolean().default(false),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      date: z.coerce.date(),
+      summary: z.string(),
+      heroImage: image().optional(),
+      draft: z.boolean().default(false),
+    }),
 });
 ```
 
 ## URL mapping (live → new)
 
-| Live | New |
-|---|---|
-| `/index.html` | `/` |
-| `/southportapartments/about/about_us.html` | `/about` |
-| `/southportapartments/about/our-people-southport-apartments.html` | `/about/people` |
-| `/southportapartments/about/gallery-southport-apartments.html` | `/about/gallery` |
-| `/southportapartments/visiting/visiting.html` | `/visiting` |
-| `/southportapartments/my-home/my_home.html` | `/my-home` |
+| Live                                                                 | New                    |
+| -------------------------------------------------------------------- | ---------------------- |
+| `/index.html`                                                        | `/`                    |
+| `/southportapartments/about/about_us.html`                           | `/about`               |
+| `/southportapartments/about/our-people-southport-apartments.html`    | `/about/people`        |
+| `/southportapartments/about/gallery-southport-apartments.html`       | `/about/gallery`       |
+| `/southportapartments/visiting/visiting.html`                        | `/visiting`            |
+| `/southportapartments/my-home/my_home.html`                          | `/my-home`             |
 | `/southportapartments/my-home/alterations-southport-apartments.html` | `/my-home/alterations` |
-| `/southportapartments/community/my_community.html` | `/community` |
-| `/southportapartments/moving/moving_in.html` | `/moving-in` |
-| `/southportapartments/safety/safety.html` | `/safety` |
-| `/southportapartments/admin/rules-southport-apartments.html` | `/rules` |
-| `/southportapartments/contact/contact.html` | `/contact` |
-| `/policies.html` | `/policies` |
-| `/blog-index.php.html` | `/news` |
-| `/<post-slug>.html` (16 posts) | `/news/<slug>` |
+| `/southportapartments/community/my_community.html`                   | `/community`           |
+| `/southportapartments/moving/moving_in.html`                         | `/moving-in`           |
+| `/southportapartments/safety/safety.html`                            | `/safety`              |
+| `/southportapartments/admin/rules-southport-apartments.html`         | `/rules`               |
+| `/southportapartments/contact/contact.html`                          | `/contact`             |
+| `/policies.html`                                                     | `/policies`            |
+| `/blog-index.php.html`                                               | `/news`                |
+| `/<post-slug>.html` (16 posts)                                       | `/news/<slug>`         |
 
 **Top nav** (kept short): About · Visiting · My Home · Community · Moving In · Safety · Contact. Rules, Policies, Gallery, People reachable via section pages and footer.
 
@@ -118,19 +120,20 @@ Quiet, modern, lake-and-sky. Photography-led; design recedes.
 
 **Palette** (preserved from current site):
 
-| Token | Hex | Use |
-|---|---|---|
-| `--color-text` | `#696670` | body text |
-| `--color-bg` | `#fff` | page background |
-| `--color-bg-soft` | `#ddedf7` | subtle section bg, hero overlay |
-| `--color-bg-sage` | `#e1e6d7` | secondary accent |
-| `--color-accent` | `#00b2ff` | links, primary CTA |
-| `--color-text-muted` | `#677a85` | secondary text, captions |
-| `--color-alert` | `#ce2029` | safety/alert callouts only |
+| Token                | Hex       | Use                             |
+| -------------------- | --------- | ------------------------------- |
+| `--color-text`       | `#696670` | body text                       |
+| `--color-bg`         | `#fff`    | page background                 |
+| `--color-bg-soft`    | `#ddedf7` | subtle section bg, hero overlay |
+| `--color-bg-sage`    | `#e1e6d7` | secondary accent                |
+| `--color-accent`     | `#00b2ff` | links, primary CTA              |
+| `--color-text-muted` | `#677a85` | secondary text, captions        |
+| `--color-alert`      | `#ce2029` | safety/alert callouts only      |
 
 **Type**: system stack for body, Fraunces (or similar humanist serif) for headings via `@fontsource`. Fluid scale.
 
 **Layout patterns**:
+
 - Home: full-bleed hero, 6-up tile grid (`repeat(auto-fit, minmax(220px, 1fr))`), recent news strip
 - Section pages: short hero, 70ch prose column, related-page footer
 - Gallery: CSS masonry with fallback

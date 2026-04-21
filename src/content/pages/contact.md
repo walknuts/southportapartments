@@ -42,7 +42,7 @@ Grady Strata and Facilities (Grady\*) can help you with:
 
 If they can't help, they will point you in the right direction.
 
-\* *Names are important. Please note that the business's name is "Grady" and not "Grady's" unless in the possessive case.*
+\* _Names are important. Please note that the business's name is "Grady" and not "Grady's" unless in the possessive case._
 
 ### Grady cannot help you with
 
@@ -116,7 +116,7 @@ Take the 325 Anketell Street lift down to the Basement carpark. Turn right as yo
 
 ### Can I contact the Executive Committee (EC) directly?
 
-Yes, of course. We are here to represent *you*.
+Yes, of course. We are here to represent _you_.
 
 Although the Strata Manager should be your main contact for routine issues, please reach out to us directly if you're unhappy with their response or have any strategic suggestions. Renters, please contact us via your landlord or their agent.
 
@@ -124,7 +124,7 @@ Our email address is [ec@southport.apartments](mailto:ec@southport.apartments).
 
 If we do not answer immediately, please understand that we are volunteers who only meet monthly.
 
-*Privacy notice: please note that some EC members may forward your email to their work email address.*
+_Privacy notice: please note that some EC members may forward your email to their work email address._
 
 ## Webmaster
 

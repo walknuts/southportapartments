@@ -93,7 +93,7 @@ Our practical interpretation is that we have complied with this requirement if:
 - we specifically invite owners to join the EC, whether at the AGM or filling a casual vacancy; and
 - we elect at least one shop owner who volunteers.
 
-We cannot *compel* a shop owner to apply.
+We cannot _compel_ a shop owner to apply.
 
 **How should we induct new members?** Our induction should include:
 
@@ -157,7 +157,7 @@ We cannot *compel* a shop owner to apply.
 **What is the policy?** There are several elements:
 
 - we engage strata and building managers, such as Grady, to manage most of our projects
-- we agreed to cooperate with *their* project management, such as the building manager's use of Trello
+- we agreed to cooperate with _their_ project management, such as the building manager's use of Trello
 - the EC also has projects, for which the Secretary created a Trello Board to help us manage them
 - TK.
 
@@ -171,7 +171,7 @@ We cannot *compel* a shop owner to apply.
 
 ### Quality management
 
-**Why this policy?** To plan the steps for ISO 9001 implementation and certification, to enhance the *quality* of life at Southport. TK.
+**Why this policy?** To plan the steps for ISO 9001 implementation and certification, to enhance the _quality_ of life at Southport. TK.
 
 **Status:** unapproved draft.
 
@@ -426,7 +426,7 @@ In their ['Best Practice Guide'](https://www.ocnact.org.au/best-practice-guide),
 
 **Funding:** the webmaster has volunteered to pay all the initial and recurring costs for domain registration, email and web hosting, and software. There is no cost to the OC.
 
-**Approval process:** the EC's standard approval process would be impractical given the need to constantly and frequently update the website. A parliamentary mechanism for a similar situation is the *disallowable instrument* --- for example, in section 9(1) of the [Legislation Act 2001 (ACT)](https://www.legislation.act.gov.au/View/a/2001-14/current/html/2001-14.html). Applied to the website:
+**Approval process:** the EC's standard approval process would be impractical given the need to constantly and frequently update the website. A parliamentary mechanism for a similar situation is the _disallowable instrument_ --- for example, in section 9(1) of the [Legislation Act 2001 (ACT)](https://www.legislation.act.gov.au/View/a/2001-14/current/html/2001-14.html). Applied to the website:
 
 1. the webmaster publishes and updates the website
 2. if an EC member has a concern, they contact the webmaster

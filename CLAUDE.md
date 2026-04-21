@@ -6,12 +6,14 @@ Tuggeranong, Canberra. Built with Astro 6, deployed as static HTML.
 ## Stack
 
 - Astro 6 (static output, no SSR)
-- pnpm 9, Node 22 (pinned via `mise.toml`)
+- pnpm, Node 24 (pinned via `mise.toml`)
 - TypeScript (strict, via `astro/tsconfigs/strict`)
 - `sharp` for production image optimisation
 - `astro-broken-links-checker` integration --- throws on broken internal links
   during `astro build`
-- Prettier with `prettier-plugin-astro` for formatting
+- Pagefind for static search (post-build indexer, `dist/pagefind/`)
+- `astro check` for typechecking; oxfmt for formatting; Stylelint
+  (`stylelint-config-standard`) for CSS
 
 ## Layout
 
@@ -27,9 +29,12 @@ Tuggeranong, Canberra. Built with Astro 6, deployed as static HTML.
 ## Commands
 
 ```sh
-pnpm dev      # local dev server
-pnpm build    # production build to dist/ (also runs link checker)
-pnpm preview  # serve the built site locally
+pnpm dev           # local dev server
+pnpm build         # astro build + Pagefind indexing (also runs link checker)
+pnpm preview       # serve the built site locally
+pnpm typecheck     # astro check
+pnpm format        # oxfmt (write); format:check for CI
+pnpm lint:css      # stylelint src/**/*.{css,astro}
 ```
 
 ## Content notes

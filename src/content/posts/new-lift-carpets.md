@@ -17,7 +17,7 @@ The old carpets, only in Stage 2's lifts, looked nice when new, but stained easi
 Of course, the new carpets will also stain, but they come with two advantages:
 
 - their mottled, darker colours will better hide stains
-- they are carpet *tiles* that can be easily removed for cleaning and replaced if needed.
+- they are carpet _tiles_ that can be easily removed for cleaning and replaced if needed.
 
 The new carpets didn't cost us anything because they were leftovers from an earlier project. Paul cut and laid the tiles himself. Even just buying new lift carpets for Stage 1 would have cost thousands.
 

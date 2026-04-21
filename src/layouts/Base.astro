@@ -46,7 +46,7 @@ const ogImageURL = ogImage ? new URL(ogImage.src, Astro.site).href : undefined;
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <Nav />
-    <main id="main"><slot /></main>
+    <main id="main" data-pagefind-body><slot /></main>
     <Footer />
   </body>
 </html>

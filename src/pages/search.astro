@@ -1,0 +1,65 @@
+---
+import Base from "../layouts/Base.astro";
+import { url } from "../lib/url";
+
+const bundlePath = url("pagefind/");
+const uiCss = url("pagefind/pagefind-ui.css");
+const uiJs = url("pagefind/pagefind-ui.js");
+---
+
+<Base title="Search" description="Search the Southport Apartments site.">
+  <section class="container container--prose search-page">
+    <h1>Search</h1>
+    <div id="search"></div>
+    <noscript>
+      <p>Search requires JavaScript to be enabled.</p>
+    </noscript>
+  </section>
+
+  <link rel="stylesheet" href={uiCss} />
+  <script is:inline define:vars={{ bundlePath, uiJs }}>
+    window.addEventListener("DOMContentLoaded", () => {
+      const s = document.createElement("script");
+      s.src = uiJs;
+      s.onload = () => {
+        const ui = new window.PagefindUI({
+          element: "#search",
+          bundlePath,
+          showSubResults: true,
+          showImages: false,
+          resetStyles: false,
+        });
+        const q = new URLSearchParams(location.search).get("q");
+        if (q) ui.triggerSearch(q);
+      };
+      s.onerror = () => {
+        const host = document.getElementById("search");
+        if (!host) return;
+        host.textContent = "";
+        const msg = document.createElement("p");
+        const em = document.createElement("em");
+        em.textContent =
+          "Search index not found. Run pnpm build and serve the site with pnpm preview to use search.";
+        msg.appendChild(em);
+        host.appendChild(msg);
+      };
+      document.head.appendChild(s);
+    });
+  </script>
+
+  <style>
+    .search-page {
+      padding-block: var(--space-7);
+    }
+
+    .search-page :global(.pagefind-ui) {
+      --pagefind-ui-primary: var(--color-accent-ink);
+      --pagefind-ui-text: var(--color-text);
+      --pagefind-ui-background: var(--color-bg);
+      --pagefind-ui-border: var(--color-rule);
+      --pagefind-ui-tag: var(--color-bg-soft);
+      --pagefind-ui-border-radius: var(--radius-sm);
+      --pagefind-ui-font: var(--font-sans);
+    }
+  </style>
+</Base>

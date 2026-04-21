@@ -10,8 +10,8 @@ Did you, like 'Pip' in Charles Dickens' novel, have 'Great Expectations' when yo
 
 If so, we share your amusement as you re-read the hype. For example, can you imagine 'The Laneway' as somewhere to 'surround yourself with garden tranquillity, savouring the simple pleasure of silence or a good book'? All while keeping a lookout for cars and garbage trucks?
 
-Ten years later, how well has Southport lived up to *your* expectations?
+Ten years later, how well has Southport lived up to _your_ expectations?
 
-What could *we* do better? The EC would value your practical, constructive suggestions.
+What could _we_ do better? The EC would value your practical, constructive suggestions.
 
 Our email address is on our '[Contact Us](/contact#executive-committee)' page.

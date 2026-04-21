@@ -10,13 +10,13 @@ This page covers what makes up your unit, who is responsible for what, and how t
 
 ### What is "my home"?
 
-What are the boundaries between *your* property and your neighbour's or a common area? The [Unit Titles Act 2001 (ACT)](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html) defines these.
+What are the boundaries between _your_ property and your neighbour's or a common area? The [Unit Titles Act 2001 (ACT)](https://www.legislation.act.gov.au/View/a/2001-16/current/html/2001-16.html) defines these.
 
 ![Boundary diagram from the Unit Titles Act 2001 (ACT)](../../assets/images/my-home/boundaries-diagram.jpg)
 
 ### Terrace units: where is the boundary for my outside walls?
 
-A terrace unit's front wall spans two levels. The ground level is entirely inside your courtyard, so both sides of the wall are *your* responsibility. The upper level is *not* inside your courtyard --- it is above it --- so its outside is common property, just like the walls of the units above.
+A terrace unit's front wall spans two levels. The ground level is entirely inside your courtyard, so both sides of the wall are _your_ responsibility. The upper level is _not_ inside your courtyard --- it is above it --- so its outside is common property, just like the walls of the units above.
 
 ### Can I sit a pot plant on the wall between my unit and my neighbour's?
 
@@ -56,7 +56,7 @@ In the ACT, unit owners have statutory warranties:
 
 Since Southport received its Certificates of Occupancy in 2017, both warranties have expired. For more details, see [this article by Minter Ellison](https://constructionlawmadeeasy.com/construction-law/chapter-14/australian-capital-territory/#:~:text=The%20statutory%20warranties%20expire%20six,required%20by%20the%20statutory%20warranties.).
 
-Fortunately, before the structural warranty expired, Grady Strata engaged engineers to identify defects. Their report --- *Leo Meng & Associates --- Remedial Engineering Report* (added 07/04/2025) --- is available on [Grady's portal](https://gradystrata.my.smata.com). Grady is pursuing GEOCON to rectify the defects identified in that report, along with others.
+Fortunately, before the structural warranty expired, Grady Strata engaged engineers to identify defects. Their report --- _Leo Meng & Associates --- Remedial Engineering Report_ (added 07/04/2025) --- is available on [Grady's portal](https://gradystrata.my.smata.com). Grady is pursuing GEOCON to rectify the defects identified in that report, along with others.
 
 ### What is a defect?
 
@@ -221,7 +221,7 @@ Your toilet is a Villeroy & Boch O.Novo washdown toilet suite, part number 56571
 
 **Can I replace the seat?** Yes. Villeroy & Boch's part number is 9M38S101. One local source is [Southern Plumbing Plus](https://spplus.com.au/) in Fyshwick (the original supplier).
 
-**Must I buy a Villeroy & Boch seat?** No --- alternatives are available, including from Bunnings. The table below compares two alternatives with the original. Please remember they are *alternatives*, not identical replacements.
+**Must I buy a Villeroy & Boch seat?** No --- alternatives are available, including from Bunnings. The table below compares two alternatives with the original. Please remember they are _alternatives_, not identical replacements.
 
 ![Comparison of two alternative toilet seats with the original Villeroy & Boch seat](../../assets/images/my-home/toilet-seat-comparison.png)
 
@@ -263,7 +263,7 @@ Some units have two opposing sliding doors where the handles meet in the middle,
 
 ![Sliding screen door roller and adjusting screw](../../assets/images/my-home/screen-door-roller.jpg)
 
-To *raise* the door, turn the adjusting screw *clockwise* with a #2 Phillips head screwdriver. To *lower* the door, turn it *anticlockwise*. Turn the screw fully anticlockwise to fully retract the roller if you need to remove or replace the door. There's also a [YouTube video on adjusting screen door rollers](https://www.youtube.com/watch?v=EozjITY3HYM).
+To _raise_ the door, turn the adjusting screw _clockwise_ with a #2 Phillips head screwdriver. To _lower_ the door, turn it _anticlockwise_. Turn the screw fully anticlockwise to fully retract the roller if you need to remove or replace the door. There's also a [YouTube video on adjusting screen door rollers](https://www.youtube.com/watch?v=EozjITY3HYM).
 
 ### Indoor floor and wall tiles
 
@@ -286,7 +286,7 @@ To *raise* the door, turn the adjusting screw *clockwise* with a #2 Phillips hea
 
 If that doesn't work, try [Chemtech Brick Tile and Paver Cleaner](https://www.bunnings.com.au/chemtech-1l-brick-tile-and-paver-cleaner_p0964678) (1 L and 5 L from Bunnings) --- it will even remove the white deposits that often form under pot plants.
 
-**Can I coat the tiles to make them easier to clean?** Yes --- the Building Manager is considering this for some common-area tiles. When choosing a coating, ask about its slip resistance when applied to your tiles. (The Australian Standard is AS 4663, *Slip resistance measurement of existing pedestrian surfaces*.)
+**Can I coat the tiles to make them easier to clean?** Yes --- the Building Manager is considering this for some common-area tiles. When choosing a coating, ask about its slip resistance when applied to your tiles. (The Australian Standard is AS 4663, _Slip resistance measurement of existing pedestrian surfaces_.)
 
 **How do I replace a cracked or broken tile?**
 

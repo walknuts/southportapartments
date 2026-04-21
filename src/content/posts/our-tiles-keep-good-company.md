@@ -8,7 +8,7 @@ One of our residents got a surprise recently when they noticed our outdoor tiles
 
 ![The voco Melbourne Central hotel](../../assets/images/news/our-tiles-keep-good-company/voco-melbourne-central.jpeg)
 
-*The voco Melbourne Central is a 4-star hotel in the 'Melbourne 380' skyscraper at 380 Lonsdale Street.*
+_The voco Melbourne Central is a 4-star hotel in the 'Melbourne 380' skyscraper at 380 Lonsdale Street._
 
 Here are the tiles on the balcony of the hotel's restaurant:
 

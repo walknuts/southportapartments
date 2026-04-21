@@ -58,7 +58,7 @@ The elements of fire safety here at Southport.
 
 ![Smoke alarm](../../assets/images/safety/smoke-alarm.jpeg)
 
-Your smoke alarm beeps loudly when it detects *smoke* from a fire.
+Your smoke alarm beeps loudly when it detects _smoke_ from a fire.
 
 #### Instructions
 
@@ -80,13 +80,13 @@ Not all units have the same smoke alarms. Here are the instructions for two bran
 
 Relax, it won't.
 
-However, let the smoke escape *outside* the building, such as into your balcony or courtyard. Triggering an alarm in a common area *will* call the fire brigade.
+However, let the smoke escape _outside_ the building, such as into your balcony or courtyard. Triggering an alarm in a common area _will_ call the fire brigade.
 
 ### Heat detector
 
 ![Heat detector](../../assets/images/safety/heat-detector.jpeg)
 
-Some units also have a heat (or thermal) detector that alerts our Fire Indicator Panel, and then the fire brigade, when it detects the *heat* from a fire.
+Some units also have a heat (or thermal) detector that alerts our Fire Indicator Panel, and then the fire brigade, when it detects the _heat_ from a fire.
 
 The heat detectors are from Honeywell's [Notifier FST-851AUS Series](https://www.notifier.com.au/products/fire-alarm-initiating-devices/intelligent-sensors/61-fst-851.html). They require no owner maintenance, but a fire safety contractor may occasionally visit to test your detector.
 
@@ -140,7 +140,7 @@ If the system instructs you to evacuate:
 
 ![Evacuation diagram example](../../assets/images/safety/evacuation-diagram-2.jpg)
 
-Memorise *your* nearest Evacuation Diagram. The diagrams above are examples only --- follow your nearest one.
+Memorise _your_ nearest Evacuation Diagram. The diagrams above are examples only --- follow your nearest one.
 
 #### What if I need help to evacuate?
 
@@ -202,7 +202,7 @@ Each circuit has a Residual Current Device that 'trips' the circuit's switch to 
 1. Switch off all the appliances on that circuit.
 2. Switch on the tripped switch.
 3. If it trips, call an electrician.
-4. If it doesn't, switch on *one* appliance.
+4. If it doesn't, switch on _one_ appliance.
 5. If the switch trips, you have found the faulty appliance.
 6. If it doesn't, switch on more appliances, one at a time, until the switch trips and identifies the faulty appliance.
 7. If you cannot identify a faulty appliance, and the switch trips again, call an electrician.
@@ -317,6 +317,7 @@ If you see a hazard we've overlooked, please report it to the Building Manager v
 ![Rocking tile --- one resident hurt their back when this tile rocked unexpectedly as they stepped on it](../../assets/images/safety/rocking-tile.jpg)
 
 [^1]: AS 4568 or 4663.
+
 [^2]: 'Lippage' is when the heights of the tiles at a joint are uneven because the top of the pedestal was not correctly shimmed to compensate for tiles of different thicknesses.
 
 ## Disclaimer

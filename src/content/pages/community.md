@@ -20,7 +20,7 @@ There's the informal social interaction as you:
 
 ![Two coffees on a table](../../assets/images/community/two-coffees.jpg)
 
-*Photo: Victor Rutka on Unsplash.*
+_Photo: Victor Rutka on Unsplash._
 
 ### Events
 
@@ -32,7 +32,7 @@ We host our Christmas barbecue on the Platform, complete with Santa.
 
 ![Southport residents at the Christmas barbecue](../../assets/images/community/christmas-barbecue.jpg)
 
-*Photo from the 'Southport Tuggeranong Residents' Facebook group.*
+_Photo from the 'Southport Tuggeranong Residents' Facebook group._
 
 #### [Running for Resilience](https://www.runningforresilience.com)
 
@@ -62,7 +62,7 @@ Feel free to organise your own event for our community.
 
 ## Community is more than rules, but...
 
-...the following sections cover rules and courtesies to *support* community.
+...the following sections cover rules and courtesies to _support_ community.
 
 ## Rules
 
@@ -126,11 +126,11 @@ Here are both sides of the sign beside the gym's entry door:
 
 ![Gym welcome sign --- when entering](../../assets/images/community/gym-welcome-sign.jpeg)
 
-*When entering.*
+_When entering._
 
 ![Gym exit sign --- when leaving](../../assets/images/community/gym-exit-sign.jpeg)
 
-*When leaving.*
+_When leaving._
 
 Other courtesies are:
 
@@ -186,7 +186,7 @@ Please hand lost property to the Building Manager.
 
 ## Visitors
 
-If a visitor is part of *your* community, we welcome them as part of *ours.*
+If a visitor is part of _your_ community, we welcome them as part of _ours._
 
 Please help them to observe our rules and courtesies. The same goes for your short-stay accommodation guests.
 
@@ -196,17 +196,17 @@ Please help them to observe our rules and courtesies. The same goes for your sho
 
 Finally, are you wondering why levies appear on a page about community?
 
-Think of your community when the levy notice arrives. *Your* levies help fund the amenities and services that we all enjoy, but could not afford individually.
+Think of your community when the levy notice arrives. _Your_ levies help fund the amenities and services that we all enjoy, but could not afford individually.
 
 ![Example levy notice](../../assets/images/community/levy-notice.png)
 
 ### Why must I pay for amenities I don't need?
 
-First, it's a *fair* question. For example, if your unit is on the ground, should we reduce your levies because you don't need the lifts?
+First, it's a _fair_ question. For example, if your unit is on the ground, should we reduce your levies because you don't need the lifts?
 
-Second, it's a common question for all communities, including governments. Economists often discuss 'user charging' and 'hypothecation' ('to allocate tax revenue to a particular expenditure', *Macquarie Dictionary*).
+Second, it's a common question for all communities, including governments. Economists often discuss 'user charging' and 'hypothecation' ('to allocate tax revenue to a particular expenditure', _Macquarie Dictionary_).
 
-Third, it's a *complex* question, as you will see in the Australian Treasury's report ['Australia's future tax system', Part Two, Detailed Analysis, Volume 2 of 2, December 2009, especially Section E](https://treasury.gov.au/sites/default/files/2019-10/afts_final_report_part_2_vol_2_consolidated.pdf). If user-charging and hypothecation are challenging for a national government, how are they practical for a strata community?
+Third, it's a _complex_ question, as you will see in the Australian Treasury's report ['Australia's future tax system', Part Two, Detailed Analysis, Volume 2 of 2, December 2009, especially Section E](https://treasury.gov.au/sites/default/files/2019-10/afts_final_report_part_2_vol_2_consolidated.pdf). If user-charging and hypothecation are challenging for a national government, how are they practical for a strata community?
 
 Returning to the original example: what if a ground-level resident, who doesn't need the lifts to access their unit, uses them to reach the pools, Platform, gym and sauna? And what if they use those amenities more than an above-ground resident? Whose levies should we then adjust?
 

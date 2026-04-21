@@ -172,7 +172,7 @@ Some units also have private entrances:
 - units 2 to 24 (gates on Cynthea Teague Crescent)
 - units 24 to 31 (gates on Oakden Street).
 
-Some units *only* have private entrances:
+Some units _only_ have private entrances:
 
 - unit 1 (gate on driveway)
 - unit 32 (gate on driveway)
@@ -231,7 +231,7 @@ Stop and hold your fob near the card reader on the yellow post on the right side
 
 The roller door closes automatically behind you. Once in the carpark, the unit numbers are painted on the ground. There's no consistent order, so look carefully for your number the first time.
 
-Units with three or more bedrooms have *two* carparks, which could be in tandem, side-by-side, or separate. Please only park in *your* unit's carpark.
+Units with three or more bedrooms have _two_ carparks, which could be in tandem, side-by-side, or separate. Please only park in _your_ unit's carpark.
 
 To exit the carpark, approach the roller door slowly until the sensor opens it. It will close automatically behind you.
 
@@ -241,7 +241,7 @@ To exit the carpark, approach the roller door slowly until the sensor opens it. 
 
 ### Where is my storage cage?
 
-The storage cages are in the carparks --- *but not necessarily near your unit's carpark*. If you need help finding yours, please [contact our Building Manager](/contact).
+The storage cages are in the carparks --- _but not necessarily near your unit's carpark_. If you need help finding yours, please [contact our Building Manager](/contact).
 
 ### What can I store?
 

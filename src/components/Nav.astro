@@ -33,6 +33,17 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
       ))
     }
   </ul>
+  <form class="nav__search" role="search" method="get" action={url("search")}>
+    <label class="visually-hidden" for="nav-search">Search the site</label>
+    <input
+      id="nav-search"
+      class="nav__search-input"
+      type="search"
+      name="q"
+      placeholder="Search"
+      autocomplete="off"
+    />
+  </form>
 </nav>
 
 <style>
@@ -47,6 +58,7 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
     top: 0;
     z-index: 10;
   }
+
   .nav__brand {
     font-family: var(--font-display);
     font-weight: 600;
@@ -54,6 +66,7 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
     text-decoration: none;
     font-size: var(--fs-500);
   }
+
   .nav__list {
     list-style: none;
     padding: 0;
@@ -62,24 +75,52 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
     gap: var(--space-5);
     flex-wrap: wrap;
   }
+
   .nav__list a {
     color: var(--color-text);
     text-decoration: none;
     font-size: var(--fs-400);
   }
+
   .nav__list a[aria-current="page"] {
     color: var(--color-accent-ink);
     border-bottom: 2px solid var(--color-accent);
   }
+
+  .nav__search {
+    display: flex;
+  }
+
+  .nav__search-input {
+    font: inherit;
+    font-size: var(--fs-300);
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-rule);
+    border-radius: var(--radius-sm);
+    background: var(--color-bg);
+    color: inherit;
+    inline-size: 14ch;
+    transition:
+      border-color 120ms ease,
+      inline-size 160ms ease;
+  }
+
+  .nav__search-input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+    inline-size: 20ch;
+  }
+
   .nav__toggle,
   .nav__burger {
     display: none;
   }
 
-  @media (max-width: 720px) {
+  @media (width <= 720px) {
     .nav {
       flex-wrap: wrap;
     }
+
     .nav__burger {
       display: inline-flex;
       flex-direction: column;
@@ -88,12 +129,14 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
       cursor: pointer;
       padding: var(--space-2);
     }
+
     .nav__burger span {
       width: 22px;
       height: 2px;
       background: var(--color-text);
       border-radius: 2px;
     }
+
     .nav__list {
       flex-basis: 100%;
       flex-direction: column;
@@ -104,8 +147,22 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
       overflow: hidden;
       transition: max-height 200ms ease;
     }
+
     .nav__toggle:checked ~ .nav__list {
       max-height: 60vh;
+    }
+
+    .nav__search {
+      flex-basis: 100%;
+      order: 3;
+    }
+
+    .nav__search-input {
+      inline-size: 100%;
+    }
+
+    .nav__search-input:focus {
+      inline-size: 100%;
     }
   }
 </style>

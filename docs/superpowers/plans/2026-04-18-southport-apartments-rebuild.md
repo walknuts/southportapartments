@@ -19,6 +19,7 @@
 ### Task 1: Preserve current main as `old` tag and start clean branch
 
 **Files:**
+
 - Modify: git refs only
 
 - [ ] **Step 1: Confirm clean working tree**
@@ -27,6 +28,7 @@
 cd /home/ben/projects/southport-apartments/southportapartments
 git status
 ```
+
 Expected: `nothing to commit, working tree clean`. If dirty, stop and ask.
 
 - [ ] **Step 2: Tag current main as `old` and push tag**
@@ -36,6 +38,7 @@ git fetch --all
 git tag -f old main
 git push origin old
 ```
+
 Expected: `* [new tag] old -> old` (or forced update).
 
 - [ ] **Step 3: Create orphan branch and clear tracked files**
@@ -44,11 +47,13 @@ Expected: `* [new tag] old -> old` (or forced update).
 git checkout --orphan main-fresh
 git rm -rf .
 ```
+
 Expected: working tree empty except `.git/`. Verify with `ls -A` showing only `.git`.
 
 ### Task 2: Scaffold Astro 6 minimal project
 
 **Files:**
+
 - Create: `package.json`, `astro.config.mjs`, `tsconfig.json`, `src/pages/index.astro` (default scaffold)
 
 - [ ] **Step 1: Run Astro create in place**
@@ -56,6 +61,7 @@ Expected: working tree empty except `.git/`. Verify with `ls -A` showing only `.
 ```bash
 pnpm create astro@latest . -- --template minimal --typescript strict --install --no-git --skip-houston --yes
 ```
+
 Expected: Astro project files created, dependencies installed. If the version installed is < 6, abort and report.
 
 - [ ] **Step 2: Verify Astro 6**
@@ -63,6 +69,7 @@ Expected: Astro project files created, dependencies installed. If the version in
 ```bash
 pnpm exec astro --version
 ```
+
 Expected: `6.x.y`. If not, run `pnpm add -D astro@latest` and re-check.
 
 - [ ] **Step 3: Verify dev server boots**
@@ -73,11 +80,13 @@ sleep 4
 curl -sI http://127.0.0.1:4321/ | head -1
 kill %1
 ```
+
 Expected: `HTTP/1.1 200 OK`.
 
 ### Task 3: Project hygiene files
 
 **Files:**
+
 - Create: `mise.toml`, `.gitignore`, `.prettierrc.json`, `README.md`
 - Modify: `package.json` (add prettier)
 
@@ -93,6 +102,7 @@ pnpm = "9"
 - [ ] **Step 2: Append to .gitignore**
 
 Add (or create) lines so the file contains at minimum:
+
 ```
 node_modules
 dist
@@ -111,6 +121,7 @@ pnpm add -D prettier prettier-plugin-astro
 ```
 
 Create `.prettierrc.json`:
+
 ```json
 {
   "plugins": ["prettier-plugin-astro"],
@@ -124,6 +135,7 @@ Create `.prettierrc.json`:
 - [ ] **Step 4: Replace README**
 
 Create `README.md`:
+
 ```markdown
 # Southport Apartments
 
@@ -172,6 +184,7 @@ git commit -m "chore: scaffold Astro 6 project, tag prior site as 'old'"
 ### Task 4: Design tokens stylesheet
 
 **Files:**
+
 - Create: `src/styles/tokens.css`
 
 - [ ] **Step 1: Write tokens.css**
@@ -193,15 +206,16 @@ git commit -m "chore: scaffold Astro 6 project, tag prior site as 'old'"
   --color-rule: rgba(105, 102, 112, 0.15);
 
   /* Type */
-  --font-sans: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-sans:
+    ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
 
   --fs-300: clamp(0.875rem, 0.84rem + 0.18vw, 0.95rem);
-  --fs-400: clamp(1rem,    0.95rem + 0.25vw, 1.1rem);
-  --fs-500: clamp(1.15rem, 1.05rem + 0.5vw,  1.4rem);
-  --fs-600: clamp(1.4rem,  1.2rem + 1vw,    1.9rem);
-  --fs-700: clamp(1.8rem,  1.4rem + 2vw,    2.6rem);
-  --fs-800: clamp(2.25rem, 1.6rem + 3.2vw,  3.6rem);
+  --fs-400: clamp(1rem, 0.95rem + 0.25vw, 1.1rem);
+  --fs-500: clamp(1.15rem, 1.05rem + 0.5vw, 1.4rem);
+  --fs-600: clamp(1.4rem, 1.2rem + 1vw, 1.9rem);
+  --fs-700: clamp(1.8rem, 1.4rem + 2vw, 2.6rem);
+  --fs-800: clamp(2.25rem, 1.6rem + 3.2vw, 3.6rem);
 
   --lh-tight: 1.15;
   --lh-body: 1.6;
@@ -232,6 +246,7 @@ git commit -m "chore: scaffold Astro 6 project, tag prior site as 'old'"
 ### Task 5: Global stylesheet
 
 **Files:**
+
 - Create: `src/styles/global.css`
 
 - [ ] **Step 1: Write global.css**
@@ -242,8 +257,14 @@ git commit -m "chore: scaffold Astro 6 project, tag prior site as 'old'"
 @import "@fontsource/fraunces/400.css";
 @import "@fontsource/fraunces/600.css";
 
-*, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+}
 body {
   margin: 0;
   font-family: var(--font-sans);
@@ -252,32 +273,67 @@ body {
   color: var(--color-text);
   background: var(--color-bg);
 }
-img, svg, video { display: block; max-width: 100%; height: auto; }
+img,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 a {
   color: var(--color-accent-ink);
   text-decoration-color: color-mix(in oklab, var(--color-accent-ink) 35%, transparent);
   text-underline-offset: 0.18em;
   text-decoration-thickness: 1px;
-  transition: color 120ms ease, text-decoration-color 120ms ease;
+  transition:
+    color 120ms ease,
+    text-decoration-color 120ms ease;
 }
-a:hover { color: var(--color-accent); text-decoration-color: currentColor; }
+a:hover {
+  color: var(--color-accent);
+  text-decoration-color: currentColor;
+}
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-family: var(--font-display);
   font-weight: 600;
   line-height: var(--lh-tight);
   color: #2f2c38;
   margin: 0 0 var(--space-4);
 }
-h1 { font-size: var(--fs-800); letter-spacing: -0.01em; }
-h2 { font-size: var(--fs-700); }
-h3 { font-size: var(--fs-600); }
-h4 { font-size: var(--fs-500); }
+h1 {
+  font-size: var(--fs-800);
+  letter-spacing: -0.01em;
+}
+h2 {
+  font-size: var(--fs-700);
+}
+h3 {
+  font-size: var(--fs-600);
+}
+h4 {
+  font-size: var(--fs-500);
+}
 
-p { margin: 0 0 var(--space-4); }
-ul, ol { margin: 0 0 var(--space-4); padding-inline-start: 1.25rem; }
-li { margin-block: var(--space-2); }
-hr { border: 0; border-top: 1px solid var(--color-rule); margin-block: var(--space-6); }
+p {
+  margin: 0 0 var(--space-4);
+}
+ul,
+ol {
+  margin: 0 0 var(--space-4);
+  padding-inline-start: 1.25rem;
+}
+li {
+  margin-block: var(--space-2);
+}
+hr {
+  border: 0;
+  border-top: 1px solid var(--color-rule);
+  margin-block: var(--space-6);
+}
 blockquote {
   border-inline-start: 3px solid var(--color-accent);
   margin: 0 0 var(--space-4);
@@ -285,7 +341,9 @@ blockquote {
   background: var(--color-bg-soft);
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
 }
-figure { margin: var(--space-5) 0; }
+figure {
+  margin: var(--space-5) 0;
+}
 figcaption {
   font-size: var(--fs-300);
   color: var(--color-text-muted);
@@ -297,16 +355,30 @@ figcaption {
   padding-inline: var(--container-pad);
   max-inline-size: min(var(--container-wide), 100% - 2 * var(--container-pad));
 }
-.container--prose { max-inline-size: min(var(--container-prose), 100% - 2 * var(--container-pad)); }
+.container--prose {
+  max-inline-size: min(var(--container-prose), 100% - 2 * var(--container-pad));
+}
 
 .skip-link {
-  position: absolute; left: -9999px; top: 0;
-  background: #fff; padding: var(--space-2) var(--space-4);
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: #fff;
+  padding: var(--space-2) var(--space-4);
 }
-.skip-link:focus { left: var(--space-3); top: var(--space-3); z-index: 100; }
+.skip-link:focus {
+  left: var(--space-3);
+  top: var(--space-3);
+  z-index: 100;
+}
 
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
 }
 ```
 
@@ -319,6 +391,7 @@ pnpm add @fontsource/fraunces
 ### Task 6: Nav component
 
 **Files:**
+
 - Create: `src/components/Nav.astro`
 
 - [ ] **Step 1: Write Nav.astro**
@@ -401,6 +474,7 @@ const current = Astro.url.pathname.replace(/\/$/, "") || "/";
 ### Task 7: Footer component
 
 **Files:**
+
 - Create: `src/components/Footer.astro`
 
 - [ ] **Step 1: Write Footer.astro**
@@ -456,6 +530,7 @@ const year = new Date().getFullYear();
 ### Task 8: Base layout
 
 **Files:**
+
 - Create: `src/layouts/Base.astro`
 
 - [ ] **Step 1: Write Base.astro**
@@ -497,6 +572,7 @@ const fullTitle = title === "Southport Apartments" ? title : `${title} — South
 ### Task 9: Page layout
 
 **Files:**
+
 - Create: `src/layouts/Page.astro`
 
 - [ ] **Step 1: Write Page.astro**
@@ -551,6 +627,7 @@ const { title, summary, heroImage } = Astro.props;
 - [ ] **Step 2: Add favicon placeholder**
 
 Create `public/favicon.svg`:
+
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="12" fill="#00b2ff"/>
@@ -572,6 +649,7 @@ git commit -m "feat: design tokens, base layout, nav and footer"
 ### Task 10: Content collection schemas
 
 **Files:**
+
 - Create: `src/content.config.ts`
 
 - [ ] **Step 1: Write content.config.ts**
@@ -583,24 +661,26 @@ import { glob } from "astro/loaders";
 
 const pages = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/pages" }),
-  schema: ({ image }) => z.object({
-    title: z.string(),
-    summary: z.string().optional(),
-    order: z.number().optional(),
-    heroImage: image().optional(),
-    draft: z.boolean().default(false),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      summary: z.string().optional(),
+      order: z.number().optional(),
+      heroImage: image().optional(),
+      draft: z.boolean().default(false),
+    }),
 });
 
 const posts = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/posts" }),
-  schema: ({ image }) => z.object({
-    title: z.string(),
-    date: z.coerce.date(),
-    summary: z.string(),
-    heroImage: image().optional(),
-    draft: z.boolean().default(false),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      date: z.coerce.date(),
+      summary: z.string(),
+      heroImage: image().optional(),
+      draft: z.boolean().default(false),
+    }),
 });
 
 export const collections = { pages, posts };
@@ -616,6 +696,7 @@ touch src/content/pages/.gitkeep src/content/posts/.gitkeep src/assets/images/.g
 ### Task 11: Smoke-test page (so build passes before real content lands)
 
 **Files:**
+
 - Create: `src/content/pages/about.md` (placeholder, will be overwritten by Phase 4)
 
 - [ ] **Step 1: Write a stub page**
@@ -633,6 +714,7 @@ Placeholder content.
 ### Task 12: Dynamic page route
 
 **Files:**
+
 - Create: `src/pages/[...slug].astro`
 
 - [ ] **Step 1: Write [...slug].astro**
@@ -662,6 +744,7 @@ const { Content } = await render(entry);
 ### Task 13: News index route
 
 **Files:**
+
 - Create: `src/pages/news/index.astro`
 
 - [ ] **Step 1: Write news/index.astro**
@@ -708,6 +791,7 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft))
 ### Task 14: News post route
 
 **Files:**
+
 - Create: `src/pages/news/[slug].astro`
 
 - [ ] **Step 1: Write news/[slug].astro**
@@ -764,6 +848,7 @@ const date = entry.data.date.toLocaleDateString("en-AU", {
 ### Task 15: 404 page
 
 **Files:**
+
 - Create: `src/pages/404.astro`
 
 - [ ] **Step 1: Write 404.astro**
@@ -783,6 +868,7 @@ import Base from "../layouts/Base.astro";
 ### Task 16: HomeTile component
 
 **Files:**
+
 - Create: `src/components/HomeTile.astro`
 
 - [ ] **Step 1: Write HomeTile.astro**
@@ -838,6 +924,7 @@ const { href, label, image } = Astro.props;
 ### Task 17: Homepage
 
 **Files:**
+
 - Create: `src/pages/index.astro` (overwriting Astro's default)
 - Create: placeholder home tile images at `src/assets/images/home/{property,contact,visitors,my-home,community,moving-in}.jpg` if not yet extracted (Phase 4 will provide real ones)
 
@@ -972,6 +1059,7 @@ for path in / /about /news /no-such-page; do
 done
 kill %1
 ```
+
 Expected: `/`, `/about`, `/news` all `200 OK`; `/no-such-page` `404`.
 
 - [ ] **Step 4: Commit Phase 3**
@@ -991,14 +1079,14 @@ git commit -m "feat: content collections, dynamic routing, homepage"
 
 **Pages in batch 1:**
 
-| Source HTML | Target MD | Slug | Order |
-|---|---|---|---|
-| `scrape/southport.apartments/southportapartments/about/about_us.html` | `src/content/pages/about.md` | `about` | 1 |
-| `scrape/southport.apartments/southportapartments/about/our-people-southport-apartments.html` | `src/content/pages/about/people.md` | `about/people` | — |
-| `scrape/southport.apartments/southportapartments/about/gallery-southport-apartments.html` | `src/content/pages/about/gallery.md` | `about/gallery` | — |
-| `scrape/southport.apartments/southportapartments/visiting/visiting.html` | `src/content/pages/visiting.md` | `visiting` | 2 |
-| `scrape/southport.apartments/southportapartments/my-home/my_home.html` | `src/content/pages/my-home.md` | `my-home` | 3 |
-| `scrape/southport.apartments/southportapartments/my-home/alterations-southport-apartments.html` | `src/content/pages/my-home/alterations.md` | `my-home/alterations` | — |
+| Source HTML                                                                                     | Target MD                                  | Slug                  | Order |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------- | ----- |
+| `scrape/southport.apartments/southportapartments/about/about_us.html`                           | `src/content/pages/about.md`               | `about`               | 1     |
+| `scrape/southport.apartments/southportapartments/about/our-people-southport-apartments.html`    | `src/content/pages/about/people.md`        | `about/people`        | —     |
+| `scrape/southport.apartments/southportapartments/about/gallery-southport-apartments.html`       | `src/content/pages/about/gallery.md`       | `about/gallery`       | —     |
+| `scrape/southport.apartments/southportapartments/visiting/visiting.html`                        | `src/content/pages/visiting.md`            | `visiting`            | 2     |
+| `scrape/southport.apartments/southportapartments/my-home/my_home.html`                          | `src/content/pages/my-home.md`             | `my-home`             | 3     |
+| `scrape/southport.apartments/southportapartments/my-home/alterations-southport-apartments.html` | `src/content/pages/my-home/alterations.md` | `my-home/alterations` | —     |
 
 **Subagent brief (use for each):**
 
@@ -1011,6 +1099,7 @@ git commit -m "feat: content collections, dynamic routing, homepage"
 > **Order:** `<n>` (omit if not provided)
 >
 > Steps:
+>
 > 1. Read the source HTML.
 > 2. Locate the main content region (skip nav, header, footer, sidebars, framework chrome). Look for `<main>`, `<article>`, or content `<div>`s containing the actual prose.
 > 3. For each `<img>` inside the content area, classify as **editorial** (real photo of property, residents, events, infrastructure) or **decorative** (icons, separators, framework chrome, hero banners that duplicate other content). Keep editorial only.
@@ -1019,12 +1108,12 @@ git commit -m "feat: content collections, dynamic routing, homepage"
 >    ```yaml
 >    ---
 >    title: "..."
->    summary: "..."   # one-sentence hook
->    order: N         # only for top-level pages
->    heroImage: "../../assets/images/<slug>/<chosen-hero>.jpg"   # optional
+>    summary: "..." # one-sentence hook
+>    order: N # only for top-level pages
+>    heroImage: "../../assets/images/<slug>/<chosen-hero>.jpg" # optional
 >    ---
 >    ```
-> 6. Body: clean Markdown, Australian English. Demote H1s (the layout adds the H1). Use `![alt](../../assets/images/<slug>/<file>.jpg)` for inline images — Astro will resolve the relative path. Tighten redundant prose lightly; do not rewrite voice. Keep links pointing to other site sections by their *new* paths (see URL mapping in the spec).
+> 6. Body: clean Markdown, Australian English. Demote H1s (the layout adds the H1). Use `![alt](../../assets/images/<slug>/<file>.jpg)` for inline images — Astro will resolve the relative path. Tighten redundant prose lightly; do not rewrite voice. Keep links pointing to other site sections by their _new_ paths (see URL mapping in the spec).
 > 7. Report:
 >    - Source path
 >    - Target path
@@ -1035,6 +1124,7 @@ git commit -m "feat: content collections, dynamic routing, homepage"
 Dispatch all 6 in **one message with parallel Agent calls** (subagent_type `general-purpose`).
 
 After all return:
+
 - Read each generated Markdown file briefly.
 - Note any flags worth surfacing to the user.
 - Mark task complete.
@@ -1049,14 +1139,14 @@ git commit -m "content: extract about, visiting, my-home pages"
 
 ### Task 19: Extract main pages (parallel batch 2 — 5 subagents)
 
-| Source HTML | Target MD | Slug | Order |
-|---|---|---|---|
-| `scrape/southport.apartments/southportapartments/community/my_community.html` | `src/content/pages/community.md` | `community` | 4 |
-| `scrape/southport.apartments/southportapartments/moving/moving_in.html` | `src/content/pages/moving-in.md` | `moving-in` | 5 |
-| `scrape/southport.apartments/southportapartments/safety/safety.html` | `src/content/pages/safety.md` | `safety` | 6 |
-| `scrape/southport.apartments/southportapartments/admin/rules-southport-apartments.html` | `src/content/pages/rules.md` | `rules` | — |
-| `scrape/southport.apartments/southportapartments/contact/contact.html` | `src/content/pages/contact.md` | `contact` | 7 |
-| `scrape/southport.apartments/policies.html` | `src/content/pages/policies.md` | `policies` | — |
+| Source HTML                                                                             | Target MD                        | Slug        | Order |
+| --------------------------------------------------------------------------------------- | -------------------------------- | ----------- | ----- |
+| `scrape/southport.apartments/southportapartments/community/my_community.html`           | `src/content/pages/community.md` | `community` | 4     |
+| `scrape/southport.apartments/southportapartments/moving/moving_in.html`                 | `src/content/pages/moving-in.md` | `moving-in` | 5     |
+| `scrape/southport.apartments/southportapartments/safety/safety.html`                    | `src/content/pages/safety.md`    | `safety`    | 6     |
+| `scrape/southport.apartments/southportapartments/admin/rules-southport-apartments.html` | `src/content/pages/rules.md`     | `rules`     | —     |
+| `scrape/southport.apartments/southportapartments/contact/contact.html`                  | `src/content/pages/contact.md`   | `contact`   | 7     |
+| `scrape/southport.apartments/policies.html`                                             | `src/content/pages/policies.md`  | `policies`  | —     |
 
 (That's 6 pages — dispatch all 6.)
 
@@ -1075,24 +1165,28 @@ git commit -m "content: extract community, moving-in, safety, rules, contact, po
 **Posts** (16 total — split into 4 batches of 4):
 
 Batch A:
+
 - `a-new-powered-door.html`
 - `a-warm-welcome-home.html`
 - `great-expectations-southport-s-marketing.html`
 - `like-the-new-gym-layout.html`
 
 Batch B:
+
 - `new-entrance-signs.html`
 - `new-gym-layout.html`
 - `new-lift-carpets.html`
 - `new-lights-for-the-pool-area.html`
 
 Batch C:
+
 - `new-pedestrian-bridge-over-the-lake.html`
 - `our-tiles-keep-good-company.html`
 - `southport-s-beginnings.html`
 - `sustainability-scheme-2-exploratory-visit.html`
 
 Batch D:
+
 - `sustainability-scheme-we-re-in.html`
 - `sustainability-scheme-we-re-shortlisted.html`
 - `sustainable-scheme-first-meeting.html`
@@ -1106,6 +1200,7 @@ Batch D:
 **Image path pattern:** `src/assets/images/news/<slug>/`
 
 **Subagent brief — same as Task 18 with these substitutions:**
+
 - Frontmatter has `date` (extract from the page or `<time>` element; if missing, use `2024-01-01` and flag for human review) and `summary` (required, one sentence).
 - No `order` field.
 - `heroImage` recommended.
@@ -1126,6 +1221,7 @@ git commit -m "content: extract 16 news posts"
 ### Task 21: Copy PDFs
 
 **Files:**
+
 - Copy 5 PDFs from `scrape/southport.apartments/download/` → `public/downloads/`
 
 - [ ] **Step 1: Copy PDFs**
@@ -1134,11 +1230,13 @@ git commit -m "content: extract 16 news posts"
 cp scrape/southport.apartments/download/*.pdf public/downloads/
 ls public/downloads/
 ```
+
 Expected: 5 PDFs listed.
 
 - [ ] **Step 2: Add a small `Downloads` block to `/my-home` and `/rules`**
 
 In `src/content/pages/my-home.md`, append (or place appropriately):
+
 ```markdown
 ## Appliance manuals
 
@@ -1148,6 +1246,7 @@ In `src/content/pages/my-home.md`, append (or place appropriately):
 ```
 
 In `src/content/pages/rules.md`, append:
+
 ```markdown
 ## Documents
 
@@ -1167,6 +1266,7 @@ git commit -m "content: add downloadable PDFs and link from relevant pages"
 ### Task 22: Image dedup pass
 
 **Files:**
+
 - May modify image references across `src/content/`
 
 - [ ] **Step 1: Find duplicate filenames across page image folders**
@@ -1197,6 +1297,7 @@ git commit -m "refactor: hoist shared images to images/shared"
 ```bash
 pnpm build 2>&1 | tail -30
 ```
+
 Expected: `Complete!`. No errors. Warnings about missing image references or schema validation must be fixed before continuing.
 
 - [ ] **Step 2: Preview & smoke test**
@@ -1208,11 +1309,13 @@ ROUTES="/ /about /about/people /about/gallery /visiting /my-home /my-home/altera
 for r in $ROUTES; do printf "%-25s %s\n" "$r" "$(curl -sI http://127.0.0.1:4321$r | head -1)"; done
 kill %1
 ```
+
 Expected: every route except `/no-such-route` returns 200; `/no-such-route` returns 404.
 
 - [ ] **Step 3: Visual check in browser**
 
 Open `http://127.0.0.1:4321/` in a browser and walk through the homepage, one section page (e.g. `/about`), `/news`, and one news post. Look for:
+
 - broken images
 - broken internal links
 - nav highlighting current page

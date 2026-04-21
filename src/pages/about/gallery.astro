@@ -50,16 +50,19 @@ const photos = Object.entries(galleryModules)
   .gallery {
     padding-block: var(--space-7);
   }
+
   .gallery__header {
     text-align: center;
     margin-bottom: var(--space-6);
   }
+
   .gallery__lede {
     color: var(--color-text-muted);
     font-size: var(--fs-500);
     max-inline-size: 60ch;
     margin-inline: auto;
   }
+
   .gallery__grid {
     list-style: none;
     padding: 0;
@@ -68,9 +71,11 @@ const photos = Object.entries(galleryModules)
     gap: var(--space-4);
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
+
   .gallery__grid li {
     margin: 0;
   }
+
   .gallery__grid img {
     width: 100%;
     aspect-ratio: 4 / 3;

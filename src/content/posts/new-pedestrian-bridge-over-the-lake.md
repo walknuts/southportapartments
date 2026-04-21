@@ -8,7 +8,7 @@ Did you see the recent development application for a new pedestrian bridge acros
 
 ![Map showing the location of the proposed new bridge between Southport and Ellison Harvie Close, with nearby bus stops on Drakeford Drive marked.](../../assets/images/news/new-pedestrian-bridge-over-the-lake/bridge-location-map.png)
 
-*DA 202442924.*
+_DA 202442924._
 
 The new bridge will:
 
@@ -20,6 +20,6 @@ What will the new bridge look like? It will be a stylish 'Stirling Cable-Stay' s
 
 ![Architectural visualisation of the proposed Stirling Cable-Stay suspension bridge across the lake.](../../assets/images/news/new-pedestrian-bridge-over-the-lake/stirling-cable-stay-bridge.jpg)
 
-*DA 202442924, with modified background.*
+_DA 202442924, with modified background._
 
 Timing? Hopefully, the development application gets approved and construction begins soon after.

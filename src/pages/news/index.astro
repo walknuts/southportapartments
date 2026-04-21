@@ -41,6 +41,7 @@ const posts = await getPublishedPosts();
   .news {
     padding-block: var(--space-7);
   }
+
   .news__list {
     list-style: none;
     padding: 0;
@@ -48,6 +49,7 @@ const posts = await getPublishedPosts();
     display: grid;
     gap: var(--space-6);
   }
+
   .news__item time {
     display: block;
     color: var(--color-text-muted);
@@ -55,14 +57,17 @@ const posts = await getPublishedPosts();
     text-transform: uppercase;
     letter-spacing: 0.05em;
   }
+
   .news__item h2 {
     margin: var(--space-1) 0 var(--space-2);
     font-size: var(--fs-600);
   }
+
   .news__item a {
     color: inherit;
     text-decoration: none;
   }
+
   .news__item a:hover {
     color: var(--color-accent);
   }

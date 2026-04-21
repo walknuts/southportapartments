@@ -22,7 +22,7 @@ Yes. We want you to enjoy Southport living to the fullest. If you have ideas to 
 There are many websites with good ideas, most of which won't need any major alterations. Here are three to start with:
 
 - ['Small Spaces, Big Ideas: Top 10 Design Hacks'](https://planning-by-design.co.uk/top-design-hacks-for-small-spaces/), from British architectural designer Ezgi Cebi
-- ['Small Spaces Big Ideas'](https://www.abc.net.au/gardening/how-to/small-spaces-big-ideas/10944930), from ABC TV's *Gardening Australia*
+- ['Small Spaces Big Ideas'](https://www.abc.net.au/gardening/how-to/small-spaces-big-ideas/10944930), from ABC TV's _Gardening Australia_
 - ['17 Clever Design and Decorating Tricks for Compact Apartments'](https://www.houzz.com.au/magazine/17-clever-design-and-decorating-tricks-for-compact-apartments-stsetivw-vs~32099149), by Natasha Saroca for Houzz
 
 ![Furniture with legs sits up from the floor and increases the sense of space.](../../../assets/images/my-home/alterations/furniture-with-legs-inspiration.jpg)
@@ -52,12 +52,12 @@ The word's inclusivity is clear.
 There is no special definition in:
 
 - our rules
-- *Unit Titles Management Act 2011* (ACT)
-- *Unit Titles (Management) Regulation 2011* (ACT)
-- *Unit Titles Act 2001* (ACT)
-- *Unit Titles Regulation 2001* (ACT).
+- _Unit Titles Management Act 2011_ (ACT)
+- _Unit Titles (Management) Regulation 2011_ (ACT)
+- _Unit Titles Act 2001_ (ACT)
+- _Unit Titles Regulation 2001_ (ACT).
 
-A lawyer would therefore refer to the *Macquarie Dictionary*:
+A lawyer would therefore refer to the _Macquarie Dictionary_:
 
 ![Macquarie Dictionary definition of 'structure'.](../../../assets/images/my-home/alterations/structure-definition-macquarie.jpg)
 
@@ -81,19 +81,19 @@ Three simple steps:
 
 Grady Strata will review your application and forward it with their recommendation to the Executive Committee (EC) for approval. They will then inform you once your application is approved, along with any applicable conditions.
 
-If your proposed alteration *doesn't* need approval, they'll notify you promptly to save time for everyone.
+If your proposed alteration _doesn't_ need approval, they'll notify you promptly to save time for everyone.
 
 ### What will the EC consider?
 
 In other words, what are our standards?
 
-The first is *freedom*. We want to leave you as free as possible to alter your unit as you wish.
+The first is _freedom_. We want to leave you as free as possible to alter your unit as you wish.
 
 However, we must also 'act in the best interests of the owners corporation' as a whole. That means considering other standards, including the following.
 
 > An executive member must act in the best interests of the owners corporation in exercising the member's functions as an executive member, unless it is unlawful to do so.
 >
-> — *Unit Titles (Management) Act 2011* (ACT) sch 1 pt 1.1 s 4
+> — _Unit Titles (Management) Act 2011_ (ACT) sch 1 pt 1.1 s 4
 
 #### Compliance with the National Construction Code (NCC)
 
@@ -132,23 +132,23 @@ That is why the strata manager will notify our insurer of every approved alterat
 
 #### Legal details: how an alteration could affect Southport's strata insurance
 
-An alteration could affect our insurance if it is *non-compliant*:
+An alteration could affect our insurance if it is _non-compliant_:
 
 ![Chubb Strata Insurance PDS, page 46.](../../../assets/images/my-home/alterations/chubb-pds-page-46-non-compliance.png)
 
-*Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 46.*
+_Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 46._
 
-An alteration could affect our insurance if it is *unapproved by the EC*:
+An alteration could affect our insurance if it is _unapproved by the EC_:
 
 ![Chubb Strata Insurance PDS, page 35.](../../../assets/images/my-home/alterations/chubb-pds-page-35-unapproved-alteration.png)
 
-*Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 35.*
+_Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 35._
 
 A 'Lot Owners' Improvement' is what Chubb calls an alteration:
 
 ![Chubb Strata Insurance PDS, page 95.](../../../assets/images/my-home/alterations/chubb-pds-page-95-lot-owners-improvement.png)
 
-*Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 95.*
+_Chubb Strata Insurance Product Disclosure Statement (PDS) and Policy Wording, published 09/2023, page 95._
 
 ### Precedents
 
@@ -166,13 +166,13 @@ The popular alterations below are all precedents.
 
 ![Timber or vinyl floors.](../../../assets/images/my-home/alterations/timber-or-vinyl-floors.jpg)
 
-*Details to come.*
+_Details to come._
 
 ### Pet mesh
 
 ![Pet mesh on a balcony.](../../../assets/images/my-home/alterations/pet-mesh.png)
 
-*Details to come.*
+_Details to come._
 
 ### Door peephole or new lock
 
@@ -194,11 +194,11 @@ Before purchasing a new lock or peephole, ensure it has an FRL at least as high 
 
 ![Door FRL tag showing NA/60/30.](../../../assets/images/my-home/alterations/door-frl-tag-na-60-30.jpeg)
 
-*This door's Fire Resistance Level (FRL) is NA/60/30: it maintains its integrity for 60 minutes and its insulation for 30 minutes.*
+_This door's Fire Resistance Level (FRL) is NA/60/30: it maintains its integrity for 60 minutes and its insulation for 30 minutes._
 
 ![Door FRL tag showing NA/120/30.](../../../assets/images/my-home/alterations/door-frl-tag-na-120-30.jpeg)
 
-*This door's FRL is NA/120/30: it maintains its integrity for 120 minutes (twice as long as the door above) and its insulation for 30 minutes (the same as the door above).*
+_This door's FRL is NA/120/30: it maintains its integrity for 120 minutes (twice as long as the door above) and its insulation for 30 minutes (the same as the door above)._
 
 To assure your door's fire safety, use a qualified locksmith who has:
 
@@ -211,11 +211,11 @@ A locksmith with only a security clearance will not necessarily understand fire 
 
 ![Balcony with blinds, screens and shutters (not Southport).](../../../assets/images/my-home/alterations/balcony-blinds-screens-shutters.jpeg)
 
-*Not Southport.*
+_Not Southport._
 
 If your unit's balcony faces west, have you thought about blinds, screens, or shutters to block the hot afternoon sun?
 
-*Details to come.*
+_Details to come._
 
 ### Automatic door opener
 

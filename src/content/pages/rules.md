@@ -19,13 +19,13 @@ These rules:
 - took effect 28 days later because the approval was a 'reduced quorum decision'
 - were registered with the Land Titles Office on 23 January 2023.
 
-They were a major rewrite renumbered to align with the Default Rules of the *Unit Titles (Management) Regulation 2011*. The rewrite added nine new rules drawn from Grady Strata's experience.
+They were a major rewrite renumbered to align with the Default Rules of the _Unit Titles (Management) Regulation 2011_. The rewrite added nine new rules drawn from Grady Strata's experience.
 
 See the [Explanatory memorandum](/downloads/explanatory-memorandum-for-rules-update-from-2022-agm-notice.pdf) for details.
 
 ### Notes on the current rules
 
-**Definitions apply to all rules.** The Definitions section applies to *all* our rules, not only the default rules as the heading might suggest.
+**Definitions apply to all rules.** The Definitions section applies to _all_ our rules, not only the default rules as the heading might suggest.
 
 **Numbering starts at '1' in each section.** This is an inefficient legacy from the Default Rules in the [Unit Titles (Management) Regulation 2011 (ACT)](https://www.legislation.act.gov.au/View/sl/2011-39/current/html/2011-39.html). Despite the inefficiency, consistency with the Default Rules is more important.
 

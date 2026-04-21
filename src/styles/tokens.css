@@ -5,25 +5,24 @@
   /* Palette (preserved from previous site) */
   --color-text: #696670;
   --color-text-muted: #677a85;
-  --color-bg: #ffffff;
+  --color-bg: #fff;
   --color-bg-soft: #ddedf7;
   --color-bg-sage: #e1e6d7;
   --color-accent: #00b2ff;
   --color-accent-ink: #006a99;
   --color-alert: #ce2029;
-  --color-rule: rgba(105, 102, 112, 0.15);
+  --color-rule: rgb(105 102 112 / 15%);
 
   /* Type */
-  --font-sans: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
-
+  --font-sans:
+    ui-sans-serif, -apple-system, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+  --font-display: "Fraunces", ui-serif, georgia, "Times New Roman", serif;
   --fs-300: clamp(0.875rem, 0.84rem + 0.18vw, 0.95rem);
   --fs-400: clamp(1rem, 0.95rem + 0.25vw, 1.1rem);
   --fs-500: clamp(1.15rem, 1.05rem + 0.5vw, 1.4rem);
   --fs-600: clamp(1.4rem, 1.2rem + 1vw, 1.9rem);
   --fs-700: clamp(1.8rem, 1.4rem + 2vw, 2.6rem);
   --fs-800: clamp(2.25rem, 1.6rem + 3.2vw, 3.6rem);
-
   --lh-tight: 1.15;
   --lh-body: 1.6;
 
@@ -41,9 +40,7 @@
   /* Radii & elevation */
   --radius-sm: 6px;
   --radius-lg: 16px;
-  --shadow-1:
-    0 1px 2px rgba(60, 70, 90, 0.06),
-    0 4px 16px rgba(60, 70, 90, 0.06);
+  --shadow-1: 0 1px 2px rgb(60 70 90 / 6%), 0 4px 16px rgb(60 70 90 / 6%);
 
   /* Layout */
   --container-prose: 70ch;

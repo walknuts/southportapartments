@@ -19,7 +19,7 @@ Above is Canberra's city centre nestled beside Lake Burley Griffin. We are situa
 
 ![Lake Tuggeranong](../../assets/images/about/lake-tuggeranong.jpeg)
 
-*Lake Tuggeranong*
+_Lake Tuggeranong_
 
 #### Best views?
 
@@ -27,7 +27,7 @@ Besides the lake above, the Tuggeranong Valley boasts fabulous views of the Brin
 
 ![Tuggeranong seen from the Wanniassa Hills Nature Reserve, with the Brindabella Range on the right](../../assets/images/about/tuggeranong-from-wanniassa-hills.jpg)
 
-*Tuggeranong seen from the Wanniassa Hills Nature Reserve. The Brindabella Range is on the right. Photo by Nick D, licensed under the Creative Commons Attribution-Share Alike 4.0 International license, from Wikipedia.*
+_Tuggeranong seen from the Wanniassa Hills Nature Reserve. The Brindabella Range is on the right. Photo by Nick D, licensed under the Creative Commons Attribution-Share Alike 4.0 International license, from Wikipedia._
 
 See our '[Contact Us](/contact)' page for our address.
 
@@ -48,25 +48,25 @@ Here's a few samples of the nature on your doorstep…
 
 ![Black swans on Lake Tuggeranong](../../assets/images/about/black-swans-on-lake-tuggeranong.jpg)
 
-*Black swans often visit Lake Tuggeranong.*
+_Black swans often visit Lake Tuggeranong._
 
 ![Creek-side track just metres from Southport](../../assets/images/about/creek-side-track.png)
 
-*Can you believe that this creek-side track is just metres from your door?*
+_Can you believe that this creek-side track is just metres from your door?_
 
 And then, when you want the scenery to have the aroma of coffee…
 
 ![Two Before Ten Cafe](../../assets/images/about/two-before-ten-cafe.jpeg)
 
-*Along with good coffee, the [Two Before Ten Cafe](https://www.twobeforeten.com.au/cafes/greenway/) serves tasty meals, specialising in their own locally-grown fresh vegetables.*
+_Along with good coffee, the [Two Before Ten Cafe](https://www.twobeforeten.com.au/cafes/greenway/) serves tasty meals, specialising in their own locally-grown fresh vegetables._
 
 ![Canberra Bar and Grill](../../assets/images/about/canberra-bar-and-grill.jpg)
 
-*[Canberra Bar & Grill](https://www.canberrabargrill.com.au) is a local favourite open all day from breakfast through dinner.*
+_[Canberra Bar & Grill](https://www.canberrabargrill.com.au) is a local favourite open all day from breakfast through dinner._
 
 ![Bunnings Hardware Cafe](../../assets/images/about/bunnings-hardware-cafe.jpeg)
 
-*Grab a 'sanger' with your spanner at the Bunnings Hardware Cafe. The playground next door (visible from the cafe) is great fun for the kids. On the weekend, there's also the chance to snatch a 'snag' in the carpark to support a local charity.*
+_Grab a 'sanger' with your spanner at the Bunnings Hardware Cafe. The playground next door (visible from the cafe) is great fun for the kids. On the weekend, there's also the chance to snatch a 'snag' in the carpark to support a local charity._
 
 At Southport, we also have our very own Vietnamese restaurant (see 'Shops' below).
 
@@ -85,11 +85,11 @@ Southport comprises two buildings:
 - Stage 1 is the quadrant facing the lake
 - Stage 2 is the tower on Anketell Street.\*
 
-\* *We're considering renaming the buildings more descriptively than the developer's project stages.*
+\* _We're considering renaming the buildings more descriptively than the developer's project stages._
 
 ![Aerial view of Southport Apartments showing Stage 1 and Stage 2](../../assets/images/about/aerial-view-southport.png)
 
-*Aerial view of Southport from Apple Maps. Up is North.*
+_Aerial view of Southport from Apple Maps. Up is North._
 
 ## Amenities
 
@@ -107,7 +107,7 @@ The pools are 1.2 metres deep, but with shallower ledges for little ones in the 
 
 ![Plunge pool, 25-metre lap pool, and waterfall](../../assets/images/about/pools.png)
 
-*Plunge pool and 25-metre lap pool, with waterfall.*
+_Plunge pool and 25-metre lap pool, with waterfall._
 
 ### Gym
 
@@ -123,7 +123,7 @@ Next to the gym is the sauna, a spacious and relaxing place to unwind and forget
 
 ![The sauna at Southport](../../assets/images/about/sauna.png)
 
-*The Sauna — recharge after a tough day. Finish off with a cold shower or a dip in the pool.*
+_The Sauna — recharge after a tough day. Finish off with a cold shower or a dip in the pool._
 
 ### The Platform
 
@@ -149,19 +149,19 @@ We have three commercial units on Anketell Street:
 
 ![Shopfronts on Anketell Street](../../assets/images/about/shops-anketell-street.jpg)
 
-*Near to far: O Bach Vietnamese, Spinzone Tuggeranong and Thai Bodhi Thai Massage.*
+_Near to far: O Bach Vietnamese, Spinzone Tuggeranong and Thai Bodhi Thai Massage._
 
 ![O Bach Vietnamese](../../assets/images/about/o-bach-vietnamese.png)
 
-*Enjoy O Bach's freshly made Bahn mi, rice paper rolls, and other Vietnamese treats.*
+_Enjoy O Bach's freshly made Bahn mi, rice paper rolls, and other Vietnamese treats._
 
 ![Spinzone Tuggeranong](../../assets/images/about/spinzone-tuggeranong.png)
 
-*Today's load too big for your machine? Leave it to this beast. Open 24/7.*
+_Today's load too big for your machine? Leave it to this beast. Open 24/7._
 
 ![Thai Bodhi Thai Massage](../../assets/images/about/thai-bodhi-thai-massage.jpg)
 
-*Go on, indulge yourself.*
+_Go on, indulge yourself._
 
 ## Accessibility
 
@@ -189,7 +189,7 @@ Then, we enjoy watching them return with groceries, medications, or takeaways. I
 
 ![An elderly resident returning from shopping and lunch with family](../../assets/images/about/elderly-resident-shopping.jpeg)
 
-*An elderly resident returning from shopping and lunch with family.*
+_An elderly resident returning from shopping and lunch with family._
 
 ## Environment
 
@@ -202,7 +202,7 @@ We thank GEOCON for:
 
 ![Buses pass our door](../../assets/images/about/buses-pass-our-door.jpeg)
 
-*Buses pass our door. You'll drive less.*
+_Buses pass our door. You'll drive less._
 
 Later, we've added:
 

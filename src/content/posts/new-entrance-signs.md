@@ -10,7 +10,7 @@ We'll soon have new signs over two of our entrances:
 
 ![Visualisation of the new sign at 35 Oakden Street](../../assets/images/news/new-entrance-signs/35-oakden-new-signs.jpeg)
 
-*Visualisations of the new signs, courtesy of Screenmakers.*
+_Visualisations of the new signs, courtesy of Screenmakers._
 
 ## Why new signs?
 
@@ -25,7 +25,7 @@ Visitors, including deliverers, complain about the last two.
 
 ![A current sign](../../assets/images/news/new-entrance-signs/current-sign.jpeg)
 
-*A current sign.*
+_A current sign._
 
 ## How will the new signs be better?
 
