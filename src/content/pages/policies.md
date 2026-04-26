@@ -459,7 +459,3 @@ Michael Grady replied:
 **What is the policy?** We should have workers compensation insurance as Grady recommends.
 
 **Status:** unapproved draft.
-
-## Disclaimer
-
-We do not warrant or admit liability for this website's correctness, completeness or suitability for your purpose. Please check before relying on it.

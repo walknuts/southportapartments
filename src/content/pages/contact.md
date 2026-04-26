@@ -2,7 +2,7 @@
 title: "Contact us"
 summary: "How to find Southport, who to contact for what, and the details for our Strata Manager, Building Manager, Executive Committee and webmaster."
 order: 7
-heroImage: "../../assets/images/contact/southport-map.jpg"
+heroImage: "../../assets/images/home/contact.jpg"
 ---
 
 We're here for you, so here's how to find us, including our strata and building managers.
@@ -88,8 +88,6 @@ The website will include a document if:
 
 - it is not on Grady's portal; or
 - it is, but we want it to be available to all residents, not just owners.
-
-For example, [our rules](/rules).
 
 ## Building Manager
 

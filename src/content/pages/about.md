@@ -1,8 +1,8 @@
 ---
-title: "Our property"
+title: "About"
 summary: "Why you'll love it here — prime Tuggeranong location, creative design, fabulous amenities, and genuine value."
 order: 1
-heroImage: "../../assets/images/about/tuggeranong-from-wanniassa-hills.jpg"
+heroImage: "../../assets/images/home/property.jpg"
 ---
 
 ## Location! Location! Location!

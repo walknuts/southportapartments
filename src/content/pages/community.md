@@ -2,6 +2,7 @@
 title: "My Community"
 summary: "Rules and courtesies that help us live well together --- from social events and shared facilities to visitors and levies."
 order: 4
+heroImage: "../../assets/images/home/community.jpg"
 ---
 
 ## Social
@@ -74,9 +75,9 @@ But the legislation demands more, which aligns with our own life experience.
 
 ### Owners Corporation Rules
 
-Owners can access the current Owners Corporation Rules from [Grady's portal](https://gradystrata.com.au/client-login/). Since they apply to everyone at Southport, [you can also view them here](/rules).
+Owners can access the current Owners Corporation Rules from [Grady's portal](https://gradystrata.com.au/client-login/).
 
-Our rules are approved by the owners corporation, registered with the ACT Land Titles Office, and legally [enforceable](/rules).
+Our rules are approved by the owners corporation, registered with the ACT Land Titles Office, and legally enforceable.
 
 Our [Blog](/news) will sometimes feature specific rules.
 
@@ -88,7 +89,7 @@ House Rules are often signs, like the following:
 
 ![A Southport House Rules sign](../../assets/images/community/house-rules-sign.jpg)
 
-We include more examples in the next section, [Courtesies](#courtesies).
+We include more examples in the next section, Courtesies.
 
 ## Courtesies
 
@@ -96,7 +97,7 @@ The following is guidance on courtesies to foster community.
 
 ### Pools
 
-Please see section 1.19 of the [Rules](/rules). Just three examples:
+Please see section 1.19 of the Rules. Just three examples:
 
 - mind the noise so you don't disturb others, especially when residents of nearby units could be sleeping --- although Rule 1.19(d) does not specify times, see the quiet hours below for guidance
 - consider others, especially children, with your language and behaviour --- Rule 1.19(i)
@@ -161,7 +162,7 @@ Is your unit's effect positive or negative?
 
 ### Carpark
 
-Please see section 1.14 of the [Rules](/rules). Just two examples:
+Please see section 1.14 of the Rules. Just two examples:
 
 - park in your own space --- Rule 1.14(a) --- and not another's without prior consent --- Rules 1.14(f) and (g)
 - find somewhere safer for you, your children or your pet to play --- Rule 1.14(i).
@@ -189,8 +190,6 @@ Please hand lost property to the Building Manager.
 If a visitor is part of _your_ community, we welcome them as part of _ours._
 
 Please help them to observe our rules and courtesies. The same goes for your short-stay accommodation guests.
-
-[See our current rules.](/rules)
 
 ## Levies
 

@@ -156,10 +156,6 @@ Do not store flammable materials or liquids in your storage cage.
 
 ### Lithium-ion batteries
 
-![Lithium-ion battery](../../assets/images/safety/lithium-ion-batteries.jpg)
-
-![Cordless drill](../../assets/images/safety/cordless-drill.jpg)
-
 ![Electric scooter](../../assets/images/safety/electric-scooter.jpg)
 
 Lithium-ion batteries require care, whether in your:
@@ -277,10 +273,6 @@ Two reasons for the 10 kph speed limit are:
 
 ![Child running out from behind a car](../../assets/images/safety/child-running-out.png)
 
-![Pedestrian sign](../../assets/images/safety/pedestrian-sign.jpeg)
-
-![10 kph speed limit sign](../../assets/images/safety/10-kph-sign.jpeg)
-
 ## On my balcony
 
 ![View from a Southport balcony](../../assets/images/safety/balcony-view.jpeg)
@@ -319,7 +311,3 @@ If you see a hazard we've overlooked, please report it to the Building Manager v
 [^1]: AS 4568 or 4663.
 
 [^2]: 'Lippage' is when the heights of the tiles at a joint are uneven because the top of the pedestal was not correctly shimmed to compensate for tiles of different thicknesses.
-
-## Disclaimer
-
-We do not warrant or admit liability for this website's correctness, completeness or suitability for your purpose. Please check before relying on it.

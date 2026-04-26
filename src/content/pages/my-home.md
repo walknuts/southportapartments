@@ -2,6 +2,7 @@
 title: "My home"
 summary: "Knowing and caring for your unit at Southport — boundaries, construction, warranty, finishes, appliances, and renting."
 order: 3
+heroImage: "../../assets/images/home/my-home.jpg"
 ---
 
 This page covers what makes up your unit, who is responsible for what, and how to look after the appliances and equipment that came with it. For changes to the structure or fittings, see [Alterations](/my-home/alterations).
@@ -78,7 +79,19 @@ GEOCON offered three interior colour schemes:
 
 ![Interior finishes brochure cover](../../assets/images/my-home/interior-finishes.jpg)
 
-Internal finishes schedules for all three schemes are held by the Building Manager.
+The internal finishes schedules below show the materials, colours and product details for each scheme.
+
+![Internal finishes schedule --- Scheme 1 "Boardwalk"](../../assets/images/my-home/interior-finishes-scheme-1-boardwalk.jpg)
+
+_Scheme 1 "Boardwalk"._
+
+![Internal finishes schedule --- Scheme 2 "Long Island"](../../assets/images/my-home/interior-finishes-scheme-2-long-island.jpg)
+
+_Scheme 2 "Long Island"._
+
+![Internal finishes schedule --- Scheme 3 "Hampton Park"](../../assets/images/my-home/interior-finishes-scheme-3-hampton-park.jpg)
+
+_Scheme 3 "Hampton Park"._
 
 ### Exterior finishes
 
@@ -99,7 +112,9 @@ Internal finishes schedules for all three schemes are held by the Building Manag
 
 Looking for instructions and tips on your unit's appliances and equipment? Check the brand and model of yours in case it isn't standard or original. See the [Safety](/safety) page for instructions on smoke alarms and other safety devices.
 
-### Air conditioner
+<details class="appliance">
+<summary>Air conditioner</summary>
+
 
 ![Mitsubishi reverse-cycle split system air conditioner](../../assets/images/my-home/air-conditioner.jpg)
 
@@ -114,7 +129,11 @@ To clean the filters, see Mitsubishi Electric's [filter cleaning guide and video
 
 **Tip:** to swing out the vertical vanes, pull the tab down and then out. Mitsubishi Electric also sells a cleaning kit (around $40) if your vacuum doesn't already have similar attachments.
 
-### Cooktop and oven
+</details>
+
+<details class="appliance">
+<summary>Cooktop and oven</summary>
+
 
 ![Blanco cooktop and oven](../../assets/images/my-home/cooktop-and-oven.jpg)
 
@@ -124,7 +143,11 @@ Manuals:
 - [Blanco Induction Cooktop BIC603S](https://manuals.appliancesonline.com.au/bic603s/bic603s_usermanual.pdf) (PDF) --- available as an option
 - [Blanco oven manual](/downloads/blanco-oven-manual.pdf) (PDF) --- 60 cm electric oven Model BOSE65XP.
 
-### Range hood
+</details>
+
+<details class="appliance">
+<summary>Range hood</summary>
+
 
 ![Blanco range hood](../../assets/images/my-home/range-hood.jpg)
 
@@ -140,7 +163,11 @@ You can then see the three parts that need cleaning or replacing: the charcoal f
 
 To remove the charcoal filter, turn it a quarter turn until its slot aligns with the retainer. Replacement is the reverse. Replacement charcoal filters are available online from several suppliers, including [Doug Smith Spares](https://www.dougsmithspares.com.au), the self-described "exclusive dealer of genuine Blanco appliance spare parts in Australia".
 
-### Dishwasher
+</details>
+
+<details class="appliance">
+<summary>Dishwasher</summary>
+
 
 ![Blanco dishwasher](../../assets/images/my-home/dishwasher.jpg)
 
@@ -148,7 +175,11 @@ To remove the charcoal filter, turn it a quarter turn until its slot aligns with
 
 **Tip:** wash the filter periodically. Turn the filter to remove it, clean it under cold water if dirty, then reinstall.
 
-### Washing machine
+</details>
+
+<details class="appliance">
+<summary>Washing machine</summary>
+
 
 ![Washing machine plumbing connections](../../assets/images/my-home/washing-machine.png)
 
@@ -156,13 +187,21 @@ New units did not come with a washing machine, so whichever type and model you h
 
 **Tip:** ask your installer to check how long it takes for hot water to reach your unit. A long delay isn't common at Southport, but a check could help them decide whether to connect your washing machine to the hot water supply.
 
-### Clothes dryer
+</details>
+
+<details class="appliance">
+<summary>Clothes dryer</summary>
+
 
 ![Euromaid clothes dryer](../../assets/images/my-home/clothes-dryer.jpg)
 
 [Euromaid Clothes Dryer DE6KG manual](https://www.euromaid.com/sites/g/files/emiian466/files/2021-03/DE6KG_MAN1.pdf) (PDF).
 
-### Exhaust fans
+</details>
+
+<details class="appliance">
+<summary>Exhaust fans</summary>
+
 
 ![Bathroom exhaust fan](../../assets/images/my-home/exhaust-fan.jpg)
 
@@ -180,7 +219,11 @@ If the suction struggles to hold even a single ply of tissue paper, the fan is n
 
 Get an electrician to replace a dead or dying fan before mould has a chance to develop.
 
-### Downlights
+</details>
+
+<details class="appliance">
+<summary>Downlights</summary>
+
 
 ![LED downlight removed from ceiling](../../assets/images/my-home/downlight.png)
 
@@ -201,19 +244,31 @@ You don't need an electrician to replace an LED downlight --- it simply plugs in
 
 **Warning:** these steps are only a guide. Follow the instructions that came with your new downlight, and call an electrician if you aren't confident.
 
-### Carpets
+</details>
+
+<details class="appliance">
+<summary>Carpets</summary>
+
 
 ![Original Godfrey Hirst carpet](../../assets/images/my-home/carpet.jpg)
 
 Your unit's original carpet was nylon with a cut pile twist made by Godfrey Hirst. Their website features [Carpet Care Guides](https://www.godfreyhirst.com/au/news/carpet-care-guides).
 
-### Door closer
+</details>
+
+<details class="appliance">
+<summary>Door closer</summary>
+
 
 ![Yale door closer above front door](../../assets/images/my-home/door-closer.png)
 
 Is your front door not closing properly --- slamming and disturbing your neighbours? Adjust the door closer using [these Yale instructions](https://www.yalehome.com/au/en/documents/technical-downloads/door-closers/y2400/Y2400%20-%20Standard%20Installation%20Template.pdf) (PDF). The only tools you'll need are a small ladder and a flat-bladed screwdriver.
 
-### Toilet
+</details>
+
+<details class="appliance">
+<summary>Toilet</summary>
+
 
 ![Villeroy & Boch toilet](../../assets/images/my-home/toilet.png)
 
@@ -237,7 +292,11 @@ Please let the [Building Manager](/contact) or [webmaster](/contact) know of you
 
 The alternative is to replace the seating washer with a [Kinetic 65mm Geberit Washer](https://www.bunnings.com.au/kinetic-65mm-geberit-washer_p4920267) from Bunnings.
 
-### Flyscreens
+</details>
+
+<details class="appliance">
+<summary>Flyscreens</summary>
+
 
 Bunnings offers a [YouTube video on removing and replacing an aluminium flyscreen](https://youtu.be/RcrBYOiMv4w?si=HfOAWxHjVr38x8xD), including its mesh.
 
@@ -245,17 +304,21 @@ Bunnings offers a [YouTube video on removing and replacing an aluminium flyscree
 
 If you're removing or replacing a flyscreen from a high window and it wouldn't fall safely onto your balcony, please take care to prevent injury to those below. Occasionally the Building Manager will ask you to remove your flyscreens to facilitate window cleaning --- if you need help with that, [contact the Building Manager](/contact).
 
-### Sliding door handles
+</details>
+
+<details class="appliance">
+<summary>Sliding door handles</summary>
+
 
 ![Fenestra D handle on a sliding door](../../assets/images/my-home/sliding-door-handle.jpg)
 
 Your unit's sliding door handles, known as "Fenestra D handles", were supplied by [Trend Windows and Doors](https://www.trendwindows.com.au) in Hume. The handles are easy to disassemble, and Trend can supply spare parts.
 
-![Sliding door handle showing locking pin positions 1 and 2](../../assets/images/my-home/sliding-door-handle-positions.png)
+</details>
 
-Some units have two opposing sliding doors where the handles meet in the middle, with one locking down and the other locking up. If so, you can unscrew the locking pin on one handle and move it from position 1 to position 2.
+<details class="appliance">
+<summary>Sliding screen doors</summary>
 
-### Sliding screen doors
 
 ![Sliding screen door at Southport](../../assets/images/my-home/sliding-screen-door.png)
 
@@ -265,7 +328,11 @@ Some units have two opposing sliding doors where the handles meet in the middle,
 
 To _raise_ the door, turn the adjusting screw _clockwise_ with a #2 Phillips head screwdriver. To _lower_ the door, turn it _anticlockwise_. Turn the screw fully anticlockwise to fully retract the roller if you need to remove or replace the door. There's also a [YouTube video on adjusting screen door rollers](https://www.youtube.com/watch?v=EozjITY3HYM).
 
-### Indoor floor and wall tiles
+</details>
+
+<details class="appliance">
+<summary>Indoor floor and wall tiles</summary>
+
 
 ![Indoor tiled bathroom floor](../../assets/images/my-home/indoor-tiles.jpg)
 
@@ -273,7 +340,11 @@ To _raise_ the door, turn the adjusting screw _clockwise_ with a #2 Phillips hea
 
 **Why do my tiles sound hollow or "drummy" when I walk on them?** This happens when a tile loses adhesion with its substrate. For several years Geocon fixed drummy tiles under warranty, but our warranties have expired and Geocon now considers it normal wear and tear.
 
-### Outdoor tiles
+</details>
+
+<details class="appliance">
+<summary>Outdoor tiles</summary>
+
 
 ![Outdoor balcony tiles](../../assets/images/my-home/outdoor-tiles.jpg)
 
@@ -303,7 +374,11 @@ If a tile isn't cracked but is unstable or uneven, follow steps 6 to 8.
 
 ![Impertek tile lifter tool](../../assets/images/my-home/tile-lifter.png)
 
-### External wall vents
+</details>
+
+<details class="appliance">
+<summary>External wall vents</summary>
+
 
 ![External wall vent](../../assets/images/my-home/external-wall-vent.jpg)
 
@@ -320,6 +395,8 @@ One solution is to make and fit simple brackets to retain the unscrewed side of 
 ![Brackets fitted to retain the wall vent housing](../../assets/images/my-home/wall-vent-bracket.jpg)
 
 The vent should then press snugly on both sides --- and can be painted to match the wall.
+
+</details>
 
 ## Renting your unit
 

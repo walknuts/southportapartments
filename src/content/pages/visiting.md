@@ -2,6 +2,7 @@
 title: "Visitors"
 summary: "How to find Southport, which entrance to use, where to park, and what deliverers, tradies and short-stay guests need to know."
 order: 2
+heroImage: "../../assets/images/home/visitors.jpg"
 ---
 
 Family, friends, deliverers, carers, tradies, guests and first-responders --- you're all welcome. This page helps you find us and then find your way around.

@@ -5,12 +5,6 @@ summary: "Personalise your home — Southport welcomes alterations and supports 
 
 ![A popular alteration is vinyl plank flooring (Godfrey Hirst photo, not from Southport).](../../../assets/images/my-home/alterations/vinyl-plank-flooring-hero.jpg)
 
-## On this page
-
-- [Alterations are welcome](#alterations-are-welcome)
-- [Approval](#approval)
-- [Popular alterations](#popular-alterations)
-
 ## Alterations are welcome
 
 ### Can I alter my unit?
@@ -170,15 +164,13 @@ _Details to come._
 
 ### Pet mesh
 
-![Pet mesh on a balcony.](../../../assets/images/my-home/alterations/pet-mesh.png)
+![Pet mesh on a balcony.](../../../assets/images/my-home/alterations/pet-mesh.jpg)
 
 _Details to come._
 
 ### Door peephole or new lock
 
 ![Smart door lock.](../../../assets/images/my-home/alterations/smart-door-lock.png)
-
-![Door peephole.](../../../assets/images/my-home/alterations/door-peephole.png)
 
 Your unit's door is a fire door, so its design must have a certain 'fire-resistance level' (FRL, as defined by AS 1905.1).
 
