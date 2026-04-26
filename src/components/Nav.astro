@@ -1,5 +1,7 @@
 ---
+import { Image } from "astro:assets";
 import { url } from "../lib/url";
+import wordmark from "../assets/images/southport-wordmark-nav.jpg";
 
 const items = [
   { path: "about", label: "About" },
@@ -7,7 +9,6 @@ const items = [
   { path: "my-home", label: "My Home" },
   { path: "community", label: "Community" },
   { path: "moving-in", label: "Moving In" },
-  { path: "safety", label: "Safety" },
   { path: "news", label: "News" },
   { path: "contact", label: "Contact" },
 ];
@@ -17,7 +18,9 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
 ---
 
 <nav class="nav" aria-label="Primary">
-  <a class="nav__brand" href={url("/")}>Southport Apartments</a>
+  <a class="nav__brand" href={url("/")} aria-label="Southport Apartments — home">
+    <Image src={wordmark} alt="Southport Apartments" widths={[200, 400]} sizes="200px" />
+  </a>
   <input id="nav-toggle" class="nav__toggle" type="checkbox" aria-label="Open menu" />
   <label for="nav-toggle" class="nav__burger" aria-hidden="true">
     <span></span><span></span><span></span>
@@ -60,11 +63,14 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
   }
 
   .nav__brand {
-    font-family: var(--font-display);
-    font-weight: 600;
-    color: inherit;
-    text-decoration: none;
-    font-size: var(--fs-500);
+    display: inline-flex;
+    align-items: center;
+    line-height: 0;
+  }
+
+  .nav__brand img {
+    height: 32px;
+    width: auto;
   }
 
   .nav__list {

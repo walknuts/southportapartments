@@ -2,6 +2,23 @@
 import { url } from "../lib/url";
 
 const year = new Date().getFullYear();
+
+const primary = [
+  { path: "about", label: "About" },
+  { path: "visiting", label: "Visiting" },
+  { path: "my-home", label: "My Home" },
+  { path: "community", label: "Community" },
+  { path: "moving-in", label: "Moving In" },
+  { path: "safety", label: "Safety" },
+  { path: "news", label: "News" },
+  { path: "contact", label: "Contact" },
+];
+
+const secondary = [
+  { path: "about/people", label: "Our People" },
+  { path: "about/gallery", label: "Gallery" },
+  { path: "my-home/alterations", label: "Alterations" },
+];
 ---
 
 <footer class="footer">
@@ -12,14 +29,15 @@ const year = new Date().getFullYear();
     </div>
     <nav aria-label="Footer">
       <ul>
-        <li><a href={url("about")}>About</a></li>
-        <li><a href={url("about/people")}>Our People</a></li>
-        <li><a href={url("about/gallery")}>Gallery</a></li>
-        <li><a href={url("rules")}>Rules</a></li>
-        <li><a href={url("policies")}>Policies</a></li>
-        <li><a href={url("contact")}>Contact</a></li>
+        {primary.map((it) => <li><a href={url(it.path)}>{it.label}</a></li>)}
+        {secondary.map((it) => <li><a href={url(it.path)}>{it.label}</a></li>)}
+        <li><span class="footer__pending">Rules (to come)</span></li>
       </ul>
     </nav>
+    <p class="footer__disclaimer">
+      We do not warrant or admit liability for this website's correctness, completeness or
+      suitability for your purpose. Please check before relying on it.
+    </p>
     <p class="footer__legal">
       &copy; {year} Southport Apartments. Content licensed
       <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
@@ -38,8 +56,14 @@ const year = new Date().getFullYear();
   .footer__inner {
     display: grid;
     gap: var(--space-5);
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: minmax(180px, 1fr) minmax(0, 2fr);
     align-items: start;
+  }
+
+  @media (width <= 720px) {
+    .footer__inner {
+      grid-template-columns: 1fr;
+    }
   }
 
   .footer__brand {
@@ -58,13 +82,19 @@ const year = new Date().getFullYear();
     padding: 0;
     margin: 0;
     display: grid;
-    gap: var(--space-2);
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: var(--space-2) var(--space-5);
   }
 
   .footer a {
     color: inherit;
   }
 
+  .footer__pending {
+    color: var(--color-text-muted);
+  }
+
+  .footer__disclaimer,
   .footer__legal {
     font-size: var(--fs-300);
     color: var(--color-text-muted);

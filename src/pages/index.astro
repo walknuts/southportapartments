@@ -11,15 +11,15 @@ import contactImg from "../assets/images/home/contact.jpg";
 import visitorsImg from "../assets/images/home/visitors.jpg";
 import myHomeImg from "../assets/images/home/my-home.jpg";
 import communityImg from "../assets/images/home/community.jpg";
-import movingImg from "../assets/images/home/moving-in.png";
+import movingImg from "../assets/images/home/moving-in.jpg";
 
 const tiles = [
-  { href: url("about"), label: "Our Property", image: propertyImg },
-  { href: url("contact"), label: "Contact", image: contactImg },
-  { href: url("visiting"), label: "Visitors", image: visitorsImg },
+  { href: url("about"), label: "About", image: propertyImg },
+  { href: url("visiting"), label: "Visiting", image: visitorsImg },
   { href: url("my-home"), label: "My Home", image: myHomeImg },
   { href: url("community"), label: "Community", image: communityImg },
   { href: url("moving-in"), label: "Moving In", image: movingImg },
+  { href: url("contact"), label: "Contact", image: contactImg },
 ];
 
 const recent = (await getPublishedPosts()).slice(0, 3);
@@ -117,7 +117,19 @@ const recent = (await getPublishedPosts()).slice(0, 3);
   .tiles__grid {
     display: grid;
     gap: var(--space-5);
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (width <= 720px) {
+    .tiles__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (width <= 480px) {
+    .tiles__grid {
+      grid-template-columns: 1fr;
+    }
   }
 
   .recent {
