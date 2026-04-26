@@ -115,7 +115,6 @@ Looking for instructions and tips on your unit's appliances and equipment? Check
 <details class="appliance">
 <summary>Air conditioner</summary>
 
-
 ![Mitsubishi reverse-cycle split system air conditioner](../../assets/images/my-home/air-conditioner.jpg)
 
 Your air conditioner is a reverse-cycle unit (it heats as well as cools) and a split system, with an evaporator inside your unit and a condenser on your balcony or courtyard.
@@ -134,7 +133,6 @@ To clean the filters, see Mitsubishi Electric's [filter cleaning guide and video
 <details class="appliance">
 <summary>Cooktop and oven</summary>
 
-
 ![Blanco cooktop and oven](../../assets/images/my-home/cooktop-and-oven.jpg)
 
 Manuals:
@@ -147,7 +145,6 @@ Manuals:
 
 <details class="appliance">
 <summary>Range hood</summary>
-
 
 ![Blanco range hood](../../assets/images/my-home/range-hood.jpg)
 
@@ -168,7 +165,6 @@ To remove the charcoal filter, turn it a quarter turn until its slot aligns with
 <details class="appliance">
 <summary>Dishwasher</summary>
 
-
 ![Blanco dishwasher](../../assets/images/my-home/dishwasher.jpg)
 
 [Blanco dishwasher manual](/downloads/blanco-dishwasher-manual.pdf) (PDF) --- Model BFD645X.
@@ -179,7 +175,6 @@ To remove the charcoal filter, turn it a quarter turn until its slot aligns with
 
 <details class="appliance">
 <summary>Washing machine</summary>
-
 
 ![Washing machine plumbing connections](../../assets/images/my-home/washing-machine.png)
 
@@ -192,7 +187,6 @@ New units did not come with a washing machine, so whichever type and model you h
 <details class="appliance">
 <summary>Clothes dryer</summary>
 
-
 ![Euromaid clothes dryer](../../assets/images/my-home/clothes-dryer.jpg)
 
 [Euromaid Clothes Dryer DE6KG manual](https://www.euromaid.com/sites/g/files/emiian466/files/2021-03/DE6KG_MAN1.pdf) (PDF).
@@ -201,7 +195,6 @@ New units did not come with a washing machine, so whichever type and model you h
 
 <details class="appliance">
 <summary>Exhaust fans</summary>
-
 
 ![Bathroom exhaust fan](../../assets/images/my-home/exhaust-fan.jpg)
 
@@ -223,7 +216,6 @@ Get an electrician to replace a dead or dying fan before mould has a chance to d
 
 <details class="appliance">
 <summary>Downlights</summary>
-
 
 ![LED downlight removed from ceiling](../../assets/images/my-home/downlight.png)
 
@@ -249,7 +241,6 @@ You don't need an electrician to replace an LED downlight --- it simply plugs in
 <details class="appliance">
 <summary>Carpets</summary>
 
-
 ![Original Godfrey Hirst carpet](../../assets/images/my-home/carpet.jpg)
 
 Your unit's original carpet was nylon with a cut pile twist made by Godfrey Hirst. Their website features [Carpet Care Guides](https://www.godfreyhirst.com/au/news/carpet-care-guides).
@@ -259,7 +250,6 @@ Your unit's original carpet was nylon with a cut pile twist made by Godfrey Hirs
 <details class="appliance">
 <summary>Door closer</summary>
 
-
 ![Yale door closer above front door](../../assets/images/my-home/door-closer.png)
 
 Is your front door not closing properly --- slamming and disturbing your neighbours? Adjust the door closer using [these Yale instructions](https://www.yalehome.com/au/en/documents/technical-downloads/door-closers/y2400/Y2400%20-%20Standard%20Installation%20Template.pdf) (PDF). The only tools you'll need are a small ladder and a flat-bladed screwdriver.
@@ -268,7 +258,6 @@ Is your front door not closing properly --- slamming and disturbing your neighbo
 
 <details class="appliance">
 <summary>Toilet</summary>
-
 
 ![Villeroy & Boch toilet](../../assets/images/my-home/toilet.png)
 
@@ -297,7 +286,6 @@ The alternative is to replace the seating washer with a [Kinetic 65mm Geberit Wa
 <details class="appliance">
 <summary>Flyscreens</summary>
 
-
 Bunnings offers a [YouTube video on removing and replacing an aluminium flyscreen](https://youtu.be/RcrBYOiMv4w?si=HfOAWxHjVr38x8xD), including its mesh.
 
 ![High flyscreen window above a balcony](../../assets/images/my-home/flyscreen-high-window.jpg)
@@ -309,7 +297,6 @@ If you're removing or replacing a flyscreen from a high window and it wouldn't f
 <details class="appliance">
 <summary>Sliding door handles</summary>
 
-
 ![Fenestra D handle on a sliding door](../../assets/images/my-home/sliding-door-handle.jpg)
 
 Your unit's sliding door handles, known as "Fenestra D handles", were supplied by [Trend Windows and Doors](https://www.trendwindows.com.au) in Hume. The handles are easy to disassemble, and Trend can supply spare parts.
@@ -318,7 +305,6 @@ Your unit's sliding door handles, known as "Fenestra D handles", were supplied b
 
 <details class="appliance">
 <summary>Sliding screen doors</summary>
-
 
 ![Sliding screen door at Southport](../../assets/images/my-home/sliding-screen-door.png)
 
@@ -333,7 +319,6 @@ To _raise_ the door, turn the adjusting screw _clockwise_ with a #2 Phillips hea
 <details class="appliance">
 <summary>Indoor floor and wall tiles</summary>
 
-
 ![Indoor tiled bathroom floor](../../assets/images/my-home/indoor-tiles.jpg)
 
 **How do I replace missing grout?** Try Dunlop 800 g Ready-To-Go Coloured Grout from Bunnings.
@@ -344,7 +329,6 @@ To _raise_ the door, turn the adjusting screw _clockwise_ with a #2 Phillips hea
 
 <details class="appliance">
 <summary>Outdoor tiles</summary>
-
 
 ![Outdoor balcony tiles](../../assets/images/my-home/outdoor-tiles.jpg)
 
@@ -378,7 +362,6 @@ If a tile isn't cracked but is unstable or uneven, follow steps 6 to 8.
 
 <details class="appliance">
 <summary>External wall vents</summary>
-
 
 ![External wall vent](../../assets/images/my-home/external-wall-vent.jpg)
 
