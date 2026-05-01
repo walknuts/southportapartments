@@ -16,17 +16,17 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
     "@fontsource/fraunces": "^5.2.9",
-    "astro": "^6.1.9",
+    "astro": "^6.2.1",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.8",
+    "@astrojs/check": "^0.9.9",
     "@types/hast": "^3.0.4",
     "astro-broken-links-checker": "^1.1.0",
-    "oxfmt": "^0.46.0",
+    "oxfmt": "^0.47.0",
     "pagefind": "^1.5.2",
     "postcss-html": "^1.8.1",
-    "stylelint": "^17.9.0",
+    "stylelint": "^17.9.1",
     "stylelint-config-standard": "^40.0.0",
     "typescript": "^5.9.3",
     "unist-util-visit": "^5.1.0"
