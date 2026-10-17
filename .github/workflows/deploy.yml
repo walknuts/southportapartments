@@ -20,11 +20,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - name: Build with Astro
-        uses: withastro/action@v6
+      - name: Upload holding page
+        uses: actions/upload-pages-artifact@v3
         with:
-          node-version: 24
-          package-manager: pnpm@latest
+          path: offline
 
   deploy:
     needs: build
