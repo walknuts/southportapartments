@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
 import astroBrokenLinksChecker from "astro-broken-links-checker";
 import sitemap from "@astrojs/sitemap";
+import { unified } from "@astrojs/markdown-remark";
 import type { Root } from "hast";
 
 const SITE = "https://walknuts.github.io";
@@ -54,12 +55,7 @@ const tagSourceParagraphs = () => (tree: Root) => {
     const text = collectText(only as { children?: unknown[]; value?: unknown });
     if (!SOURCE_PATTERNS.some((re) => re.test(text))) return;
     const props = (node.properties ??= {});
-    const existing =
-      typeof props.className === "string"
-        ? props.className.split(/\s+/)
-        : Array.isArray(props.className)
-          ? (props.className as string[])
-          : [];
+    const existing = Array.isArray(props.className) ? (props.className as string[]) : [];
     if (!existing.includes("is-source")) existing.push("is-source");
     props.className = existing;
   });
@@ -89,8 +85,11 @@ export default defineConfig({
   site: SITE,
   base: BASE,
   trailingSlash: "ignore",
+  compressHTML: true,
   markdown: {
-    rehypePlugins: [rewriteAbsoluteUrls, replaceTripleHyphens, tagSourceParagraphs],
+    processor: unified({
+      rehypePlugins: [rewriteAbsoluteUrls, replaceTripleHyphens, tagSourceParagraphs],
+    }),
   },
   integrations: [
     sitemap(),
