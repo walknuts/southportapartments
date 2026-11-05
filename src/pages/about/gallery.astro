@@ -13,7 +13,7 @@ const photos = Object.entries(galleryModules)
     src: mod.default,
     alt: path.split("/").pop()!.replace(/\.[^.]+$/, "").replace(/-/g, " "),
   }))
-  .sort((a, b) => a.alt.localeCompare(b.alt));
+  .toSorted((a, b) => a.alt.localeCompare(b.alt));
 ---
 
 <Base

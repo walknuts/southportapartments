@@ -61,15 +61,16 @@ const tagSourceParagraphs = () => (tree: Root) => {
   });
 };
 
+const prefix = (value: unknown) =>
+  typeof value === "string" && value.startsWith("/") && !value.startsWith("//")
+    ? BASE + value.slice(1)
+    : value;
+
 /**
  * Rewrites root-relative URLs in markdown-rendered HTML so that anchor and
  * image references like `/foo` resolve correctly under the configured base.
  */
 const rewriteAbsoluteUrls = () => (tree: Root) => {
-  const prefix = (value: unknown) =>
-    typeof value === "string" && value.startsWith("/") && !value.startsWith("//")
-      ? BASE + value.slice(1)
-      : value;
   visit(tree, "element", (node) => {
     if (node.tagName === "a" && node.properties?.href) {
       node.properties.href = prefix(node.properties.href) as typeof node.properties.href;

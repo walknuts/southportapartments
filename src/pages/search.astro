@@ -21,7 +21,7 @@ const uiJs = url("pagefind/pagefind-ui.js");
     window.addEventListener("DOMContentLoaded", () => {
       const s = document.createElement("script");
       s.src = uiJs;
-      s.onload = () => {
+      s.addEventListener("load", () => {
         const ui = new window.PagefindUI({
           element: "#search",
           bundlePath,
@@ -31,8 +31,8 @@ const uiJs = url("pagefind/pagefind-ui.js");
         });
         const q = new URLSearchParams(location.search).get("q");
         if (q) ui.triggerSearch(q);
-      };
-      s.onerror = () => {
+      });
+      s.addEventListener("error", () => {
         const host = document.getElementById("search");
         if (!host) return;
         host.textContent = "";
@@ -42,7 +42,7 @@ const uiJs = url("pagefind/pagefind-ui.js");
           "Search index not found. Run pnpm build and serve the site with pnpm preview to use search.";
         msg.appendChild(em);
         host.appendChild(msg);
-      };
+      });
       document.head.appendChild(s);
     });
   </script>
