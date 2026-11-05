@@ -1,18 +1,22 @@
 # Southport Apartments
 
 Static site for the Southport Apartments residential community on Lake
-Tuggeranong, Canberra. Built with Astro 6, deployed as static HTML.
+Tuggeranong, Canberra. Built with Astro 7, deployed as static HTML.
+
+The deploy workflow publishes only the `offline/` holding page (the site is
+deliberately retired for now; revert `05dc347` to restore it). CI's `check` job
+still typechecks, lints and builds the real site.
 
 ## Stack
 
-- Astro 6 (static output, no SSR)
+- Astro 7 (static output, no SSR)
 - pnpm, Node 26 (pinned via `mise.toml`)
 - TypeScript (strict, via `astro/tsconfigs/strict`)
 - `sharp` for production image optimisation
 - `astro-broken-links-checker` integration --- throws on broken internal links
   during `astro build`
 - Pagefind for static search (post-build indexer, `dist/pagefind/`)
-- `astro check` for typechecking; oxfmt for formatting; Stylelint
+- `astro check` for typechecking; oxfmt for formatting; oxlint; Stylelint
   (`stylelint-config-standard`) for CSS
 
 ## Layout
@@ -34,6 +38,7 @@ pnpm build         # astro build + Pagefind indexing (also runs link checker)
 pnpm preview       # serve the built site locally
 pnpm typecheck     # astro check
 pnpm format        # oxfmt (write); format:check for CI
+pnpm lint          # oxlint
 pnpm lint:css      # stylelint src/**/*.{css,astro}
 ```
 
