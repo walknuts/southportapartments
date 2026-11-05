@@ -6,7 +6,7 @@ Tuggeranong, Canberra. Built with Astro 6, deployed as static HTML.
 ## Stack
 
 - Astro 6 (static output, no SSR)
-- pnpm, Node 24 (pinned via `mise.toml`)
+- pnpm, Node 26 (pinned via `mise.toml`)
 - TypeScript (strict, via `astro/tsconfigs/strict`)
 - `sharp` for production image optimisation
 - `astro-broken-links-checker` integration --- throws on broken internal links
