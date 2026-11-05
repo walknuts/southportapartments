@@ -11,37 +11,34 @@ const galleryModules = import.meta.glob<{ default: ImageMetadata }>(
 const photos = Object.entries(galleryModules)
   .map(([path, mod]) => ({
     src: mod.default,
-    alt: path.split("/").pop()!.replace(/\.[^.]+$/, "").replace(/-/g, " "),
+    alt: path
+      .split("/")
+      .pop()!
+      .replace(/\.[^.]+$/, "")
+      .replace(/-/g, " "),
   }))
   .toSorted((a, b) => a.alt.localeCompare(b.alt));
 ---
 
-<Base
-  title="Gallery"
-  description="Photos of Southport Apartments and Lake Tuggeranong."
->
+<Base title="Gallery" description="Photos of Southport Apartments and Lake Tuggeranong.">
   <Hero />
   <article class="container gallery">
     <header class="gallery__header">
       <h1>Gallery</h1>
       <p class="gallery__lede">
-        Snapshots of the Southport lifestyle, from sunrise on Lake Tuggeranong
-        to the city lights reflected on its still water at night.
+        Snapshots of the Southport lifestyle, from sunrise on Lake Tuggeranong to the city lights
+        reflected on its still water at night.
       </p>
     </header>
     <ul class="gallery__grid">
-      {
-        photos.map((p) => (
-          <li>
-            <Image
-              src={p.src}
-              alt={p.alt}
-              widths={[400, 800, 1200]}
-              sizes="(min-width: 1100px) 33vw, (min-width: 720px) 50vw, 100vw"
-            />
-          </li>
-        ))
-      }
+      {photos.map((p) => <li>
+        <Image
+          src={p.src}
+          alt={p.alt}
+          widths={[400, 800, 1200]}
+          sizes="(min-width: 1100px) 33vw, (min-width: 720px) 50vw, 100vw"
+        />
+      </li>)}
     </ul>
   </article>
 </Base>

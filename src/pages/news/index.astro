@@ -11,29 +11,25 @@ const posts = await getPublishedPosts();
   <Hero />
   <article class="container container--prose news">
     <header><h1>News</h1></header>
-    {
-      posts.length === 0 ? (
-        <p>No posts yet.</p>
-      ) : (
-        <ul class="news__list">
-          {posts.map((p) => (
-            <li class="news__item">
-              <time datetime={p.data.date.toISOString()}>
-                {p.data.date.toLocaleDateString("en-AU", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
-              <h2>
-                <a href={url(`news/${p.id}`)}>{p.data.title}</a>
-              </h2>
-              <p>{p.data.summary}</p>
-            </li>
-          ))}
-        </ul>
-      )
-    }
+    {posts.length === 0 ? (
+      <p>No posts yet.</p>
+    ) : (
+      <ul class="news__list">
+        {posts.map((p) => <li class="news__item">
+          <time datetime={p.data.date.toISOString()}>
+            {p.data.date.toLocaleDateString("en-AU", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })}
+          </time>
+          <h2>
+            <a href={url(`news/${p.id}`)}>{p.data.title}</a>
+          </h2>
+          <p>{p.data.summary}</p>
+        </li>)}
+      </ul>
+    )}
   </article>
 </Base>
 

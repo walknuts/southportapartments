@@ -21,11 +21,7 @@ const date = entry.data.date.toLocaleDateString("en-AU", {
 });
 ---
 
-<Base
-  title={entry.data.title}
-  description={entry.data.summary}
-  ogImage={entry.data.heroImage}
->
+<Base title={entry.data.title} description={entry.data.summary} ogImage={entry.data.heroImage}>
   <Hero image={entry.data.heroImage} />
   <article class="container container--prose post">
     <header>

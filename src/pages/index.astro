@@ -38,44 +38,38 @@ const recent = (await getPublishedPosts()).slice(0, 3);
     />
     <div class="hero__overlay">
       <h1 class="hero__title">Your lifestyle by the lake</h1>
-      <p class="hero__sub">
-        A residential community on the shores of Lake Tuggeranong, Canberra.
-      </p>
+      <p class="hero__sub">A residential community on the shores of Lake Tuggeranong, Canberra.</p>
     </div>
   </section>
 
   <section class="tiles container">
     <h2 class="visually-hidden">Browse</h2>
     <div class="tiles__grid">
-      {tiles.map((t) => <HomeTile {...t} />)}
+      {tiles.map((t) => (
+        <HomeTile {...t} />
+      ))}
     </div>
   </section>
 
-  {
-    recent.length > 0 && (
-      <section class="recent container">
-        <header class="recent__header">
-          <h2>Latest news</h2>
-          <a href={url("news")}>All news &rarr;</a>
-        </header>
-        <ul class="recent__list">
-          {recent.map((p) => (
-            <li>
-              <time datetime={p.data.date.toISOString()}>
-                {p.data.date.toLocaleDateString("en-AU", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
-              <a href={url(`news/${p.id}`)}>{p.data.title}</a>
-              <p>{p.data.summary}</p>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )
-  }
+  {recent.length > 0 && <section class="recent container">
+    <header class="recent__header">
+      <h2>Latest news</h2>
+      <a href={url("news")}>All news &rarr;</a>
+    </header>
+    <ul class="recent__list">
+      {recent.map((p) => <li>
+        <time datetime={p.data.date.toISOString()}>
+          {p.data.date.toLocaleDateString("en-AU", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })}
+        </time>
+        <a href={url(`news/${p.id}`)}>{p.data.title}</a>
+        <p>{p.data.summary}</p>
+      </li>)}
+    </ul>
+  </section>}
 </Base>
 
 <style>

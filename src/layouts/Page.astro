@@ -9,7 +9,10 @@ interface Props {
 }
 const { title, summary, heroImage } = Astro.props;
 const dashed = (s?: string) =>
-  s?.replace(/ --- /g, " — ").replace(/---/g, "—").replace(/(\s)--(\s)/g, "$1–$2");
+  s
+    ?.replace(/ --- /g, " — ")
+    .replace(/---/g, "—")
+    .replace(/(\s)--(\s)/g, "$1–$2");
 const renderedSummary = dashed(summary);
 ---
 

@@ -26,15 +26,11 @@ const isCurrent = (path: string) => current === url(path).replace(/\/$/, "");
     <span></span><span></span><span></span>
   </label>
   <ul class="nav__list">
-    {
-      items.map((it) => (
-        <li>
-          <a href={url(it.path)} aria-current={isCurrent(it.path) ? "page" : undefined}>
-            {it.label}
-          </a>
-        </li>
-      ))
-    }
+    {items.map((it) => <li>
+      <a href={url(it.path)} aria-current={isCurrent(it.path) ? "page" : undefined}>
+        {it.label}
+      </a>
+    </li>)}
   </ul>
   <form class="nav__search" role="search" method="get" action={url("search")}>
     <label class="visually-hidden" for="nav-search">Search the site</label>
