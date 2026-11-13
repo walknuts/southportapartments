@@ -7,50 +7,15 @@ The deploy workflow publishes only the `offline/` holding page (the site is
 deliberately retired for now; revert `05dc347` to restore it). CI's `check` job
 still typechecks, lints and builds the real site.
 
-## Stack
-
-- Astro 7 (static output, no SSR)
-- pnpm, Node 26 (pinned via `mise.toml`)
-- TypeScript (strict, via `astro/tsconfigs/strict`)
-- `sharp` for production image optimisation
-- `astro-broken-links-checker` integration --- throws on broken internal links
-  during `astro build`
-- Pagefind for static search (post-build indexer, `dist/pagefind/`)
-- `astro check` for typechecking; oxfmt for formatting; oxlint; Stylelint
-  (`stylelint-config-standard`) for CSS
-
-## Layout
-
-- `src/content/pages/` --- main site pages, rendered by `src/pages/[...slug].astro`
-- `src/content/posts/` --- news posts, rendered by `src/pages/news/[slug].astro`
-- `src/content.config.ts` --- collection schemas (frontmatter contracts)
-- `src/components/` --- shared Astro components (Nav, Footer, HomeTile)
-- `src/layouts/` --- `Base.astro` (shell) and `Page.astro` (content wrapper)
-- `src/assets/images/` --- imagery processed by Astro's `<Image>` component
-- `src/styles/` --- `tokens.css` (design tokens), `global.css` (base styles)
-- `public/downloads/` --- PDFs and other static assets served as-is
-
-## Commands
-
-```sh
-pnpm dev           # local dev server
-pnpm build         # astro build + Pagefind indexing (also runs link checker)
-pnpm preview       # serve the built site locally
-pnpm typecheck     # astro check
-pnpm format        # oxfmt (write); format:check for CI
-pnpm lint          # oxlint
-pnpm lint:css      # stylelint src/**/*.{css,astro}
-```
+`pnpm build` runs Pagefind indexing after `astro build`, and the
+`astro-broken-links-checker` integration throws on broken internal links during
+it.
 
 ## Content notes
 
 - pages and posts are markdown with frontmatter validated by zod schemas in
   `content.config.ts` --- check the schema before adding new frontmatter fields
 - `draft: true` excludes an entry from `getStaticPaths` and from the build
-- internal links must resolve --- the broken-link checker fails the build
-  otherwise
-- prefer `<Image>` from `astro:assets` over raw `<img>` for anything in
-  `src/assets/images/` so sharp can optimise it
 
 ## Scraped reference site
 
